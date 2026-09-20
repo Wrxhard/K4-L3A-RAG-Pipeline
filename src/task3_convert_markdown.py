@@ -168,9 +168,7 @@ def convert_news_articles() -> None:
             f"**Crawled:** {str(data['date_crawled']).strip()}\n\n"
             "---\n\n"
         )
-        content = header + str(data["content_markdown"]).strip()
-        _write_non_empty_markdown(output_dir / f"{path.stem}.md", content)
-        print(f"Converted news article: {path.name}")
+    # raise NotImplementedError("Implement convert_news_articles")
 
 
 def convert_all() -> None:

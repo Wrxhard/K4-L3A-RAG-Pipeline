@@ -33,7 +33,7 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
             "retrieval_method": "dense",
         })
     return sorted(results, key=lambda item: item["score"], reverse=True)[:top_k]
-    raise NotImplementedError("Implement semantic_search")
+    # raise NotImplementedError("Implement semantic_search")
 
 
 if __name__ == "__main__":

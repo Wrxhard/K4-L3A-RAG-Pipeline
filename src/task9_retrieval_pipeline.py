@@ -46,7 +46,7 @@ def retrieve(
         except Exception:
             pass
     return hybrid[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    # raise NotImplementedError("Implement retrieve")
 
 
 if __name__ == "__main__":

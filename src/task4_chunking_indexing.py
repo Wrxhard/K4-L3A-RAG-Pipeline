@@ -11,7 +11,14 @@ Mỗi document/chunk phải theo docs/MODULE_CONTRACTS.md. ID cần ổn định
 chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung embed_texts().
 """
 
+import os
+
+from dotenv import load_dotenv
 from pathlib import Path
+
+load_dotenv()
+
+EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "sentence_transformers")
 
 
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
@@ -29,13 +36,23 @@ COLLECTION_NAME = "rag_documents"
 
 
 def embed_texts(texts: list[str]) -> list[list[float]]:
-    # TODO: Dispatch theo EMBEDDING_PROVIDER trong .env.
-    #
-    # Provider local gợi ý:
-    from sentence_transformers import SentenceTransformer
-    model = SentenceTransformer(EMBEDDING_MODEL)
-    return model.encode(texts).tolist()
-    raise NotImplementedError("Implement embed_texts")
+    """Dispatch theo EMBEDDING_PROVIDER trong .env."""
+    if EMBEDDING_PROVIDER == "openai":
+        import openai
+        client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        model = os.getenv("EMBEDDING_MODEL", "text-embedding-3-small")
+        response = client.embeddings.create(input=texts, model=model)
+        return [item.embedding for item in response.data]
+    elif EMBEDDING_PROVIDER == "gemini":
+        import google.generativeai as genai
+        genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+        model = os.getenv("EMBEDDING_MODEL", "models/text-embedding-004")
+        result = genai.embed_content(model=model, content=texts)
+        return result["embedding"] if isinstance(texts, str) else [r for r in result["embedding"]]
+    else:  # sentence_transformers (local)
+        from sentence_transformers import SentenceTransformer
+        model = SentenceTransformer(EMBEDDING_MODEL)
+        return model.encode(texts).tolist()
 
 
 def get_collection():
@@ -49,7 +66,6 @@ def get_collection():
         name=COLLECTION_NAME,
         metadata={"hnsw:space": "cosine"},
     )
-    raise NotImplementedError("Implement get_collection")
 
 
 def load_documents() -> list[dict]:
@@ -70,7 +86,7 @@ def load_documents() -> list[dict]:
             },
         })
     return documents
-    raise NotImplementedError("Implement load_documents")
+    # raise NotImplementedError("Implement load_documents")
 
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
@@ -92,7 +108,6 @@ def chunk_documents(documents: list[dict]) -> list[dict]:
                 "metadata": {**document["metadata"], "chunk_index": index},
             })
     return chunks
-    raise NotImplementedError("Implement chunk_documents")
 
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
@@ -103,7 +118,6 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     for chunk, vector in zip(chunks, vectors):
         chunk["embedding"] = vector
     return chunks
-    raise NotImplementedError("Implement embed_chunks")
 
 
 def index_to_vectorstore(chunks: list[dict]) -> None:
@@ -117,7 +131,7 @@ def index_to_vectorstore(chunks: list[dict]) -> None:
         embeddings=[chunk["embedding"] for chunk in chunks],
         metadatas=[chunk["metadata"] for chunk in chunks],
     )
-    raise NotImplementedError("Implement index_to_vectorstore")
+    # raise NotImplementedError("Implement index_to_vectorstore")
 
 
 def run_pipeline() -> None:

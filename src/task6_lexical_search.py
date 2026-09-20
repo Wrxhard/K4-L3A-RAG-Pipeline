@@ -10,13 +10,12 @@ CORPUS: list[dict] = []
 
 
 def build_bm25_index(corpus: list[dict]):
-    """Tạo BM25 index từ cùng corpus chunks của Task 4."""
-    # TODO: Tokenize và tạo BM25 index.
-    #
-    from rank_bm25 import BM25Okapi
+    """Tạo BM25Plus index từ cùng corpus chunks của Task 4."""
+    # Dùng BM25Plus thay BM25Okapi để tránh IDF âm khi term xuất hiện
+    # trong tất cả document (corpus nhỏ) → score luôn dương.
+    from rank_bm25 import BM25Plus
     tokenized = [item["content"].lower().split() for item in corpus]
-    return BM25Okapi(tokenized)
-    raise NotImplementedError("Implement build_bm25_index")
+    return BM25Plus(tokenized)
 
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
@@ -40,7 +39,7 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
             "retrieval_method": "bm25",
         })
     return results
-    raise NotImplementedError("Implement lexical_search")
+    # raise NotImplementedError("Implement lexical_search")
 
 
 if __name__ == "__main__":

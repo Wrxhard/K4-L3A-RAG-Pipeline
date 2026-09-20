@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Điểm chuẩn ngành Thương mại điện tử của NEU năm 2025 là bao nhiêu?",
+    "expected_answer": "Điểm chuẩn ngành Thương mại điện tử (mã 7340122) của NEU năm 2025 là 28.83 điểm, cao nhất trong tất cả các ngành.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "NEU năm 2026 có bao nhiêu phương thức xét tuyển?",
+    "expected_answer": "Năm 2026, Đại học Kinh tế Quốc dân triển khai bốn phương thức xét tuyển: tuyển thẳng theo quy chế Bộ GD&ĐT, tuyển thẳng và ưu tiên xét tuyển của NEU, xét tuyển kết hợp (chứng chỉ quốc tế + học bạ/điểm thi), và xét tuyển theo kết quả thi tốt nghiệp THPT.",
+    "expected_context": "Tuyển sinh NEU 2026 - phương thức xét tuyển | CNTT"
+  },
+  {
+    "question": "Mức học phí chương trình Chất lượng cao (CLC) tại NEU năm học 2025-2026 là bao nhiêu?",
+    "expected_answer": "Học phí chương trình Chất lượng cao (CLC) và Tiên tiến (TT) tại NEU năm học 2025-2026 là khoảng 45–65 triệu đồng/năm.",
+    "expected_context": "Học phí NEU 2025-2026: chuẩn, CLC, tiên tiến | Khoa CNTT NEU"
+  },
+  {
+    "question": "Thời hạn xác nhận nhập học trực tuyến của thí sinh trúng tuyển NEU 2025 là khi nào?",
+    "expected_answer": "Thí sinh trúng tuyển NEU 2025 cần xác nhận nhập học trực tuyến trên hệ thống của Bộ GD&ĐT trước 17h00 ngày 30/8/2025.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "Điểm chuẩn ngành Công nghệ thông tin của NEU năm 2025 là bao nhiêu?",
+    "expected_answer": "Điểm chuẩn ngành Công nghệ thông tin (mã 7480201) của NEU năm 2025 là 25.89 điểm.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "Tổng quỹ học bổng của NEU năm học 2025-2026 là bao nhiêu?",
+    "expected_answer": "Tổng quỹ học bổng của Đại học Kinh tế Quốc dân năm học 2025-2026 dự kiến khoảng 30 tỷ đồng, bao gồm học bổng khuyến khích học tập, học bổng tài trợ doanh nghiệp và hỗ trợ học phí theo chính sách.",
+    "expected_context": "Học phí NEU 2025-2026: chuẩn, CLC, tiên tiến | Khoa CNTT NEU"
+  },
+  {
+    "question": "NEU Open Day 2026 diễn ra vào ngày nào?",
+    "expected_answer": "NEU Open Day 2026 diễn ra vào ngày 10/5/2026, là ngày hội tư vấn lớn nhất năm tại trường, có sự tham gia của Khoa Công nghệ thông tin.",
+    "expected_context": "Tuyển sinh NEU 2026 - phương thức xét tuyển | CNTT"
+  },
+  {
+    "question": "Quy chế tuyển sinh 2026 của NEU được ban hành theo quyết định số mấy?",
+    "expected_answer": "Quy chế tuyển sinh chính thức năm 2026 của NEU được ban hành theo Quyết định số 503/QĐ-ĐHKTQD ngày 07/5/2026.",
+    "expected_context": "Tuyển sinh NEU 2026 - phương thức xét tuyển | CNTT"
+  },
+  {
+    "question": "Từ năm 2027 NEU mở rộng thêm những chứng chỉ nào trong xét tuyển kết hợp?",
+    "expected_answer": "Từ năm 2027, NEU mở rộng danh mục chứng chỉ chấp nhận trong xét tuyển kết hợp gồm: A-level, AP, SAT, Cambridge English Qualification, VSTEP, HSK/HSKK (Trung), JLPT (Nhật), TOPIK (Hàn).",
+    "expected_context": "Tuyển sinh NEU 2026 - phương thức xét tuyển | CNTT"
+  },
+  {
+    "question": "Điểm chuẩn ngành Logistics và Quản lý chuỗi cung ứng của NEU năm 2025?",
+    "expected_answer": "Điểm chuẩn ngành Logistics và Quản lý chuỗi cung ứng (mã 7510605) của NEU năm 2025 là 28.61 điểm.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "Học phí chương trình chính quy tiêu chuẩn của NEU năm học 2025-2026 là bao nhiêu?",
+    "expected_answer": "Học phí chương trình chính quy tiêu chuẩn của NEU năm học 2025-2026 là khoảng 18–25 triệu đồng/năm.",
+    "expected_context": "Học phí NEU 2025-2026: chuẩn, CLC, tiên tiến | Khoa CNTT NEU"
+  },
+  {
+    "question": "Thời gian nhập học trực tuyến trên hệ thống của Đại học Kinh tế Quốc dân cho tân sinh viên 2025 là khi nào?",
+    "expected_answer": "Thời gian nhập học trực tuyến trên hệ thống của Đại học Kinh tế Quốc dân tại nhaphoc.neu.edu.vn là từ 8h00 ngày 25/8/2025 đến 17h00 ngày 31/8/2025.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "Điểm chuẩn ngành An toàn thông tin của NEU năm 2025 là bao nhiêu?",
+    "expected_answer": "Điểm chuẩn ngành An toàn thông tin (mã 7480202) của NEU năm 2025 là 25.59 điểm.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "NEU tuyển sinh theo những phương thức tính điểm nào ngoài điểm THPT?",
+    "expected_answer": "Ngoài điểm THPT, NEU tuyển sinh và quy đổi điểm từ: điểm SAT, điểm TSA, điểm HSA và điểm APT theo bảng quy đổi chi tiết được công bố.",
+    "expected_context": "Điểm chuẩn NEU 2025 & hướng dẫn nhập học | CNTT"
+  },
+  {
+    "question": "Giai đoạn 2028–2030 NEU dự kiến triển khai kỳ tuyển sinh riêng như thế nào?",
+    "expected_answer": "Giai đoạn 2028–2030, NEU dự kiến triển khai kỳ tuyển sinh riêng với bài thi đánh giá năng lực, kết hợp thư giới thiệu, bài luận, phỏng vấn và đánh giá hoạt động ngoại khóa, đặc biệt áp dụng cho nhóm ngành định hướng tuyển chọn tinh hoa của Trường Công nghệ.",
+    "expected_context": "Tuyển sinh NEU 2026 - phương thức xét tuyển | CNTT"
+  }
+]

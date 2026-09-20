@@ -15,11 +15,11 @@ from bs4 import BeautifulSoup
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    "https://neu.edu.vn/tom-tat-thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026/",
-    "https://neu.edu.vn/phuong-thuc-tuyen-sinh-dai-hoc-tuyen-sinh-cao-dang-nganh-giao-duc-mam-non-nam-2025/",
+    "https://fit.neu.edu.vn/post/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2025",
+    "https://fit.neu.edu.vn/post/cac-nganh-tuyen-sinh-tuyen-sinh-cua-khoa-cong-nghe-thong-tin-nam-2025",
     "https://fit.neu.edu.vn/post/undergraduate-admissions-2026-neu-guide-for-parents-and-students",
     "https://fit.neu.edu.vn/post/admission-cutoff-scores-for-the-2025-regular-university-intake-of-neu",
-    "https://fit.neu.edu.vn/post/neu-tuition-fees-2025-2026",
+    "https://fit.neu.edu.vn/post/huong-dan-cong-cu-tra-cuu-chuong-trinh-dao-tao-neu-2026",
 ]
 
 

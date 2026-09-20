@@ -9,6 +9,33 @@ liệu và tên riêng. Output phải theo SearchResult và sort score giảm d�
 CORPUS: list[dict] = []
 
 
+def _load_corpus() -> None:
+    """Lazy-load corpus từ ChromaDB nếu chưa có data."""
+    global CORPUS
+    if CORPUS:
+        return
+    try:
+        from .task4_chunking_indexing import get_collection
+        collection = get_collection()
+        count = collection.count()
+        if count == 0:
+            return
+        result = collection.get(
+            limit=count,
+            include=["documents", "metadatas"],
+        )
+        for item_id, document, metadata in zip(
+            result["ids"], result["documents"], result["metadatas"]
+        ):
+            CORPUS.append({
+                "id": item_id,
+                "content": document,
+                "metadata": metadata,
+            })
+    except Exception:
+        pass  # Fallback: CORPUS rỗng, lexical_search trả []
+
+
 def build_bm25_index(corpus: list[dict]):
     """Tạo BM25Plus index từ cùng corpus chunks của Task 4."""
     # Dùng BM25Plus thay BM25Okapi để tránh IDF âm khi term xuất hiện
@@ -20,8 +47,9 @@ def build_bm25_index(corpus: list[dict]):
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     """Trả về BM25 SearchResult theo score giảm dần."""
-    # TODO: Tính BM25 scores và map lại corpus.
-    #
+    _load_corpus()
+    if not CORPUS:
+        return []
     import numpy as np
     bm25 = build_bm25_index(CORPUS)
     scores = bm25.get_scores(query.lower().split())
@@ -39,7 +67,6 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
             "retrieval_method": "bm25",
         })
     return results
-    # raise NotImplementedError("Implement lexical_search")
 
 
 if __name__ == "__main__":

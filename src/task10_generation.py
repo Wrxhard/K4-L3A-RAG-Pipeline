@@ -66,8 +66,6 @@ def call_llm(system_prompt: str, user_message: str) -> str:
         model = LLM_MODEL or "gpt-4o-mini"
         response = client.chat.completions.create(
             model=model,
-            temperature=TEMPERATURE,
-            top_p=TOP_P,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message},

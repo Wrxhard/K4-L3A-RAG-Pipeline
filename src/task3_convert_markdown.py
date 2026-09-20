@@ -134,6 +134,14 @@ def convert_legal_docs() -> None:
     )
     for path in source_paths:
         try:
+            target_path = output_dir / f"{path.stem}.md"
+            # Bản đã đối chiếu thủ công được giữ nguyên khi chạy lại converter.
+            # Nếu PDF nguồn thay đổi, cần duyệt lại Markdown và bỏ marker này.
+            if target_path.is_file() and target_path.read_text(
+                encoding="utf-8"
+            ).startswith("<!-- OCR_REVIEWED -->"):
+                print(f"Kept reviewed OCR document: {path.name}")
+                continue
             result = converter.convert(str(path))
             text_content = getattr(result, "text_content", "")
             # MarkItDown không OCR PDF scan, nên dùng Tesseract khi không có text layer.
@@ -168,7 +176,9 @@ def convert_news_articles() -> None:
             f"**Crawled:** {str(data['date_crawled']).strip()}\n\n"
             "---\n\n"
         )
-    # raise NotImplementedError("Implement convert_news_articles")
+        content = header + str(data["content_markdown"]).strip()
+        _write_non_empty_markdown(output_dir / f"{path.stem}.md", content)
+        print(f"Converted news article: {path.name}")
 
 
 def convert_all() -> None:

@@ -15,11 +15,11 @@ from bs4 import BeautifulSoup
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    "https://fit.neu.edu.vn/post/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2025",
-    "https://fit.neu.edu.vn/post/cac-nganh-tuyen-sinh-tuyen-sinh-cua-khoa-cong-nghe-thong-tin-nam-2025",
-    "https://fit.neu.edu.vn/post/undergraduate-admissions-2026-neu-guide-for-parents-and-students",
-    "https://fit.neu.edu.vn/post/admission-cutoff-scores-for-the-2025-regular-university-intake-of-neu",
-    "https://fit.neu.edu.vn/post/huong-dan-cong-cu-tra-cuu-chuong-trinh-dao-tao-neu-2026",
+    "https://neu.edu.vn/thong-bao-ve-nguong-dam-bao-chat-luong-dau-vao-va-quy-doi-tuong-duong-diem-trung-tuyen-giua-cac-phuong-thuc-xet-tuyen-dai-hoc-chinh-quy-nam-2026/",
+    "https://neu.edu.vn/thong-bao-ve-viec-huong-dan-thi-sinh-dang-ky-xet-tuyen-vao-dai-hoc-chinh-quy-nam-2026-cua-dh-ktqd-va-dang-ky-nguyen-vong-tren-he-thong-chung-cua-bo-gddt/",
+    "https://neu.edu.vn/thong-bao-ve-ho-so-xet-tuyen-ket-hop-vao-dai-hoc-chinh-quy-nam-2026-cua-dh-ktqd-va-dang-ky-nguyen-vong-tren-he-thong-chung-cua-bo-gddt/",
+    "https://neu.edu.vn/thong-bao-ve-viec-gia-han-thoi-gian-dang-ky-ho-so-xet-tuyen-ket-hop-va-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dai-hoc-chinh-quy-nam-2026/",
+    "https://neu.edu.vn/thong-bao-ve-viec-ban-hanh-va-cong-bo-sach-gioi-thieu-cac-nganh-chuong-trinh-dao-tao-dai-hoc-chinh-quy-tuyen-sinh-nam-2026-cua-dai-hoc-kinh-te-quoc-dan/",
 ]
 
 

@@ -1,1548 +1,1379 @@
-BO GIAO Dl)C VA DAO TAO
-D~I HQC KINH TE QUOC DAN
+<!-- OCR_REVIEWED -->
+## Trang 1
 
-C()NG HOA XA H()I CHU NGHiA vn::T NAM
-D(k l~p - T\f do  - H~nh phuc
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
-S5: 5 Oo /QD-DHKTQD
+ĐẠI HỌC KINH TẾ QUỐC DÂN Độc lập - Tự do - Hạnh phúc
+Số: 503/QĐ-ĐHKTQD
+Hà Nội, ngày 07 tháng 5 năm 2026
+QUYẾT ĐỊNH
 
-Ha N(h,  ngay  O }thcing  5  nam 2026
+Về việc Ban hành Quy chế tuyển sinh đại học của Đại học Kinh tế Quốc dân
 
-QUYETDJNH
-V~ vi~c Ban hanh Quy ch~ tuy~n sinh d~i hQc  cua D~i hQc  Kinh t~  Qu6c dan
+GIÁM ĐÓC ĐẠI HỌC KINH TẾ QUỐC DÂN
 
-GIAM DOC D~ HQC KINH TE QUOC DAN
+Căn cứ Luật Giáo dục đại học ngày 10/12/2025;
 
-Can cu Luq.t Giao d11,c  dgi h9c ngay 10/12/2025;
+Căn cứ Quyết định số 657/QĐ-BGDĐT ngày 12/3/2026 của Bộ trưởng Bộ Giáo dục
+và Đào tạo phê duyệt Đề án tự chủ về thực hiện nhiệm vụ, tổ chức bộ máy, nhân sự và tài
+chính của Đại học Kinh tế Quốc dân;
 
-Can  cu Quyit dfnh s6 657/QD-BGDDT ngay 12/3/2026 cua B9 tru(mg B9 Giao d11,c
+Căn cứ Nghị quyết số 00/NQ-ĐHKTQD ngày 09/5/2026 của Hội đồng Đại học ban
+hành Quy chế Tổ chức và Hoạt động của Đại học Kinh tế Quốc dân;
 
-va Dao tgo phe duyft Di an tic chit vJ thvc hifn nhifm v11,,  t6 chuc b9  may,  nhan sic va tai
-chinh cua Dgi h9c Kinh ti Qu6c dan;
+Căn cứ Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo
+dục và Đào tạo ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành
+Giáo dục mầm non trình độ cao đẳng;
 
-Can  cir Nght quyit s6 09/NQ-DHKTQD ngay 09/5/2026 cua H9i d6ng Dt;zi  h9c ban
+Theo đề nghị của Trưởng phòng Quản lý đào tạo, Trưởng khoa Đại học Tại chức và
+Giám đốc Trung tâm đào tạo từ xa,
+QUYẾT ĐỊNH:
 
-hanh Quy chi T6 chuc va Hogt d9ng cua Dt;zi h9c Kinh ti Qudc dan,·
+Điều 1. Ban hành kèm theo Quyết định này Quy chế tuyển sinh đại học của Đại học
+Kinh tế Quốc dân.
 
-Can  cu Thong tic s6 06/2026/TT-BGDfJT ngay 15/02/2026 cua B9 tru(mg B<5  Giao
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 715/QĐ-
+ĐHKTQD ngày 03 tháng 6 năm 2025 ban hành Quy chế tuyển sinh đại học của Giám đốc
+Đại học Kinh tế Quốc dân.
 
-d7!,c  va Dao tr;w  ban hanh Quy chi tuy€n  sinh cac nganh dao tgo trinh d9 dgi h9c va nganh
+Điều 3. Trưởng Phòng Quản lý đào tạo, Trưởng khoa Đại học Tại chức, Giám đốc
+Trung tâm đào tạo từ xa và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành
 
-Giao d7!,C  mcim  non trinh d9  cao aling,·
+Quyết định này. YE7 z
+# ô„ "kem
 
-Theo aJ nghi cua Truong phong Quan ly dao tgo,  Truong khoa fJgi h9c Tt;zi  chuc va
+Nơi nhận:
 
-Giam ddc  Trung tam dew  tgo tu: xa,
+- Đảng ủy (để b/c);
 
-QUYETDJNH:
+- Như Điều 3 (để t/h);
 
-Di~u 1. Ban hanh kem theo Quy€t  dinh nay Quy ch€  tuy€n  sinh d<;ti  h9c cua D<;ti  h9c
+- P.TT (để đăng Cổng TTĐT);
+-Lưu: VT, QLĐT.
 
-Kinh t€  Qu6c dan.
+## Trang 2
 
-Di~u 2. Quy€t  dinh nay c6 hi~u h,rc k€  tir ngay ky va thay th€  Quy€t  dinh s6 715/QD
 
-DHKTQD ngay 03  thang 6 nam 2025  ban hanh Quy ch€  tuy€n  sinh d<;ti  h9c cua Giam d6c
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ĐẠI HỌC KINH TẾ QUỐC DÂN Độc lập - Tự do - Hạnh phúc
 
-D<;ti  h9c Kinh t~ Qu6c dan.
+QUY CHẾ TUYỂN SINH ĐẠI HỌC
+(Ban hành kèm theo Quyết định số 503/QĐ-ĐHKTQD ngày 07 tháng 5 năm 2026
 
-Di~u 3.  Truong Phong Quan ly  dao t<;10,  Truong khoa D<;ti  h9c T<;ti  chfrc,  Giam d6c
+của Giám đốc Đại học Kinh tế Quốc dân)
 
-Trung tam  dao  t<;to  tu xa va cac  don vi,  ca nhan c6  lien quan  chiu trach nhi~m thi  hanh
+Chương I
+QUY ĐỊNH CHUNG
 
-Quy~t dinh nay.
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
-_c-:;
+1. Quy chế tuyển sinh các ngành đào tạo trình độ đại học (sau đây gọi là Quy chế)
+quy định nguồn tuyển; chính sách ưu tiên; ngưỡng bảo đảm chất lượng đầu vào; phương
+thức tuyển sinh; quy trình, nguyên tắc và yêu cầu trong tuyển sinh; đăng ký xét tuyển, xét
+tuyến và xét tuyển bổ sung: công nhận tuyển, xác nhận nhập học, bảo lưu kết quả trúng
+tuyển; quyền hạn và trách nhiệm của các bên liên quan trong công tác tuyển sinh trình độ
+đại học đối với các hình thức đào tạo của Đại học.
 
-.. ,,_.--
-to;. / ......--
+2. Quy chế này áp dụng đối các tổ chức, cá nhân có liên quan đến công tác tuyển
+sinh trình độ đại học tại Đại học Kinh tế Quốc dân (sau đây gọi tắt là Đại học).
 
-1
+Điều 2. Giải thích từ ngữ
 
-NO'i nh~n:
-- Dang uy ( dS  b/c );
-- Nhu Di Su 3 ( dS t/h);
-- P.TT (dS dang C6ng TTDT);
-- Luu: VT, QLDT.
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
 
-BO GIAO Dl)C VA BAO TAO
-D~I HQC KINH TE QUOC DAN
+1. Phạm vi tuyển sinh là các chương trình, ngành, nhóm ngành (sau đây gọi chung \
+là chương trình đào tạo) và hình thức đào tạo được tổ chức tuyển sinh trong một đợt hoặc
+theo một phương thức tuyển sinh nhất định.
 
-C<)NG HOA XA H<)I CHU NGHiA VItT NAM
-D{>c  l~p - Tl_f do - H;mh phuc
+2. Công Thông tin tuyển sinh của Bộ Giáo dục và Đào tạo (GDĐT) là giao diện trang
+điện tử (website) của Hệ thống hỗ trợ tuyển sinh chung: là một phần của cơ sở dữ liệu
+ngành về giáo dục đại học.
 
-QUY CHE TUYEN SINH D~I HQC
+3. Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT là hệ thống phần mềm hỗ trợ
+đăng ký nguyện vọng xét tuyển, trao đổi dữ liệu xét tuyển, xử lý nguyện vọng và quản lý
+dữ liệu trúng tuyển, nhập học của Đại học.
 
-(Ban  hanh kem  theo Quyit dfnh s6 503/QIJ-IJHKTQD ngay 0 }thcing 5 nam 2026
-cita Gicim  d6c IJgi h9c Kinh ti Qu6c dan)
+4. Mã trường trong tuyển sinh là một mã quy ước gồm 03 ký tự chữ hoặc số thống
+nhất toàn quốc dùng để định danh tuyển sinh Đại học; phân hiệu hoặc đơn vị đào tạo
+thuộc, trực thuộc Đại học có bộ máy quản lý được lập mã tuyển sinh riêng.
 
-Chiro-ng I
+5. Mã xét tuyển là một mã quy ước định danh của một chương trình (hoặc một ngành
+hoặc một nhóm ngành hoặc lĩnh vực) sử dụng thống nhất trong Đại học. Mã xét tuyển do
+Đại học tự quy ước và tối đa không quá 09 ký tự bao gồm ký tự số và ký tự chữ.
 
-QUY D:JNH  CHUNG
+## Trang 3
 
-Di~u  1.  Ph~m vi di~u  chinh va dBi ttrQ'Ilg  ap  d1_mg
+l—
 
-1.  Quy chS tuy€n  sinh cac nganh dao t1:lo  trinh d(>  d1:1-i  h9c (sau day g9i la Quy chS)
-quy  dµih  ngu6n tuy6n;  chinh sach uu tien;  nguong bao dam chit luqng d§.u vao; phuong
-thuc tuy€n  sinh; quy trinh, nguyen tic va yeu cllu trong tuy6n sinh; dang ky xet tuy€n,  xet
+6. Kỳ thi tốt nghiệp trung học phổ thông là kỳ thì được tổ chức theo Quy chế thi tốt
+nghiệp trung học phổ thông (THPT) hằng năm.
 
-tuy€n  va xet tuy€n  b6 sung; cong nh~n tuy€n,  xac nh~n nh~p h9c, bao luu kSt qua trung
-tuy€n;  quy~n h1:ln va trach nhi~m cua cac ben lien quan trong cong tac tuy6n sinh trinh d(>
-d1:1-i  h9c d6i v&i cac hinh thfrc dao t1:lo  cua D1:1-i  h9c.
+7. Kỳ thi tuyển sinh là kỳ thi được tổ chức gắn với quy trình xét tuyển, lấy kết quả
+thi làm căn cứ duy nhất hoặc kết hợp với các tiêu chí khác để xét tuyển.
 
-2.  Quy  chS  nay  ap  d1,mg  d6i  cac t6  chuc,  ca nhan c6  lien quan  dSn  cong tac tuy~n
+8. Kỳ thi độc lập là kỳ thì được thiết kế và tổ chức độc lập với quy trình xét tuyển,
+lầy kết quả thi làm căn cứ xét tuyển độc lập hoặc xét tuyển kết hợp hoặc sử dụng làm điều
+kiện để xét tuyển.
 
-sinh trinh d(>  d1:li  h9c t1:li  D1:1-i  h9c Kinh tS  Qu6c dan (sau day g9i tit la D?i h9c).
+9, Kỳ thi bồ trợ là kỳ thi được tổ chức bổ sung cho phương thức tuyển sinh (thi năng
+khiếu, thi tài năng, phỏng vấn) để lấy kết quả làm một căn cứ hoặc một tiêu chí phục vụ
+xét tuyển; có thể tổ chức theo hình thức thi trực tiếp hoặc trực tuyến; Đại học tổ chức kỳ
+thi quy định quy trình tổ chức thi, đề thi, quy chế thi, đề án tổ chức thi và các điều kiện
+khác.
 
-Di~u 2.  Giai thich tir ngfr
+10. 7”; trực tiếp là hình thức tổ chức thi có người coi thi trực tiếp tại địa điểm thi;
+thí sinh làm bài trên giấy hoặc trên máy tính, thiết bị nối mạng hoặc trả lời phỏng vấn
+trước hội đồng.
 
-Trang Quy chS nay, cac tu ngu du6i day duqc hi6u nhu sau:
+11. Thi trực tuyến là hình thức tổ chức thi có người coi thi trực tuyến và giám sát
+bằng công nghệ: thí sinh làm bài trên máy tính, thiết bị nối mạng hoặc trả lời phóng vấn
+qua mạng.
 
-'l
+12. Phương thức tuyển sinh là việc Đại học sử dụng độc lập hoặc kết hợp của các
+kết quả sau đây: kết quả học tập cấp THPT, điểm thi tốt nghiệp THPT, kết quả kỳ thi độc
+lập, kết quả kỳ thi bổ trợ, chứng chỉ quốc tế, chứng chỉ ngoại ngữ dùng đề thay thế điểm
+môn ngoại ngữ, để xét tuyển thí sinh vào một chương trình đào tạo (Ngoài ra, có thể có
+sử dụng kết quả học tập bậc trung cấp, cao đẳng, đại học với các hình thức đào tạo: Đại
+học VLVH, Đại học từ xa, Liên thông Đại học).
 
-1. Phgm vi tuy€n  sinh la cac chuong trinh, nganh,  nh6m nganh (sau day g9i  chung
-la chuong trinh dao t1:lo)  va hinh thfrc dao t1:lo  duqc t6 chfrc tuy6n sinh trong m9t dqt ho~c
-theo m9t phuang thfrc tuy6n sinh nhit dinh.
+13. Ouy đổi tương đương là việc quy đỗi ngưỡng bảo đảm chất lượng đầu vào, điểm
+trúng tuyển giữa các phương thức tuyển sinh, tổ hợp xét tuyển của một mã xét tuyển theo
+một quy tắc do Đại học quy định, bảo đảm tương đương về mức độ đáp ứng yêu cầu đầu
+vào của chương trình đào tạo tương ứng (sau đây gọi là đồ lệch điểm).
 
-2. C6ng Thong tin tuyin sinh cua Be) Giao dvc va Dao tc:10  ( GDDT) la giao di~n trang
-di~n  tu (website)  cua H~  th6ng h6 trq tuy€n  sinh chung;  la m9t phlln  cua ca sa  du li~u
-nganh v~ giao dvc d1:li  h9c.
+14. Tiêu chí đánh giá là việc sử dụng kết quả thi, kiểm tra để đánh giá năng lực của
+thí sinh nhằm phân loại thí sinh theo mức độ đáp ứng yêu cầu đầu vào của chương trình
+đào tạo.
 
-3. H?  th6ng h6 tr()' tuyin sinh  chung cua BQ  GDDT la h~  th6ng phlln m~m  h6 trq
-trao d5i du li~u xet tuy€n,  xu ly nguy~n v9ng va quan ly
+15. Tiêu chí xét tuyển là những tiêu chí được dùng để xác định điều kiện trúng tuyển
+của thí sinh dựa trên kết quả học tập, kết quả thi hoặc cả kết quả học tập và kết quả thi và
+các tiêu chí đánh giá khác; được quy thành điểm số để xét tuyển (điểm xét tuyển) trong
+đó đã bao gồm điểm ưu tiên, điểm cộng (nếu có).
 
-dang ky nguy~n v9ng xet tuy€n,
-du li~u trung tuy€n,  nh~p h9c cua D1:li  h9c.
+16. Trọng số tính điểm xét của 01 môn trong 01 tổ hợp xét tuyển là phần đóng góp
+của môn đó trong tổ hợp xét tuyển. Tổ hợp có 03 môn (không nhân hệ số) thì trọng số
+tính điểm xét của 01 môn bất kỳ trong tổ hợp xét tuyển là 1/3.
 
-4. Mil truimg trong tuy€n  sinh la m9t ma quy  u&c  g6m 03  ky n,r  chfr ho~c s6 th6ng
-nh~t  toan  qu6c  dung  d6  dinh  danh tuy€n  sinh  D1:1-i  h9c;  phan hi~u  ho?c  dan vi  dao  t~o
-thu9c, tf\l'c thu9c 81:li h9c c6 be)  may quan ly  duqc l~p ma tuy€n  sinh rieng.
+xS_
 
-5. Mil xet tuyin la m9t ma quy u&c dinh danh cua m9t chuang trinh (ho?c mQt nganh
-ho~c m9t nh6m nganh ho?c finh vi,rc)  su dvng th6ng nh~t trong D1:li h9c. Ma xet tuy€n  do
-D1:1-i  h9c tv quy u&c va t6i da khong qua 09  ky tv bao g6m ky n,r  s6 va ky n,r  chfr.
+._
 
-2
+## Trang 4
 
-6. Ky thi t6t nghi¢p trung h9c ph6 thong la ky thi duqc t6 chuc theo Quy ch~ thi t6t
+3 KH
 
-nghi?p trung h9c ph6 thong (THPT) hing nam.
+17. Dự tuyển là việc một thí sinh tham dự quy trình tuyển sinh vào chương trình đào
+tạo của một Đại học, thông qua việc đăng ký nguyện vọng xét tuyển trên Hệ thống hỗ trợ
+tuyển sinh chung và đăng ký dự thi, đăng ký xét tuyển theo quy định của Đại học (nếu
+có).
 
-7.  Ky thi tuyin sinh la ky thi  duqc t6  chuc giln v6i quy trinh xet tuy€n,  1§.y  k€t  qua
+18. Ngưỡng bảo đảm chất lượng đầu vào (gọi tắt là ngưỡng đầu vào) là yêu cầu tối
+thiểu về năng lực học tập thể hiện ở kết quả học tập, kết quả thi, đánh giá để thí sinh có
+khả năng theo học và hoàn thành chương trình đào tạo.
 
-thi lam can cu duy nh§.t ho?c k€t  hqp v6i cac tieu chi khac d€  xet tuy€n.
+19. Điểm ưu tiên là mức điểm thí sinh được hưởng theo khu vực, đối tượng ưu tiên
+được quy định tại Quy chế này.
 
-8.  Ky thi a9c lq.p  la ky thi duqc thi€t  k€  va t6 chuc d9c  l~p v6i quy trinh xet tuy€n ,
-1§.y k€t  qua thi lam can CU' xet tuy€n  d9c l~p hO?C xet tuy€n  k€t  hqp ho?C SU d1,1ng lam di€u
-ki?n dS  xet tuy€n.
+20. Điểm cộng do Đại học xây dựng và công bố theo các tiêu chí thành tích phù hợp
+với đầu vào chương trình đào tạo bao gồm:
 
-9. Ky thi b6 tr9' la ky thi duqc t6 chuc b6 sung cho phuong thuc tuy€n  sinh (thi nang
-khi€u,
-thi tai nang, ph6ng v§.n)  d€  15.y  k€t  qua lam m9t can cu ho?c m('>t  tieu chi phl,lc Vl.l
-xet tuy€n;  c6 th€  t6  chuc theo hinh thuc thi tn,rc ti€p  ho~c tn,rc tuy€n;  B~i h9c t6  chuc ky
-thi quy  dinh quy  trinh t6 chuc thi,  d€
-thi,  d€  an t6  chuc thi va cac di€u  ki?n
-thi,  quy  ch€
-khac.
+a) Điểm thưởng dành cho các đối tượng thí sinh được xét tuyển thẳng nhưng không
+sử dụng quyền xét tuyển thẳng theo quy định tại khoản 2, Điều 8 của Quy chế này: mức
+điểm thưởng từ 0 - 1,50 điểm theo thang điểm 30;
 
-10.  Thi tr1,Cc  tdp la hinh thuc t6  chuc thi  c6  nguai coi thi tn,rc ti€p
+b) Điểm xét thưởng dành cho các đối tượng thí sinh có thành tích hoặc có năng khiếu
+đặc biệt; mức điểm xét thưởng từ 0 - 1,50 điểm theo thang điểm 30;
 
-t~i  dia di Sm thi;
-thi  sinh  lam bai  tren  gi§.y  ho?c tren may  tinh,  thi€t  bi  n6i m~ng  ho~c  tra ~ai  ph6ng vfin
-tru6c h9i d6ng.
+c) Điểm khuyến khích dành cho các đối tượng thí sinh có chứng chỉ ngoại ngữ hoặc
+có chứng chỉ quốc tế; mức điểm khuyến khích từ 0 - 1,50 điểm theo thang điểm 30.
 
-11.  Thi trl;(c  tuyin la hinh thuc t6  chuc thi c6  nguai coi thi tn,rc  tuy€n  va giam sat
-bing cong ngh?; thi sinh lam bai tren may tinh, thi€t  bi n6i m~ng ho~c tra lai ph6ng v§.n
-qua m~ng.
+21. Xét nyền thẳng là việc thực hiện quy trình xét tuyển hồ sơ thí sinh và công nhận
+trúng tuyển đối với những đối tượng xét tuyển thẳng theo quy định của Quy chế này.
 
-12.  Phuong thuc  tuyin sinh  la vi?c B~i h9c  su d1,1ng  d9c l~p  ho?c k€t  hqp  cua cac
-k€t  qua sau day: k€t  qua h9c t~p  cfrp THPT, di€m  thi t6t nghi?p THPT, k€t  quaky thi d9c
-l~p, k€t  qua ky thi b6 trq, chung chi qu6c t€,  chung chi ngo~i ngfr dung dS  thay th€  diSm
-m6n ngo~i ngfr,  d€  xet tuySn thi sinh vao m(>t  chuong trinh dao t~o  (Ngoai ra,  c6 thS  c6
-su d1,1ng  k€t  qua h9c t~p  b~c trung cfrp,  cao d~ng,  d~i h9c v6i cac hinh thuc dao t~o:  f)~i
-h9c VL VH, f)~i h9c tir xa, Lien thong B~i h9c ).
+22. Xét tuyển là quy trình xử lý riêng tại từng Đại học hoặc xử lý chung theo nhóm
+Đại học để xác định điều kiện trúng tuyển và lập danh sách thí sinh đủ điều kiện trúng
+tuyển vào một chương trình đào tạo theo các tiêu chí xét tuyển do Đại học xác định căn
+cứ theo các quy định của Quy chế này.
 
-13 . Quy d6i tuong duong la vi?c quy d6i nguong bao dam ch§.t luqng dfiu vao, diSm
-trung tuySn gifra cac phuong thuc tuySn sinh, t6 hqp xet tuySn cua m9t ma xet tuySn theo
-m9t quy tile do f)~i h9c quy dinh,  bao dam tuong duong v€  muc d9  dap ung yeu cfiu dfiu
-vao cua chuong trinh dao t~o tuong ung (sau day g9i la a9 !¢ch aiim).
+23. Xử lý nguyện vọng là quy trình xử lý trên Hệ thống hỗ trợ tuyển sinh chung để
+xác định nguyện vọng cao nhất trong số nguyện vọng mà thí sinh đủ điều kiện trúng
+tuyển, trên cơ sở đó lập danh sách thí sinh trúng tuyển.
 
-14.  Tieu chi danh gia la vi?c su dt,mg k€t  qua thi, kiSm tra dS  danh gia nang h,rc  cua
-thi sinh nhim phan lo~i  thi sinh theo muc d9  dap ung yeu cfiu  dfiu vao cua chuong trinh
-dao t~o.
+24. Điểm trúng tuyển của một mã xét tuyển hay ngành/chương trình đào tạo là
+ngưỡng điểm mà những thí sinh (đã đăng ký nguyện vọng vào chương trình đào tạo đó)
+có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển và được làm tròn đến
+hàng phần trăm. Việc làm tròn điểm được thực hiện theo nguyên tắc làm tròn toán học
+đến hàng phần trăm, sau khi cộng đầy đủ điểm ưu tiên và điểm cộng (nếu có).
 
-15. Tieu chi xet tuyin la nhfrng tieu chi duqc dung dS xac dinh di€u  ki?n trung tuySn
-cua thi sinh dva tren k€t  qua h9c t~p, k€t  qua thi ho?c ca k€t  qua h9c t~p va k€t  qua thi va
-cac tieu chi danh gia khac;  duqc quy thanh di Sm  s6  dS  xet tuy~n ( aidm xet tuyin) trong
-d6 da bao g6m di€m  uu tien,  diSm  c9ng (n€u  c6).
+Điều 3. Nguyên tắc cơ bản trong tuyến sinh
 
-16.  Tr9ng s6 tinh i!idm xet cua 01  mon trong 01  t6 hqp xet tuySn  la phfin dong g6p
-cua mon d6  trong t6 hqp xet tuy€n.  T6  hqp  c6  03  mon (khong nhan h? s6) thi tr9ng s6
-tinh diSm xet cua O 1 mon bfit ky trong t6 hqp xet tuySn la 1/3.
+1. Bảo đảm công bằng đối với thí sinh
 
-3
+a) Về cung cấp thông tin: thí sinh được cung cấp thông tin đầy đủ, rõ ràng, tin cậy,
+nhất quán, kịp thời để đưa ra quyết định phù hợp và chuẩn bị tốt nhất cho việc tham gia
+tuyển sinh;
 
-17. Dl! tuyin la vi~c m<)t thi sinh tham d\f quy trinh tuySn sinh vao chuong trinh dao
-tc;10  cua m<)t Dc;ti  h9c, thong qua vi?c dang ky nguy?n v9ng xet tuySn tren H? th5ng h6 trg
-tuySn  sinh chung va dang k:y  d\I thi,  dang ky  xet tuySn theo quy  dinh  cua Dc;ti  h9c  (nSu
-c6).
+NN
 
-18.  Nguffng bao t!am chdt lu(Yng adu vao (g9i tilt la nguong diu vao) la yeu ciu t6i
-thiSu v€  nang l\IC  h9c t~p th€  hi~n & k€t  qua h9c t~p,  kSt  qua thi, danh gia dS thi sinh c6
-kha nang theo h9c va hoan thanh chuong trinh dao tc;10.
+4
 
-19. £Ji€m
+## Trang 5
 
-iru tien la muc diSm thi  sinh duqc hu&ng theo khu V\JC,  d6i tuqng uu tien
+4 LH
 
-dugc quy dinh t~i Quy chS nay.
+b) Về cơ hội dự tuyển: bảo đảm không thí sinh nào bị mất cơ hội dự tuyển do những
+quy định không liên quan tới trình độ, năng lực hoặc do quy trình tuyển sinh gây phiền
+hà, tốn kém;
 
-20. £Ji€m  c9ng do B~i h9c xay d\fng va cong b5 theo cac tieu chi thanh tich phu hgp
+c) Về đánh giá năng lực: việc đánh giá thí sinh bảo đảm khách quan, công bằng, tin
+cậy , phản ánh đúng khả năng học tập và mức độ đáp ứng yêu cầu của chương trình đào tạo;
 
-v&i  dftu vao chuong trinh dao t~o  bao g6m:
+d) Về cơ hội trúng tuyển: thí sinh phải được bảo đảm quyền đăng ký, sắp xếp thứ tự
+nguyện vọng và được xét tuyển theo nguyện vọng cao nhất đủ điều kiện trúng tuyển;
 
-a) Diim thuang danh cho cac d6i tuqng thi sinh dugc xet tuySn thing nhung khong
-SU  d1,mg  quy€n  xet tuySn thing theo quy dinh t~i khoan 2, f)ieu 8 cua Quy  chS nay;  muc
-di€m
+đ) Về thực hiện cam kết: Đại học thực hiện đầy đủ các cam kết đã công bố; tổ chức tư
+vấn, hỗ trợ; tiếp nhận, giải quyết khiếu nại và bảo vệ quyền, lợi ích hợp pháp của thí sinh.
 
-thu&ng tu 0 - 1,50 diSm theo thang di€m  30;
+2. Bảo đảm bình đẳng giữa các cơ sở đào tạo
 
-b) EJiim xet thuang danh cho cac d5i tugng thi sinh c6 thanh tich ho~c c6 nang khiSu
+a) Về hợp tác: Đại học hợp tác bình đắng với các cơ sở đào tạo nhằm nâng cao chất
+lượng, hiệu quả tuyển sinh, bảo đảm quyền lợi của thí sinh;
 
-d~c bi?t; muc diSm xet thu&ng 1ir 0 - 1,50 di€m
+b) Về cạnh tranh: Đại học thực hiện cạnh tranh lành mạnh, công bằng trong tuyển
+sinh theo quy định của pháp luật.
 
-theo thang di€m  30;
+3. Bảo đảm mình bạch đối với xã hội
 
-c) Diim khuyin khich danh cho cac d5i tuqng thi sinh c6 chung chi ngo~i ngfr ho~c
+a) Về minh bạch thông tin: Đại học có trách nhiệm công bố đầy đủ, rõ ràng, kịp thời
+thông tin tuyển sinh trên các phương tiện thông tin đại chúng phù hợp theo quy định;
 
-c6 chung chi qu6c tS;  muc di€m  khuySn khich tu 0 - 1,50 diSm theo thang di€m  30.
+b) Về trách nhiệm giải trình: Đại học thực hiện chế độ báo cáo theo yêu cầu của các
+cơ quan quản lý nhà nước và giải trình với các bên liên quan qua hình thức phù hợp về
+công tác tuyển sinh theo quy định.
 
-21. Xet tuyin thdng la vi~c th\fc hi~n quy trinh xet tuy€n  h6 sa thi sinh va cong nh~n
+Điều 4. Yêu cầu chung trong tuyến sinh
 
-trung tuy€n  d5i v&i nhfrng d5i tuqng xet tuy€n  thing theo quy dinh cua Quy chS nay.
+1. Đại học thực hiện quyền tự chủ và tự chịu trách nhiệm trong công tác tuyển sinh,
+gắn với trách nhiệm giải trình về công tác tuyển sinh; bảo đảm các nguyên tắc công bằng,
+khách quan, công khai và minh bạch.
 
-22. Xet tuyin la quy trinh xu ly rieng tc;ti  rung f)~i  h9c ho~c xu ly chung theo nh6m
-f)~i  h9c  d€  xac  dinh  di€u  ki?n trung tuy€n  va l~p  danh sach thi sinh du  di€u  ki?n trung
-tuy€n  vao m<)t  chuong trinh d~o t~o theo cac tieu chi xet tuy€n  do f)~i  h9c xac dinh can
-cu theo cac quy  dinh cua Quy ch€  nay.
+2. Đại học thực hiện các biện pháp cần thiết nhằm tạo điều kiện thuận lợi và cơ hội bình
+đẳng cho mọi thí sinh; tuyển chọn được những thí sinh có nguyện vọng và năng lực phù hợp
+với yêu cầu của chương trình đào tạo; tổ chức xét tuyển đối với tất cả các nguyện vọng hợp
+lệ của thí sinh đã đăng ký xét tuyển vào Đại học trên Hệ thống hỗ trợ tuyển sinh chung.
 
-23. Xu ly nguy¢n v9ng la quy trinh xu ly  tren H? th5ng h6 trq tuySn  sinh chung d€
+3. Đại học phối hợp với các cơ sở đào tạo, cơ quan quản lý và các đơn vị liên quan
+nhằm bảo đảm tính thống nhất, đồng bộ và liên thông của hệ thống tuyển sinh; góp phần
+nâng cao chất lượng đầu vào, hiệu quả tuyển sinh của mỗi Đại học và của toàn hệ thống,
+đồng thời tạo động lực tích cực đối với hoạt động dạy và học ở giáo dục phổ thông.
 
-xac  dinh  nguy~n  v9ng  cao  nhfrt  trong  s6  nguy~n  v9ng  ma thi  sinh  du  di€u  ki?n  trung
-tuy€n,
+Điều 5. Người dự tuyển, điều kiện dự tuyển
 
-tren ca sa d6  l~p  danh sach thi sinh trung tuy€n .
+1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả
+xét tuyển chính thức bao gồm:
 
-24.  EJidm  trung  tuyin  cua  m<)t  ma  xet  tuy€n  hay  nganh/chuong  trinh  dao  t~o  la
-nguong di Sm ma nhfrng thi sinh ( da dang ky  nguy?n v9ng vao  chuong trinh dao t~o  d6)
-c6  di€m  xet tuy€n  bing ho~c cao han se du  di~u ki?n trung tuy€n  va dugc lam trc'm  dSn
-hang phfin tram.  Vi?c  lam trc'm  di€m  duqc th\fc  hi?n theo  nguyen tile  lam  trc'm  toan h9c
-dSn hang phin tram, sau khi c<)ng dfiy  du di€m  uu tien va di€m  c<)ng (nSu c6 ).
+a) Người đã được công nhận tốt nghiệp THPT, trung học nghề của Việt Nam hoặc
+của nước ngoài được công nhận trình độ tương đương với THPT, trung học nghề của Việt
+Nam do các đơn vị chức năng xác định;
 
-Di~u 3. Nguyen tic CO'  ban trong tuy~n sinh
+NN
 
-1.  Bao dam  cong bing dQi.v&i thi sinh
+## Trang 6
 
-a) V€  cung cfrp  thong tin: thi sinh duqc cung cfrp thong tin dfiy  du,  r5 rang, tin c~y,
-nhfrt  quan,  kip thai d€  dua ra quySt dinh phu hgp va chufin bi t6t nhfrt cho vi~c tham gia
-tuy€n  sinh;
+: Lm
 
-4
+b) Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự
+tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định
+của pháp luật.
 
-_b)  ve ca h9i dµ tuySn:  bao dam khong thi sinh nao bi m§.t ca h9i dµ  tuySn do nhilng
-quy  dinh khong lien quan t&i  trinh d9,  nang lµc  ho~c  do quy  trinh tuySn sinh gay phien
-ha, t6n kem;
+c) Đối với hệ thường xuyên, người được công nhận tốt nghiệp trung cấp, cao đẳng,
+đại học của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương trung
+cấp, cao đẳng, đại học của Việt Nam do các đơn vị chức năng xác định và đã hoàn thành
+đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật.
 
-c)  Ve danh  gia nang lµc:  vi?c  danh gia thi  sinh bao  dam  khach quan,  cong bfulg,  tin
-c~y , phan anh dung kha nang h9c t~p va muc d9 dap ung yeu d.u cua chuang trinh dao t~o;
+2. Người dự tuyển quy định tại khoản 1 Điều này phải đáp ứng các điều kiện sau:
 
-d) Ve ca h9i trung tuySn: thi sinh phai duqc bao dam quyen dang ky, sip x~p thu tµ
+a) Đạt ngưỡng đầu vào theo quy định tại Điều 9 Quy chế này đối với chương trình
+đào tạo đăng ký dự tuyển, trừ các đối tượng tại khoản 1, khoản 2, khoản 3 Điều 8 của
+Quy chế này;
 
-nguy?n VQng va duqc xet tuySn theo nguy?n v9ng cao nh§.t du dieu ki?n trung tuySn;
+b) Có đủ sức khoẻ để học tập theo quy định hiện hành;
 
-d) Ve thµc hi?n cam ket: B~i h9c thµc hi?n dfiy  du cac cam ket da cong b6; t6 chuc tu
+c) Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định của Đại học.
 
-v§.n,  h6 trq; tiep nh~, giai quyet khieu n~i va bao v? quyen, lqi ich hqp phap cua thi sinh.
+3. Đại học bổ sung quy định cụ thể về đối tượng, hồ sơ, trình tự, điều kiện dự tuyển
+cho mỗi phương thức tuyển sinh nhưng phải tuân thủ nguyên tắc quy định tại điểm b
+khoản 1 Điều 3 Quy chế này.
 
-2.  Bao dam binh dilng gifra cac ca s& dao tc;10
+4. Đối với người dự tuyển là người khuyết tật ảnh hưởng khả năng học tập, Đại học
+thực hiện các biện pháp cần thiết và tạo điều kiện tốt nhất đề thí sinh có nguyện vọng
+được đăng ký dự tuyển vào các chương trình đào tạo phù hợp với năng lực và sức khỏe
+của thí sinh.
 
-a) Ve hqp tac: Bc;ti  h9c hqp tac binh dilng v&i  cac ca s&  dao tc;to  nhim nang cao ch§.t
+Điều 6. Phương thức tuyến sinh và nguồn tuyến
 
-luqng, hi?u qua tuySn sinh, bao dam quyen lqi cua thi sinh;
+1. Đối với mỗi hình thức đào tạo (Đại học chính quy, Liên thông đại học chính quy;
+Đại học Vừa làm vừa học (VLVH); Đại học Từ xa), Đại học sử dụng tối đa 05 phương
+thức tuyển sinh không bao gồm xét tuyển thẳng, xét tuyển đối tượng cử tuyển, xét tuyển
+đối tượng dự bị đại học.
 
-b) Ve c~nh tranh:  B~i h9c thµc  hi?n c~nh tranh lanh m~nh,  cong bing trong tuySn
+2. Mỗi phương thức tuyển sinh phải quy định rõ các tiêu chí đánh giá, xét tuyển,
+cách thức tính điểm xét, điều kiện trúng tuyển trong đó:
 
-sinh theo quy dinh cua phap lu~t.
+a) Các tiêu chí dùng để đánh giá, xét tuyển phải dựa trên yêu cầu về kiến thức nền
+tảng và năng lực cốt lõi mà thí sinh cần có đề theo học chương trình đào tạo;
 
-3. Bao dam minh bc;tch  d6i v&i  xa h9i
+b) Phương thức xét tuyển không thể hiện được yêu cầu ở điểm a khoản này thì người
+dự tuyển phải có kết quả học tập tối thiểu 02 học kỳ lớp 12 hoặc có điểm thi tốt nghiệp
+THPT môn học phù hợp với yêu cầu đầu vào của chương trình đào tạo;
 
-a) VS minh bc;tch thong tin: Bc;ti h9c c6 trach nhi?m cong b6 dfiy du, ro rang, kip thai
+c) Tổng điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích
+không vượt quá 10% điểm tối đa của thang điểm xét tuyển;
 
-thong tin tuySn sinh tren cac phuang ti?n thong tin d~i chung phu hqp theo quy dinh;
+d) Mỗi thí sinh đều có cơ hội đạt mức điểm tối đa theo thang điểm xét 30 điểm đối
+với tổ hợp xét tuyển theo 03 môn và bảo đảm không có thí sinh có điểm xét vượt quá mức
+điểm 30 điểm (bao gồm cả điểm cộng và điểm ưu tiên quy định tại Điều 7 của Quy chế
+này).
 
-b) Ve trach nhi?m giai trinh: Bc;ti h9c thtJc hi?n che d9 bao cao theo yeu cfiu cua cac
-ca quan  quan ly  nha mr&c  va giai trinh v&i  cac ben lien quan  qua hinh thuc phu hqp ve
-cong tac tuySn sinh theo quy dinh.
+c
 
-Di~u 4. Yeu  c§u chung trong tuy~n sinh
+#/zZm 4
 
-1.  Bc;ti h9c thµc hi?n quyen tµ  chu vatµ chiu trach nhi?m trong cong tac tuySn sinh,
-gin v&i trach nhi~m giai trinh ve cong tac tuySn sinh; bao dam cac nguyen tic cong bing,
-khach quan,  cong khai va minh bc;tch.
+## Trang 7
 
-2. Bc;ti h9c thµc hi?n cac bi?n phap cfin thiet nh~ t~o dieu ki?n thu~ lqi va ca h9i binh
-dilng cho m9i thi sinh; tuySn ch9n duqc nhfrng thi sinh c6 nguy?n v9ng va nang lµc phu hqp
-v&i yeu d.u cua chuang trinh dao t~o;  t6 chuc xet tuySn d6i v&i t§.t ca cac nguy?n v9ng hqp
-l? cua thi sinh da dang ky xet tuySn vao B~i h9c tren H? th6ng h6 trq tuySn sinh chung.
+6 ù
 
-3.  B~i h9c ph6i hqp v&i  cac ca SO'  dao t~o,  ca quan quan ly va cac dan vi lien quan
-nhim bao dam tinh th6ng nh§.t,  d6ng b9 va lien thong cua h? th6ng tuySn sinh; g6p phfin
-nang cao ch§.t luqng dfiu vao, hi?u qua tuySn sinh cua m6i B~i h9c va cua toan h? th6ng,
-d6ng thai tc;10  d9ng lµc  tich cµc  d6i v&i  ho~t d9ng dc;ty  va h9c a giao dvc ph6 thong.
+3. Nguồn xét tuyển vào chương trình đào tạo trình độ đại học chính quy là thí sinh
+có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng
+trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ
+văn và một môn thi khác) đạt ngưỡng bảo đảm chất lượng đầu vào do Đại học công bố
+hằng năm theo quy định của Bộ Giáo dục và Đào tạo; áp dụng đối với thí sinh thi tốt
+nghiệp từ năm 2026;
 
-Di~u 5.  Ngtroi d\f tuy~n, di~u  ki~n d\f tuy~n
+Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và
+thí sinh quy định tại khoản 1, khoản 2, khoản 3 Điều 8 của Quy chế này.
 
-1. Nguoi dµ  tuySn duqc xac dinh tc;ti  thai diSm xet tuySn tru&c khi cong b6 ket qua
+4. Trường hợp thí sinh sử dụng chứng chỉ ngoại ngữ (để miễn thi tốt nghiệp môn
+ngoại ngữ) đăng ký xét tuyển đại học, Đại học xây dựng và công bố bảng quy đổi kết quả
+chứng chỉ ngoại ngữ và điểm xét môn ngoại ngữ:
 
-xet tuySn chinh thuc bao g6m:
+a) Bảng quy đổi kết quả chứng chỉ ngoại ngữ Tiếng Anh và điểm xét môn ngoại ngữ
+xây dựng phải có tối thiều 05 mức điểm chênh lệch ứng với thang điểm của chứng chỉ sử
+dụng;
 
-a)  Nguai da duqc cong nh~n t6t nghi?p THPT, trung h9c nghe cua Vi?t Nam ho~c
-cua nu&c ngoai duqc cong nh~n trinh d9 tuang duang v&i THPT, trung h9c nghe cua Vi?t
-Nam do  cac dan vi chuc nang xac dinh;
+b) Bảng quy đổi kết quả chứng chỉ ngoại ngữ khác và điểm xét môn ngoại ngữ tương
+ứng do Giám đốc Đại học quy định;
 
-5
+c) Bảng quy đổi kết quả chứng chỉ ngoại ngữ được rà soát, điều chỉnh tối thiểu 02
+năm một lần trên cơ sở đối sánh kết quả học tập thực tế của sinh viên trúng tuyển áp dụng
+từ năm 2026;
 
-b) Nguai da  c6  bing t6t nghi?p  trung cfip  nganh ngh6 thuc)c  cung nh6m nganh  dv
-tuySn va da hoan thanh du yeu d.u kh6i luqng ki€n  thuc van h6a cfip THPT theo quy dinh
-cua phap lu~t.
+d) Chứng chỉ ngoại ngữ chỉ được dùng cho quy đổi điểm môn ngoại ngữ trong tổ
+hợp xét tuyển hoặc sử dụng cho điểm khuyến khích;
 
-c) D6i v6i h? thuang xuyen, nguai duqc cong nh~n t6t nghi?p trung cfip,  cao diing,
-d<,1i  h9c cua Vi?t Nam ho?,c  cua nu6c ngoai duqc cong nh~n trinh d9  tuong duang trung
-cfip,  cao diing, d<,1i  h9c cua Vi?t Nam do  cac dan vi chuc nang xac dinh va da hoan thanh
-du yeu c!u kh6i luqng ki€n  thuc van h6a cfip THPT theo  quy dinh cua phap lu~t.
+5. Phương thức tuyển sinh dựa trên kết quả học tập các môn học cấp THPT bắt buộc
+môn Toán hoặc Ngữ văn với trọng số tính điểm xét của môn Toán hoặc môn Ngữ văn tối
+thiểu 1/3 và đáp ứng một trong những yêu cầu sau:
 
-2. Nguai dµ  tuySn quy  dinh t<;1i  khoan 1 Di6u nay phai dap ung cac diSu ki?n sau:
+a) Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp
+10, 11, 12 của tối thiểu 03 môn học theo thang điểm 30;
 
-a)  D~t ngu5'ng d!u vao theo quy  dinh t<;1i  DiSu 9 Quy ch€  nay  d6i v6i chuong trinh
-dao  t~o  dang  ky  dµ  tuySn,  tru cac  d6i  tuqng t~i  khoan  1,  khoan  2,  khoan  3 Di6u  8 cua
-Quy ch~ nay;
+b) Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp
+10, 11, 12 của tối thiểu 02 môn học (trong đó bắt buộc phải có môn Toán hoặc Ngữ văn)
+và dùng chứng chỉ ngoại ngữ (chứng chỉ ngoại ngữ sử dụng miễn thi tốt nghiệp THPT
+theo quy định tại Quy chế thi tốt nghiệp THPT hiện hành), Đại học quy đổi kết quả chứng
+chỉ ngoại ngữ thành điểm môn ngoại ngữ theo thang điểm 10 để đưa vào tổ hợp môn xét
+tuyển thay thế môn ngoại ngữ.
 
-b)  C6  du sue khoe dS h9c t~p theo quy dinh hi?n hanh;
+c) Trường hợp môn học trong tổ hợp xét tuyển không học đủ 06 học kỳ cấp THPT
+theo năm do thay đổi lựa chọn môn học thì sử dụng kết quả học tập môn học khác gần
+lĩnh vực thay thế.
 
-C)  C6  du thong tin ca nhan, h6  SO'  dv tuySn theo quy  dinh cua D<;1i  h9c.
+6. Phương thức tuyển sinh dựa trên kết quả các môn thi tốt nghiệp THPT bắt buộc
+phải có môn Toán hoặc Ngữ văn với trọng số tính điểm xét của môn Toán hoặc môn Ngữ
+văn tối thiểu 1/3 và đáp ứng một trong những yêu cầu sau:
 
-3.  D~i h9c b6 sung quy  dinh C\l th€  v6 d6i tuqng, h6 sa, trinh 1\f, diSu ki?n dµ  tuySn
-cho  m6i  phuong thuc  tuySn  sinh  nhung phai  tuan thu  nguyen t~c  quy  dinh  t~i  diSm  b
-khoan 1 Di6u 3 Quy ch€  riay.
+## Trang 8
 
-4.  D6i v6i nguai dv tuySn la nguai khuy€t  t?t anh huong kha nang h9c t~p, D<;li  h9c
-thvc hi~n  cac bi?n phap  dn thi€t  va t~o  diSu  ki~n t6t nhfit  dS  thi  sinh c6  nguy~n  v9ng
-duqc dang ky dµ  tuySn vao cac chuang trinh dao t<;l0  phu hqp v6i nang Ive va sue kh6e
-cua thi sinh.
+7 NAY
 
-Di~u 6. Phrr<Yng  thrrc tuy~n sinh va ngu6n tuy~n
+a) Tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng để xét tuyển
+có ít nhất 03 môn phù hợp với đặc điểm, yêu cầu đầu vào của chương trình đào tạo;
 
-1.  D6i v6i m6i hinh thuc dao t<;lo  (D<;li  h9c chinh quy, Lien thong d<,1i  h9c chinh quy;
-D<;li  h9c Vua lam vua h9c (VL VH);  D~i h9c Tu xa),  D<;li  h9c su dl,lng t6i  da 05  phuang
-thuc tuySn sinh khong bao g6m xet tuySn thiing,  xet tuySn d6i tuqng cu tuySn, xet tuySn
-d6i tuqng dv bi d<;li  h9c.
+b) Tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT có dùng chứng
+chỉ ngoại ngữ (chứng chỉ ngoại ngữ áp dụng miễn thi tốt nghiệp THPT theo quy định tại
+Quy chế thi tốt nghiệp THPT hiện hành), Đại học quy đổi kết quả chứng chỉ ngoại ngữ
+thành điểm môn ngoại ngữ theo thang điểm 10 để đưa vào tổ hợp môn xét tuyển thay thế
+môn ngoại ngữ.
 
-2.  M6i phuong thuc tuySn  sinh phai  quy  dinh ro  cac tieu chi  danh  gia,  xet tuySn,
+7. Đối với một chương trình đào tạo có nhiều phương thức tuyển sinh hoặc kết hợp
+các phương thức tuyển sinh hoặc sử dụng kết quả kỳ thi tuyển sinh, kỳ thi độc lập hoặc
+tổ hợp xét tuyển khác:
 
-each thuc tinh diSm xet, di6u ki~n trung tuySn trong d6:
+a) Đại học xác định độ lệch điểm theo hướng dẫn thống nhất của Bộ GDĐT; bảo
+đảm tuyển chọn được các thí sinh đáp ứng yêu cầu đầu vào của chương trình đào tạo;
 
-a)  Cac tieu chi dung dS  danh gia, xet tuySn phai dva tren yeu c!u vs kien thuc n6n
+b) Không quy định mã xét tuyển riêng, số lượng tuyển sinh xét tuyển riêng cho từng
+phương thức xét tuyển hoặc tổ hợp xét tuyển, trừ việc quy định số lượng tuyển sinh xét
+tuyển thẳng theo quy định tại Điều 8 của Quy chế này.
 
-tang va nang Ive c6t 15i ma thi sinh c!n c6  dS theo h9c chuang trinh dao t<,10;
+8. Đại học xây dựng và công bố phương pháp xác định độ lệch điểm giữa các
+phương thức tuyển sinh và tổ hợp xét tuyển trên cơ sở phân tích dữ liệu tuyển sinh các
+năm trước, bảo đảm tương đương về mức độ đáp ứng yêu cầu đầu vào của chương trình
+đào tạo. Phương pháp xác định độ lệch điểm có thể sử dụng các công cụ thống kê như
+phân vị, chuẩn hóa điểm hoặc các phương pháp phân tích dữ liệu phù hợp khác.
 
-b) Phuang thuc xet tuySn kh6ng thS hi~n duqc yeu c!u 6 diSm a khoan nay thi nguai
-dv tuySn phai c6 ket qua h9c t~p  t6i thi€u  02  h9c ky  lap  12  ho?,C  c6  diSm  thi t6t nghi~p
-THPT mon h9c phu hqp v6i yeu cku d!u vao cua chuong trinh dao t~o;
+9. Đại học tự chịu trách nhiệm và trách nhiệm giải trình về căn cứ việc xác định
+phương thức tuyển sinh, tổ hợp xét tuyển, quy đổi chứng chỉ ngoại ngữ thành điểm môn
+ngoại ngữ, độ lệch điểm dựa trên số liệu phân tích, đánh giá và đối sánh kết quả học tập
+của sinh viên trúng tuyển các năm trước; có trách nhiệm xử lý đảm bảo quyền lợi của thí
+sinh khi phát sinh các tình huống, sự cố ảnh hưởng đến kết quả thi, kết quả trúng tuyển
+của thí sinh.
 
-c)  T6ng  di~m  c9ng  bao  g6m  diSm  thuong,  diSm  xet thuong,  diSm  khuy€n  khich
+10. Tuyển sinh của các chương trình đào tạo đặc thù, đào tạo đặt hàng theo các đề
+án, nhiệm vụ được Chính phủ, Thủ tướng Chính phủ phê duyệt thực hiện theo đề án.
 
-khong vuqt qua 10% di Sm t6i da cua thang di Sm xet tuySn;
+Điều 7. Chính sách ưu tiên trong tuyển sinh
 
-d)  M6i thi sinh dSu c6 ca h9i d<;lt muc diSm t6i da theo thang diSm xet 30  diSm d6i
-v6i t6 hqp xet tuySn theo 03  mon va bao dam khong c6 thi sinh c6 diSm xet vuqt qua muc
-diSm  30  diSm  (bao g6m ca diSm  c9ng va diSm uu tien quy  dinh t<;1i  Di6u 7 cua Quy ch€
-nay).
+1. Ưu tiên theo khu vực thực hiện theo đơn vị hành chính do cấp có thẩm quyền quy
+định tại Phụ lục I của Quy chế này:
 
-l
-J.
+a) Mức điểm ưu tiên áp dụng cho khu vực 1 (KVI) là 0,75 điểm, khu vực 2 nông
+thôn (KV2-NT) là 0,50 điểm, khu vực 2 (KV2) là 0,25 điểm; khu vực 3 (KV3) không
+được tính điểm ưu tiên;
 
-1
+b) Khu vực tuyển sinh của mỗi thí sinh được xác định theo địa điểm trường mà thí
+sinh đã học lâu nhất trong thời gian học cấp THPT (hoặc trung cấp, trung học nghề): nếu
+thời gian học (dài nhất) tại các khu vực tương đương nhau thì xác định theo khu vực của
+trường mà thí sinh theo học sau cùng:
 
-6
+## Trang 9
 
-3. Ngu6n xet tuyen vao chuang trinh dao t~o  trinh d(>  d~i h9c chinh quy la thi sinh
-c6 t6ng diem 03  man thi ky thi t6t nghi~p THPT (ky thi trung h9c ngh€  d6i v&i  d6i tm;mg
-trung h9c  ngh€)  cac  nam theo t6 hqp xet tuyen (ho~c su di;mg  diem  thi man Toan, Ngfr
-van va m(>t  man thi khac) d~t  nguong bao  dam ch§.t  lm;mg  dfiu vao  do  D~i  h9c  cang b6
-hing nam  theo  quy  dinh  cua Bo Giao  d1,1c  va Dao  t~o;  ap  d1,1ng  d6i  v6i thi  sinh thi  t6t
-nghi~p tu nam 2026;
+8
+| Đng
 
-Quy dinh nay khang ap  d1,1ng  d6i v&i thi sinh dugc d~c each xet t6t nghi~p THPT va
+c) Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt
+nghiệp THPT (hoặc trung cấp, trung học nghề) và một năm kế tiếp.
 
-thi sinh quy dinh t~i  khoan 1, khoan 2, khoan 3 Di€u  8 cua Quy ch€  nay.
+2. Ưu tiên theo đối tượng chính sách quy định tại Phụ lục II của Quy chế này:
 
-4.  Truong hgp thi  sinh su d1,1ng  chung chi  ngo~i  ngfr  ( de  mi€n
+a) Mức điểm ưu tiên áp dụng cho nhóm đối tượng UT1 (gồm các đối tượng 01 đến
+03) là 2,00 điểm và cho nhóm đối tượng UT2 (gồm các đối tượng 04 đến 06) là 1,00 điểm;
 
-thi t6t nghi~p  man
-ngo~i ngfr)  dang ky xet tuyen d~i h9c, D~i h9c xay dµng va cang b6 bang quy d6i k€t  qua
-chung chi ngo~i ngfr va diem xet man ngo~i ngfr:
+b) Mức điểm ưu tiên cho những đối tượng chính sách khác được quy định trong các
+văn bản pháp luật hiện hành do Bộ trưởng Bộ GDĐT quyết định;
 
-a) Bang quy d6i k€t  qua chung chi ngoe;1i ngfr Ti€ng  Anh va diem xet man ngo~i ngfr
-xay dµng  phai c6 t6i thi~u 05  muc diem chenh l~ch ung v&i thang di~m  cua chung chi sfr
-d1,1ng;
+c) Thí sinh thuộc nhiều diện đối tượng chính sách quy định tại điểm a và điểm b
+khoản này chỉ được hưởng một mức điểm ưu tiên cao nhất.
 
-b) Bang quy d6i kSt qua chung chi ngo~i ngfr khac va diem xet man ngo~i ngfr tuang
+3. Các mức điểm ưu tiên được quy định trong Điều này tương ứng với tổng điểm 03
+môn (trong tổ hợp xét tuyển) theo thang điểm 30 đối với từng môn (không nhân hệ số);
+trường hợp phương thức tuyển sinh sử dụng thang điểm khác thì mức điểm ưu tiên được
+quy đổi tương đương.
 
-ung do  Giam d6c D~i h9c quy  dinh;
+4. Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,50 trở lên (khi quy đổi về điểm
+theo thang 10 và theo thang tổng điểm 03 môn tối đa là 30) được làm tròn đến hàng phần
+trăm và xác định theo công thức sau:
 
-c) Bang quy  d6i  k€t  qua chung chi ngo~i ngfr  dugc ra soat, di€u  chinh t6i thieu 02
-nam m(>t lfin tren ca SO'  d6i sanh k€t  qua h9c t?p thµc t€  cua sinh vien trung tuyen ap  d1,1ng
-tir nam 2026;
+Điểm ưu tiên = [(30 - Tổng điểm đạt được)/7,50] x Mức điểm ưu tiên quy định tại
+khoản 1, 2 Điều này
 
-d)  Chung chi  ngo~i  ngfr  chi  dugc  dung cho  quy  d6i  diem mon  ngoe;1i  ngfr trong t6
+Điều 8. Đối tượng xét tuyển thẳng và ưu tiên xét tuyển
 
-hqp xet tuyen ho~c su dvng cho diem khuy€n  khich;
+1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn
+quốc được tuyển thẳng vào các chương trình đào tạo do Đại học quy định.
 
-5. Phuang thuc tuyen sinh dµa tren k€t  qua h9c t?p cac mon h9c c§.p THPT bilt bu(>c
-mon Toan ho~c Ngfr van v&i tr9ng s6 tinh diem xet cua man Toan ho~c man Ngfr van t6i
-thieu 1/3  va dap (mg mot trong nhfrng yeu du sau:
+2. Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi cấp quốc gia hoặc quốc tế,
+do Bộ GDĐT tổ chức, cử tham gia, được xét tuyển thẳng vào chương trình đào tạo phù
+hợp với môn thi, nội dung đề tài đạt giải; cụ thể trong các trường hợp sau:
 
-J
+a) Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế;
+thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng:
 
-f
-J I
+b) Thí sinh đạt giải nhất kỳ thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT
+tổ chức, cử tham gia và đạt ngưỡng đảm bảo chất lượng đầu vào của chương trình đào
+tạo. Thời gian đạt giải không quá 03 năm tính tới thời điểm nếu được xét tuyển thẳng;
 
-a) T6 hgp xet tuyen su d1,1ng  diem trung binh chung k€t  qua h9c t?p ca nam cac lap
+c) Việc xét tuyển thẳng hoặc không được xét tuyển thẳng các đối tượng quy định tại
+khoản này do Đại học quyết định.
 
-10,  11,  12  cua t6i thieu 03  man h9c theo thang diem 30;
+3. Giám đốc Đại học căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu đầu
+vào của chương trình đào tạo do Giám đốc Đại học quy định xem xét, quyết định nhận
+vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo điều kiện
+thí sinh phải học 01 năm bổ sung kiến thức trước khi vào học chính thức):
 
-b) T6 hgp xet tuyen su d1,1ng  diem trung binh chung k€t  qua h9c t?p ca nam cac lop
-10, 11,  12 cua t6i thieu 02 man h9c (trong d6 bilt bu(>c phai c6 man Toan ho~c Ngfr van)
-va dung chung chi  ngo~i ngfr  ( chung chi  ngo1;li  ngfr  su d1,1ng  mi€n
-thi t6t nghi~p  THPT
-theo quy dinh t~i Quy ch€  thi t6t nghi~p THPT hi~n hanh), D~i h9c quy d6i k€t  qua chung
-chi ngo~i ngfr thanh diem man ngo~i ngfr theo thang di~m  10  de dua vao t6 hgp man xet
-tuyen thay th€  man ngo~i ngfr.
+a) Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của
+chương trình đào tạo phù hợp với quy định của Bộ GDĐT;
 
-c) Truong hqp man h9c trong t6 hgp xet tuyen khang h9c du  06  h9c ky  c§.p  THPT
-theo nam do  thay  d6i  lµa  ch9n mon h9c thi  su d1,1ng  k€t  qua h9c t?p  mon h9c khac gfin
-linh V\IC thay th€.
+## Trang 10
 
-6.  Phuang thuc tuyen sinh dµa  tren kSt  qua cac man thi t6t nghi~p  THPT bilt bu(>c
-phai c6 man Toan ho~c Ngfr van v&i tr9ng s6 tinh diem xet cua mon Toan ho~c mon Ngfr
-van t6i thi~u  1/3 va dap ung m(>t trong nhfrng yeu cfiu sau:
+9
 
-7
+|
 
-a) T6 hgp xet tuySn SU  d\mg k€t  qua cac mon thi t6t nghi?p THPT dung dS xet tuySn
+b) Thí sinh là người Việt Nam học tập cấp THPT, trung học nghề ở nước ngoài hoặc
+học tập chương trình giáo dục nước ngoài bằng tiếng nước ngoài ở Việt Nam đạt trình độ
+tương đương với trình độ THPT, trung học nghề của Việt Nam và đạt chuẩn năng lực
+ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT.
 
-c6 it nhfit 03  man phu hgp v6i d~c di€m,  yeu du dftu vao cua chuong trinh dao t?o;
+c) Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ;
 
-b) T6  hgp xet tuy€n  su d\mg k~t  qua cac mon thi t6t nghi?p THPT c6 dung chung
-chi ngo?i ngfr ( chung chi ngo?i ngfr ap  d\mg mi€n  thi t6t nghi?p THPT theo quy dinh t?i
-Quy  ch€
-thi t6t nghi?p  THPT hi?n hanh),  B?i h9c  quy  d6i  k€t  qua chung chi  ngo?i ngfr
-thanh diSm mon ngo?i ngfr theo thang diSm  10 dS  dua vao t6 hgp mon xet tuySn thay th€
-man ngo?i ngfr.
+d) Thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ
+quan có thẩm quyền cấp theo quy định; có khả năng theo học một số chương trình đào
+tạo do Đại học quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh
+bình thường.
 
-7.  06i v6i m9t chuong trinh d-ao t?o c6 nhiSu phuong thuc tuySn sinh ho~c k€t  hqp
-cac phuong thuc tuySn  sinh ho~c  su d\mg k€t  qua ky thi tuySn sinh,  ky thi  d9c  l?p ho~c
-t6 hgp xet tuySn khac:
+4. Đại học quy định hình thức ưu tiên xét tuyển đối với các thí sinh đã đạt ngưỡng
+đầu vào hoặc cộng điểm (điểm thưởng, điểm xét thưởng, điểm khuyến khích) cho trường
+hợp sau đây: Thí sinh quy định tại khoản 1, 2 Điều này dự tuyển vào các chương trình
+đào tạo theo nguyện vọng mà không dùng quyền tuyển thẳng.
 
-a)  0?i h9c xac  dinh  d9  l?ch diSm  theo hu6ng dftn  th6ng nhfit  cua B9 GD0T; bao
+5. Đại học quy định cụ thể và công bố trong thông tin tuyển sinh: kế hoạch tuyển
+sinh, đối tượng, số lượng tuyển sinh, tiêu chí, phạm vi tuyển sinh, chương trình đào tạo
+để xét tuyển thẳng, ưu tiên xét tuyển.
 
-dam tuySn ch9n duqc cac thf sinh dap  ung yeu du dftu vao cua chuong trinh dao t?o;
+Điều 9. Ngưỡng đầu vào các chương trình đào tạo chính quy và thường xuyên
 
-b) Khong quy dinh ma xet tuySn rieng, s6 luqng tuySn sinh xet tuySn rieng cho tung
-phucmg thuc xet tuySn  ho~c t6  hgp xet tuySn,  tru vi?c quy  dinh s6  luqng tuySn  sinh xet
-tuySn th~ng theo quy  dinh t?i 0iSu 8 cua Quy ch€  nay.
+1. Ngưỡng đầu vào đối với chương trình đào tạo thuộc lĩnh vực pháp luật sử dụng
+phương thức tuyển sinh theo kết quả thi tốt nghiệp THPT, trung học nghề được quy định
+hằng năm do Bộ trưởng Bộ GDĐT, chủ trì, phối hợp với Bộ trưởng Bộ Tư pháp quy định
+ngưỡng đầu vào đối với chương trình đào tạo thuộc lĩnh vực pháp luật.
 
-8.  0?i h9c xay dl,l'Ilg va c6ng b6 phuang phap xac dinh d9  l?ch di Sm gifra cac
-phuang thuc tuy€n  sinh va t6 hgp xet tuySn tren ca sa phan tich dfr  li?u tuy~n sinh cac
-nam tru6c, bao dam tuong duang vS muc d9  dap ung yeu cftu  dftu vao cua chuang trinh
-_ .dao t?O.  Phuang phap xac dinh d9 l?ch diSm  c6 th€  SU  d1,1ng  cac cong Cl,l  th6ng ke nhu
-phan vi, chufrn h6a diSm ho~c cac phuang phap phan tich du li?u phu hgp khac.
+2. Đối với phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT hoặc
+phương thức tuyển sinh kết hợp, thí sinh phải đạt ngưỡng đầu vào đối với chương trình
+đào tạo thuộc lĩnh vực pháp luật áp dụng khoản 1 Điều này hoặc kết quả trung bình chung
+học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả
+học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và
+tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn
+Toán, Ngữ văn và một môn thi khác) đạt 18,00 điểm trở lên hoặc điểm xét tốt nghiệp
+THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên.
 
-9. 0?i h9c  tµ  chiu trach  nhi?m va trach nhi?m  giai  trinh  vs can  cu vi?c  xac  dinh
-phuang thuc tuy€n  sinh, t6 hgp xet tuySn,  quy d6i  chung chi ngo?i ngfr thanh diSm mon
-ngo?i ngfr,  d9 l?ch di€m  dµa  tren s6  li~u phan tich,  danh gia va d6i  sanh k€t  qua h9c t?p
-cua sinh vien trung tuySn cac nam tru6c; c6 trach nhi?m xu ly  dam bao quySn lqi cua thi
-sinh khi phat sinh cac tinh hu6ng,  sµ  c6  anh huang d€n  k€t  qua thi,  k€t  qua trung tuySn
-cua thf sinh.
+3. Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển trình
+độ đại học được áp dụng quy định ngưỡng đầu vào như sau:
 
-10. Tuy Sn sinh cua cac chuang trinh dao t?O  d~c thu,  dao t?O  d~t  hang theo  cac d€
+Đối với thí sinh dự tuyển vào chương trình thuộc lĩnh vực pháp luật, ngưỡng đầu
+vào được áp dụng một trong các tiêu chí sau:
 
-an,  nhi?m vv duqc Chfnh phu, Thu tu6ng Chfnh phu phe duy~t thvc hi~n theo dS  an.
+- Kết quả trung bình chung học tập đánh giá mức tốt (học lực xếp loại từ giỏi trở
+lên) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,00 trở lên theo thang
+điểm 10;
 
-Di~u 7.  Chinh sach rru  tien trong tuyin sinh
+- Tốt nghiệp THPT loại giỏi trở lên hoặc kết quả học tập cả năm lớp 12 được đánh
+giá mức khá (học lực xếp loại khá) và có 03 năm kinh nghiệm công tác đúng với chuyên
+môn đào tạo;
 
-1. lJ u tien theo khu vµc thµc hi~n theo dan vi hanh chfnh do cfrp c6 thfrm quySn quy
+## Trang 11
 
-dinh t?i Phv Ive I cua Quy ch€  nay:
+10 mm
 
-a)  Muc diSm  uu tien ap  d1,1ng  cho khu vµc  1 (KVI) la 0,75  diSm,  khu vµc  2 n6ng
-than  (KV2-NT)  la  0,50  diSm,  khu vvc  2  (KV2)  la  0,25  diSm;  khu  vµc  3 (KV3)  khong
-duqc tfnh diSm uu tien;
+- Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại giỏi trở lên;
 
-b) Khu vµc tuySn sinh cua m6i thf sinh duqc xac dinh theo dia diSm truong ma thi
+- Tốt nghiệp trình độ trung cấp hoặc trình độ cao đẳng hoặc trình độ đại học đạt loại
+khá và có 03 năm kinh nghiệm công tác đúng với chuyên môn đào tạo.
 
-sinh da h9c lau nhfrt trong thc'Yi  gian h9c cfrp THPT (ho~c trung cfip, trung h9c nghe); n€u
-thc'Yi  gian h9c ( dai nhfit) t?i cac khu vvc tuang duang nhau thi xac dinh theo khu vµc  cua
-truong ma thf  sinh theo h9c sau cung;
+4. Căn cứ yêu cầu bảo đảm chất lượng, Đại học xác định và công bố ngưỡng đầu vào
+cho các chương trình đào tạo và phương thức tuyển sinh trước thời gian kết thúc đăng ký dự
+tuyển theo kế hoạch tuyển sinh hằng năm và yêu cầu của chuẩn chương trình đào tạo.
 
-8
+Đồi với ngưỡng đầu vào chương trình đào tạo thuộc lĩnh vực pháp luật ngưỡng đầu
+vào do Đại học xác định không được thấp hơn quy định tại Điều này.
 
-c)  Thi  sinh  duqc hu6ng chinh  sach uu tien  khu  V\fC  theo  quy  dinh  trong  nam t6t
+Điều 10. Bảo lưu kết quả trúng tuyển
 
-nghi~p THPT (ho~c trung cfip, trung h9c nghS) va m(>t nam k6 ti6p.
+1. Thí sinh đã có giấy báo trúng tuyển được bảo lưu kết quả trúng tuyển trong những
+trường hợp sau:
 
-2.  Vu tien theo d6i tuqng chinh sach quy dinh t?i Phv Ive II cua Quy ch6 nay:
+a) Đi nghĩa vụ quân sự, công an nhân dân hoặc đi thanh niên xung phong tập trung
+ngay trong năm trúng tuyển theo quyết định hoặc lệnh của cơ quan có thẩm quyền;
 
-a) Muc di€m  uu tien ap  di,mg cho nh6m d6i tuqng UTl  (g6m cac d6i tuqng 01  d6n
+b) Bị bệnh nặng hoặc bị tai nạn nghiêm trọng không thể nhập học đúng hạn, có hồ
+SƠ Y tế và xác nhận của bệnh viện cấp cơ bản trở lên.
 
-03) la 2,00 di€m  va cho nh6m d6i tuqng UT2 (g6m cac d6i tuqng 04 d6n 06) la 1,00 di€m;
+2. Thí sinh thuộc diện quy định tại khoản 1 gửi đơn xin bảo lưu kèm theo giấy tờ
+minh chứng tới Đại học gọi nhập học. Thời gian tối đa được bảo lưu kết quả do Đại học
+quy định, nhưng không quá 36 tháng đối với người quy định tại khoản 1 Điều này.
 
-b) Muc di€m  uu tien cho nhfrng d6i tuqng chinh sach khac duqc quy dinh trong cac
+3. Ngay sau khi đủ điều kiện đi học trở lại, người được bảo lưu kết quả trúng tuyển
+phải thực hiện thủ tục nhập học theo quy định của Đại học, trong đó phải cung cấp minh
+chứng đã hoàn thành nhiệm vụ hoặc đã được điều trị hồi phục. Đối với trường hợp quy
+định tại điểm a khoản 1 Điều này có thời gian bảo lưu 36 tháng, Giám đốc Đại học xem
+xét giới thiệu vào các trường, lớp dự bị đại học để ôn tập trước khi vào học chính thức.
 
-van ban phap lu?t hi~n hanh do B(> tru6ng B(>  GDBT quy6t dinh;
+Điều 11. Quản trị rủi ro tuyển sinh của ĐH KTQD
 
-c)  Thi sinh  thu(>c  nhiSu  di~n  d6i  tuqng chinh  sach quy  dinh tl;li  di€m  a va di€m  b
+Đại học cam kết giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong
+những trường hợp rủi ro, trách nhiệm giải quyết việc thí sinh được chuyển đến hoặc
+chuyển đi do sai sót trong tuyển sinh theo pháp luật hiện hành của Nhà nước, theo quy
+chế tuyển sinh của Bộ GDĐT và của ĐH KTQD.
 
-khoan nay chi duqc hu6ng m(>t  muc di€m  uu tien cao nhftt.
+Điều 12. Thông tin tuyển sinh
 
-3.  Cac muc di€m  uu tien duqc quy dinh trong Bi Su nay tuong ung v&i t6ng di€m  03
-man (trong t6  hqp xet tuy€n)
-theo thang di€m  30  d6i v&i  tung man (khong nhan h~  s6);
-trucmg hqp phuong thuc tuy€n  sinh su di,mg  thang di€m  khac thi muc diSm uu tien duqc
-quy  d6i tucmg duong.
+1. Đối với mỗi hình thức đào tạo (Đại học chính quy, Liên thông đại học chính quy;
+Đại học VLVH; Đại học Từ xa), Đại học xây dựng, công bố, thực hiện đúng cam kết
+thông tin tuyển sinh về đối tượng, điều kiện dự tuyển, nguồn tuyển, phương thức tuyển
+sinh, ngưỡng đầu vào, điểm cộng, độ lệch điểm, tiêu chí phụ (nếu có); có trách nhiệm giải
+trình với thí sinh, cơ quan quản lý nhà nước và xã hội. Thông tin tuyển sinh phải bảo đảm
+các yêu cầu sau đây:
 
-4.  Bi€m  uu tien d6i v&i thi sinh d?t t6ng di€m  tu 22,50 tra len (khi quy d6i vs di€m
-theo thang 10 va theo thang t6ng di€m  03  mon t6i da la 30) duqc lam trcm d6n hang phfrn
-tram va xac dinh theo cong thuc sau:
+a) Cung cấp đủ thông tin để thí sinh lựa chọn chương trình đào tạo, phương thức
+tuyển sinh phù hợp với năng lực, sở thích và điều kiện cá nhân; chuẩn bị các điều kiện
+tham gia dự tuyển và thực hiện các bước theo kế hoạch tuyển sinh của Đại học;
 
-Dz°im  uu tien  = [(30 - T6ng aiim ac;zt  auc;c)/7,50} x Muc az"im  uu tien quy atnh tq,i
+## Trang 12
 
-khoan  1,  2 DiJu nay
 
-Bi~u 8.  DBi tugng xet tuy~n thing va uu tien xet tuy~n
-1. Anh hung lao d(>ng,  Anh hung h,rc luqng vu trang nhan dan, Chi6n sI thi dua toan
+b) Cơ quan quản lý nhà nước và xã hội giám sát được việc thực hiện quy định của pháp
+luật và các cam kết đối với người học của Đại học trong công tác tuyển sinh và đào tạo.
 
-qu6c duqc tuy€n  thilng vao cac chucmg trinh dao tl;lo  do B?i h9c quy dinh.
+2. Nội dung chủ yếu của thông tin tuyển sinh gồm có:
 
-2.  Thi sinh d?t thanh tich cao trong cac ky thi,  cu(>c  thi cftp  qu6c  gia ho~c qu6c t6,
-do  B(>  GDBT t6  chuc,  cu tham gia,  duqc xet tuySn thilng vao  chuong trinh dao  t?o phu
-hqp v&i  m6n thi, n(>i  dung dS tai dl;lt giai; cv th€  trong cac truang hqp sau:
+a) Giới thiệu về Đại học, chương trình đào tạo tuyển sinh, giấy phép hoạt động của
+ngành đào tạo (nếu có), quyết định ban hành chương trình đào tạo, đội ngũ giảng viên,
+điều kiện học tập và nghiên cứu, cơ sở vật chất, văn bằng tốt nghiệp, kết quả kiểm định
+chất lượng (nếu có), tỷ lệ sinh viên tốt nghiệp (trên tổng số nhập học), tỷ lệ sinh viên tốt
+nghiệp có việc làm phù hợp trình độ chuyên môn (theo Phụ lục III của Quy chế);
 
-a)  Thi sinh d?t giai nhfit,  nhi,  ba trong ky thi  ch9n h9c sinh gioi  qu6c gia,  qu6c t6;
+b) Thông tin đầy đủ về chỉ phí đào tạo, mức thu học phí, mức thu dịch vụ tuyển sinh
+và khoản thu dịch vụ khác cho lộ trình cả khóa học, từng năm học; chính sách học bổng,
+miễn giảm học phí, hỗ trợ tài chính, chỗ ở ký túc xá và các chính sách ưu đãi, hỗ trợ khác
+dành cho người học;
 
-thai gian dl;lt  giai khang qua 03  nam tinh t&i  thai di€m  xet tuySn thilng;
+c) Kế hoạch tuyển sinh và phạm vi tuyển sinh các đợt trong năm (trong đó đợt 1 tuyển
+sinh đại học phù hợp với kế hoạch chung do Bộ GDĐT ban hành), gồm cả quy định về đối
+tượng, điều kiện tuyển sinh, phương thức tuyển sinh, tổ hợp xét tuyển và số lượng tuyển
+sinh (dự kiến) đối với các chương trình đào tạo; quy tắc quy đổi tương đương ngưỡng đầu
+vào, điểm trúng tuyển của các phương thức, tổ hợp xét tuyển; phương thức và tiêu chí phân
+bổ người học theo học chương trình đào tạo của Đại học đối với trường hợp xét tuyển theo
+nhóm ngành, ngành có nhiều chương trình đào tạo cùng một mức điểm trúng tuyển; quy
+trình, thủ tục đăng ký dự tuyển và các thông tin cần thiết khác cho thí sinh;
 
-b) Thi sinh d?t giai nhfit ky thi khoa h9c, ky thu?t cfip qu6c gia, qu6c t6 do B(> GDBT
-t6  chuc,  cu tham gia va dl;lt  nguang dam bao  chfit  luqng dfru  vao cua chuang trinh dao
-tl;lo.  Thai gian dl;lt  giai khang qua 03  nam tinh t&i  thai di€m  n€u  duqc xet tuy€n  thilng;
+d) Phương án xử lý rủi ro khi triển khai công tác tuyển sinh và cam kết trách nhiệm
+của Đại học.
 
-c) Vi~c xet tuy€n  thilng ho~c khang duqc xet tuy€n  thilng cac d6i tuqng quy dinh t?i
+3. Thông tin tuyển sinh, nội dung điều chỉnh, độ lệch điểm, số lượng tuyển sinh
+chính thức, ngưỡng bảo đảm chất lượng đầu vào tại thông tin tuyển sinh (phụ lục IV) phải
+công bố trên Cổng thông tin điện tử của Đại học theo kế hoạch tuyển sinh chung hằng
+năm của Bộ GDĐT; duy trì tối thiểu 04 năm liên tục kể từ ngày công bố, trường hợp cập
+nhật thông tin phải ghi thời điểm cập nhật.
 
-khoan nay do Bl;li h9c quy6t dinh.
+4. Đại học xây dựng phương án quản trị rủi ro trong công tác tuyển sinh, bao gồm
+các tình huống: sai lệch dữ liệu, lỗi hệ thống, gian lận hồ sơ và các yếu tố khách quan
+khác; bảo đảm quyền lợi hợp pháp của thí sinh.
 
-3.  Giam d6c Bl;li h9c can cu k€t  qua h9c t?p cfip  THPT cua thi sinh va yeu c!u dfru
-vao  cua chucmg trinh dao tl;lo  do  Giam d6c  Bl;li  h9c  quy  dinh xem xet,  quy€t  dinh nh?n
-vao  h9c nhfrng truang hqp quy  dinh du&i  day  (truang hqp cfrn thi€t  kem theo diSu ki~n
-thi sinh phai h9c O 1 nam b6 sung ki€n  thuc tru&c khi vao h9c chinh thuc):
+Chương II
+XÉT TUYẾN ĐÀO TẠO CHÍNH QUY
+Điều 13. Phương thức xét tuyển đại học chính quy
+Đại học áp dụng tối đa 05 phương thức và quy định chi tiết, cụ thể trong Thông tin
+tuyển sinh của Đại học.
 
-a)  Thi sinh la nguai nu&c ngoai da d?t chufin nang Ive ngon ngfr theo yeu cfru  cua
+## Trang 13
 
-chuong trinh dao t?o phu hqp v&i  quy  dinh cua B(>  GDBT;
+1 kh
 
-9
+Điều 14. Phương thức xét tuyển liên thông đại học chính quy
 
-b) Thi sinh la nguai Vi?t Nam h9c t~p cip THPT, trung h9c nghS 6 nu6c ngoai ho?c
-h9c t~p  chuong trinh giao dvc nu6c ngoai bing tiSng nu&c ngoai 6 Vi?t Nam d<;tt trinh d(>
-tuong duong v&i  trinh  d(>  THPT,  trung  h9c nghS  cua Vi?t Nam va d<;tt  chu§.n  nang  h_rc
+Đại học áp dụng tối đa 05 phương thức và quy định chi tiết, cụ thể trong Thông tin
+tuyển sinh của Đại học.
 
-ng6n ngfr theo yeu cfiu cua chuong trinh dao t<;10  phu hqp v&i  quy dinh cua B(>  GDBT.
+Điều 15. Xây dựng kế hoạch xét tuyển
 
-c) Thi sinh la ngum dan t(>c thi€u  s6 rfrt it ngum theo quy dinh hi?n hanh cua Chinh phu;
+1. Bộ GDĐT ban hành kế hoạch tuyển sinh chung đề Đại học phối hợp triển khai
+các quy trình sau đây:
 
-d)  Thi sinh  la nguai khuy€t
+a) Đăng ký xét tuyển trên Cổng thông tin tuyển sinh của Bộ GDĐT (gọi tắt là Hệ
+thống) hoặc trên Cổng dịch vụ công Quốc gia;
 
-t~t  d?c  bi?t n?ng  c6 gifry  xac  nh~n  khuySt t~t  cua ca
-quan c6  th§.m  quySn  cfrp  theo quy  dinh;  c6  kha nang theo h9c m(>t  s6  chuong trinh dao
-t<;to  do B<;ti  h9c quy dinh nhung kh6ng c6 kha nang dlJ tuy€n  theo phuong thuc tuy€n  sinh
+b) Tổ chức xét tuyển tại Đại học theo quy định của Quy chế;
 
-binh thuong.
+c) Xử lý nguyện vọng trên Hệ thống (theo chu trình lặp kết hợp với quy trình xét
+tuyển tại Đại học);
 
-4.  Bc;ii  h9c quy dinh hinh thuc uu tien xet tuyen d6i v&i  cac thi sinh da d<;tt  ngu5ng
-dfiu vao ho?c c<)ng di€m  ( di€m  thuang, diem xet thuang, di€m  khuy€n  khich) cho truang
-hqp  sau  day:  Thi  sinh quy  dinh tc;ii  khoan  1,  2  Bi~u nay  dlJ  tuy€n  vao  cac chuong trinh
+d) Xác nhận nhập học trên Hệ thống và nhập học tại Đại học.
 
-dao t<;10  theo nguy?n v9ng ma kh6ng dung quySn tuy€n  thiing.
+2. Căn cứ kế hoạch tuyển sinh chung, Đại học xây dựng kế hoạch xét tuyển thẳng,
+xét tuyển đợt 1 và kế hoạch xét tuyển các đợt bổ sung (nếu có).
 
-5.  D<;ti  h9c  quy  dinh  cv th€  va c6ng b6 trong thong tin tuy€n  sinh:  k€  ho<;tch  tuy€n
+Điều 16. Tổ chức đăng ký và xét tuyển thẳng
 
-sinh,  d5i  tm;mg,  s6 lm;mg tuy€n  sinh, tieu chi, ph<;tm  vi tuyen sinh,  chuong trinh dao t<;10
+1. Căn cứ thông tin tuyển sinh đã công bố, Đại học tổ chức cho thí sinh thuộc đối
+tượng được xét tuyển thẳng theo quy định tại Điều 8 của Quy chế này đăng ký dự tuyển.
 
-de xet tuy€n  thiing, uu tien xet tuy€n.
+2. Đại học tổ chức xét tuyển thẳng cho những thí sinh đủ điều kiện, công bố và cập
+nhật danh sách thí sinh đủ điều kiện trúng tuyển (trừ điều kiện tốt nghiệp THPT) lên Hệ
+thống để xử lý nguyện vọng cùng với các phương thức xét tuyển khác theo kế hoạch
+chung; hoàn thành trước khi thí sinh đăng ký xét tuyển trên Hệ thống.
 
-Di~u  9. Ngrrfrng d§u vao cac chrrrrng trinh dao t~o chinh quy va thrrong xuyen
+3. Thí sinh đã trúng tuyển vào Đại học theo kế hoạch xét tuyển thẳng thực hiện đăng
+ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GDĐT để lựa chọn chương
+trình đào tạo đã trúng tuyển thẳng tại Đại học hoặc đăng ký nguyện vọng xét tuyển khác.
 
-1.  Ngu5ng dfiu vao d6i v&i  chuang trinh dao t<;10  thu<)c  linh vvc phap  lu~t su dvng
+4. Thí sinh trúng tuyển thẳng xác nhận nhập học theo kế hoạch chung.
 
-phuong thuc tuy€n  sinh theo kSt qua thi t6t nghi~p THPT, trung h9c nghS dm;rc quy dinh
-hing nam do Be) truang Be)  GDDT, chu tri, ph6i hqp v6i B(>  tru6ng Be) Tu phap quy dinh
-ngu5ng dfiu vao d6i v&i  chuong trinh dao t<;10  thu<)c linh VlJC  phap lu~t.
+5. Đại học không yêu cầu thí sinh cam kết nhập học dưới mọi hình thức hoặc xác
+nhận nhập học sớm hơn lịch trình theo kế hoạch chung.
 
-2. D6i v&i phuong thuc tuy€n  sinh kh6ng su dt,mg k€t  qua thi t6t nghi?p THPT ho?c
-phuong thuc tuy€n  sinh k€t  hqp, thi sinh phai d<;tt  nguong dfiu vao  d6i v&i  chuang trinh
+Điều 17. Đăng ký xét tuyển trên Hệ thống
 
-dao t<;to  thu(>c linh VlJC phap lu~t ap dt,mg khoan 1 f)i6u nay hO?C k€t  qua trung binh chung
-h9c t~p  duc;rc  danh gia muc t6t (h9c llJc  xSp  lo<;ti  tir  gi6i tr&  len)  ca nam lap  12  (k€t  qua
+1. Bộ GDĐT hỗ trợ tổ chức đăng ký xét tuyển đợt 1 đào tạo chính quy cho tất cả
+phương thức tuyển sinh của Đại học. Thời gian đăng ký theo kế hoạch tuyển sinh hằng
+năm.
 
-h9c  t~p  02  h9c ky  nam cu6i  cfrp  d6i v&i  d6i  tuc;rng  trung h9c  nghS  va tuang  duang) va
-t6ng di€m  03  m6n thi t6t nghi~p THPT theo t6 hqp xet tuy€n  (ho?c su dt,mg  di€m  thi m6n
+2. Thí sinh dự tuyển đợt 1 đào tạo chính quy thực hiện đăng ký xét tuyển trên Hệ
+thống (hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ
+GDĐT hằng năm.
 
-Toan, Ngfr van va m(>t  m6n thi  khac)  d<;tt  18,00  diem  tr&  len  ho?c  di€m  xet t6t nghi~p
+3. Thí sinh được đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo, các
+cơ sở giáo dục đại học khác nhau; nguyện vọng phải được sắp xếp theo thứ tự ưu tiên từ
+cao xuống thấp. Trong trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh
+chỉ được công nhận trúng tuyển và gọi nhập học theo nguyện vọng cao nhất.
 
-THPT ( di€m  thi t6t nghi~p trung h9c nghS) tir 8,50 tr&  len.
+## Trang 14
 
-3. Thi sinh da t6t nghi~p trinh de)  trung cftp tr& len cung nh6m nganh dlJ tuy€n  trinh
+13 LÌ—
 
-de)  d<;ti  h9c duqc ap dvng quy dinh ngu5ng dfiu vao nhu sau:
+4. Thí sinh thể hiện nguyện vọng đăng ký xét tuyển trên Hệ thống như sau:
 
-B6i v&i  thi  sinh dlJ  tuy€n  vao  chuong trinh thu9c  linh VlJC  phap lu~t,  ngu5ng dfiu
+a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng có thứ tự ưu tiên cao nhất);
 
-vao duc;rc  ap dl,lilg m9t trong cac tieu chi sau:
+b) Lựa chọn Đại học (mã NEU);
 
-- K€t  qua trung binh chung h9c t~p  danh  gia muc t6t (h9c llJc  x€p
+c) Lựa chọn chương trình đào tạo (mã xét tuyển).
 
-lo?i tir gi6i tr&
-len) ho?c di€m  trung binh chung cac m6n van h6a cip THPT d<;tt tu 8,00 tro len theo thang
+5. Trong đợt 1, thí sinh đăng ký xét tuyển và chỉ nộp lệ phí xét tuyển một lằn duy
+nhất (không bao gồm lệ phí các kỳ bồ trợ, kỳ thi độc lập) theo mức thu dịch vụ tuyển sinh
+do Đại học quy định.
 
-diem 10;
+Điều 18. Xét tuyển và xử lý nguyện vọng theo kế hoạch chung
 
-- T6t nghi?p THPT lo<;ti  gi6i tro len hO?C  kSt qua h9c t~p  ca nam lap  12  duc;rc  danh
-gia muc kha (h9c ll_!c  xSp  lo<;ti  kha) va c6 03  nam kinh nghi~m c6ng tac dung v&i  chuyen
-mon dao tc;io;
+1. Đại học tổ chức xét tuyển theo các phương thức và tiêu chí xét tuyển riêng, hoặc
+tự nguyện phối hợp theo nhóm đề tổ chức xét tuyển theo các phương thức và tiêu chí xét
+tuyển chung theo kế hoạch tuyển sinh hằng năm. Bộ GDĐT hướng dẫn lịch trình xét
+tuyển và hỗ trợ việc xử lý nguyện vọng trên Hệ thống.
 
-- T6t nghi?p trung d.p, cao dfulg,  d?i h9c dq.t  loq.i  gioi tr& len;
+2. Sau khi kết thúc thời gian đăng ký nguyện vọng trên Hệ thống, Đại học tải thông
+tin, dữ liệu từ Hệ thống bao gồm: dữ liệu đăng ký nguyện vọng, kết quả học tập cấp THPT
+(trung học nghề), kết quả kỳ thi tốt nghiệp THPT (trung học nghề), điểm xét tốt nghiệp
+THPT (trung học nghề), kết quả thi của Đại học tổ chức thi trong năm tuyển sinh, điểm
+chứng chỉ ngoại ngữ, dữ liệu về ưu tiên theo khu vực và đối tượng của những thí sinh dự
+tuyển đề phục vụ xét tuyển.
 
-- T6t nghi?p trinh d9 trung d.p ho~c trinh d9  cao ding ho~c trinh d9 d?i h9c d?t lo?i
+3. Nguyên tắc xét tuyển
 
-kha va c6 03  nam kinh nghi?m cong tac dung v&i  chuyen mon dao tq.o.
+a) Điểm trúng tuyển được xác định để số lượng tuyển được theo từng chương trình
+đào tạo phù hợp với số lượng tuyến sinh đã công bố theo nguồn tuyển và không thấp hơn
+ngưỡng đầu vào;
 
-4. Can cu yeu du baa dam chfit luqng, Dq.i h9c xac djnh va cong b6 nguong d§.u vao
-cho cac chuang trinh dao tq.o va phuang thuc tuySn sinh tru6c thai gian k@t thuc dang ky dµ
-tuySn theo k@  ho?ch tuySn sinh hfulg nam va yeu c§.u cua chufui chuang trinh dao t?o.
+b) Đối với một chương trình đào tạo, tất cả thí sinh được xét chọn bình đẳng dựa
+trên điểm xét và điểm trúng tuyển quy đổi tương đương theo từng phương thức xét tuyển,
+tổ hợp xét tuyển, không phụ thuộc thứ tự ưu tiên của nguyện vọng đăng ký trừ trường hợp
+quy định tại điểm c khoản này;
 
-D6i v6i nguong d§.u vao chuang trinh dao t?o thu9c linh vµc phap lu~t nguong d§.u
+c) Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ưu tiên
+đối với các thí sinh có điểm cộng thấp hơn; trường hợp nhiều thí sinh có cùng điểm xét ở
+cuối danh sách và có điểm cộng bằng nhau, thứ tự xét ưu tiên đối với các thí sinh có thứ
+tự ưu tiên nguyện vọng cao hơn;
 
-vao do Dq.i  h9c xac dinh khong duqc thfip  hem  quy dinh t?i BiSu nay.
+d) Việc sử dụng điểm ưu tiên khu vực, đối tượng để xét tuyển đảm bảo thống nhất,
+đồng bộ với quy định về điểm ưu tiên được quy định tại Điều 7 của Quy chế này.
 
-Di~u  10. Bao hru  k~t qua tning tuy~n
+đ) Đại học có thể quy định các tiêu chí phụ khác làm điều kiện cần để xét tuyển và
+không sử dụng làm tiêu chí phân loại thí sinh ở điểm c, khoản này.
 
-1. Thi sinh da c6 gifiy bao trung tuySn duqc baa luu k@t qua trung tuySn trong nhfrng
+4. Sau mỗi chu kỳ xét tuyển, Đại học tải danh sách thí sinh dự kiến đủ điều kiện
+trúng tuyển chương trình đào tạo (theo các phương thức tuyển sinh) lên Hệ thống. Hệ
+thống tự động loại bỏ khỏi danh sách những nguyện vọng thấp của thí sinh đủ điều kiện
+trúng tuyển nhiều nguyện vọng và trả lại danh sách thí sinh dự kiến trúng tuyển theo
 
-tru®g hqp sau:
+## Trang 15
 
-a) Bi nghia V\l  quan sµ,  cong an nhan dan ho~c di thanh nien xung phong t~p  trung
+14 b—
 
-ngay trong nam trung tuySn theo quy@t  dinh ho~c l~nh cua ca quan c6 thfim  quySn;
+nguyện vọng cao nhất. Đại học có trách nhiệm rà soát đầy đủ thông tin trong thông tin
+tuyển sinh với kết quả thí sinh dự kiến trúng tuyển theo nguyện vọng cao nhất sau mỗi
+lần Hệ thống trả kết quả xử lý nguyện vọng.
 
-b) Bi b~nh n~ng ho~c bi tai n?n nghiem tr9ng khong thS nh~p  h9c dung h?n,  c6 h6
+5. Căn cứ kết quả xử lý nguyện vọng, Đại học lặp lại quy trình xét tuyển ở chu kỳ
+sau, điều chỉnh điểm trúng tuyển phù hợp với số lượng tuyển sinh trong thời hạn quy
+định. Ở chu kỳ cuối, Đại học quyết định điểm trúng tuyển vào các chương trình đào tạo
+(theo các phương thức tuyển sinh) và tải lên Hệ thống danh sách (chính thức) thí sinh đủ
+điều kiện trúng tuyển. Trên cơ sở kết quả xử lý nguyện vọng cuối cùng, Đại học quyết
+định danh sách thí sinh trúng tuyển vào các chương trình đào tạo theo đúng thông tin công
+bố trong thông tin tuyển sinh.
 
-sa y t~ va xac nh~n cua b?nh vi~n cfip  ca ban tr&  len.
+Điều 19. Thông báo kết quả và xác nhận nhập học
 
-2.  Thi sinh thu9c  di~n  quy  dinh tq.i  khoan  1 gui  dan xin bao  luu kem theo gifiy  to
-minh chung t&i Dq.i  h9c g9i nh~p h9c.  Thai gian t6i da duqc bao luu k@t  qua do D?i h9c
-quy  dinh, nhung khong qua 36 thang d6i v&i nguai quy  dinh t?i khoan  I DiSu nay.
+1. Đại học công bố điểm trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các
+chương trình đào tạo theo các phương thức tuyển sinh, cam kết thông tin công bố chính
+xác và chịu trách nhiệm về kết quả công bố trúng tuyển; tổ chức cho thí sinh tra cứu kết
+quả trúng tuyển (điểm của thí sinh và tên phương thức trúng tuyển) trên trang thông tn
+điện tử của Đại học (hoặc của nhóm Đại học phối hợp xét tuyển); giải đáp thắc mắc của
+thí sinh và xã hội (nếu có) về kết quả công bố.
 
-3. Ngay sau khi du diSu ki~n di h9c tr& l?i, nguai dm;rc baa luu k@t qua trung tuySn
+2. Đại học thông báo kết quả trúng tuyển cho từng thí sinh theo điểm và tên phương
+thức trúng tuyển kèm theo thủ tục nhập học và có quyền từ chối nhập học đối với thí sinh
+khai báo không trung thực về thông tin cá nhân đăng ký xét tuyển.
 
-phai thµc  hi~n thu t1,lc  nh~p h9c theo quy  dinh cua D?i h9c, trong d6 phai cung d.p minh
-chung da hoan thanh nhi~m V\l  ho~c  da duqc diSu tri h6i phl,.lc.  D6i v&i  tru®g hqp quy
-dinh t?i diSm a khoan  1 DiSu nay c6 thai gian bao luu 36 thang, Giam d6c D?i h9c xem
-xet gi&i  thi~u vao cac truoog, lap dµ  bi dq.i  h9c dS  on t~p tru6c khi vao h9c chinh thuc.
+3. Thí sinh xác nhận nhập học trực tuyến trên Hệ thống trước khi nhập học tại Đại
+học trong thời hạn quy định.
 
-Di~u  11.  Quan trj rui  ro  tuy~n sinh  cua DH KTQD
+4. Đối với những thí sinh không xác nhận nhập học trong thời hạn quy định:
 
-D?i h9c cam k@t giai quy@t khi~u n?i, baa v~ quySn lc;ri  chinh dang cua thi sinh trong
-nhfing  truong  hqp  rui  ro,  trach  nhi?m  giai  quy@t  vi~c  thi  sinh  duc;rc  chuy€n  d@n  ho~c
-chuySn  di  do  sai s6t trong tuySn sinh theo phap  lu~t hi~n  hanh cua Nha nu&c,  theo  quy
-ch€
+a) Trường hợp không có lý do chính đáng thì coi như thí sinh đã từ chối nhập học
+và Đại học có quyền không tiếp nhận;
 
-tuySn sinh cua BQ  GDDT vacua DH KTQD.
+b) Trường hợp do ốm đau, tai nạn, có giấy xác nhận của bệnh viện cấp cơ bản trở
+lên hoặc do thiên tai có xác nhận của ủy ban nhân dân cấp xã, Đại học xem xét quyết định
+tiếp nhận thí sinh vào học hoặc bảo lưu kết quả tuyển sinh, việc chấp thuận thí sinh vào
+học do Giám đốc Đại học quyết định và chịu trách nhiệm giải trình về thời gian tiếp nhận
+thí sinh nhập học muộn (nếu có);
 
-Di~u  12. Thong tin tuy~n sinh
+c) Trường hợp do sai sót, nhằm lẫn được xác định thuộc lỗi kỹ thuật khách quan
+trong công tác tuyển sinh, Giám đốc Đại học chủ động phối hợp với các cá nhân, tổ chức
+liên quan xem xét các minh chứng và quyết định việc tiếp nhận thí sinh vào học hoặc bảo
+lưu kết quả tuyển sinh đề thí sinh vào học; lập hồ sơ lưu trữ và báo cáo danh sách riêng
+thí sinh bị sự cố trong báo cáo kết quả tuyển sinh hằng năm.
 
-1. 86i v6i m6i hinh thuc dao tc:10  (D?i h9c chinh quy, Lien thong dq.i h9c chinh quy;
-Dc:ti  h9c  VL VH;  B?i h9c Tu xa),  D?i  h9c xay  dµng,  cong b6,  thµc  hi~n  dung  cam  k@t
-thong tin tuy€n  sinh vS  d6i tuqng,  diSu  ki~n dµ  tuySn,  ngu6n tuySn,  phuang thuc tuySn
-sinh, nguong d§.u vao, diSm c()ng, d9 l?ch diSm, tieu chi ph\l (n~u c6); c6 trach nhi?m giai
-trinh v&i thi sinh, ca quan quan ly nha nu6c va xa h()i. Thong tin tuySn sinh phai bao dam
-cac yeu du sau day:
+5. Thí sinh đã xác nhận nhập học tại Đại học không được tham gia xét tuyển ở nơi
+khác hoặc ở các đợt xét tuyển bổ sung trong năm tuyển sinh, trừ trường hợp được Giám
+đốc Đại học trúng tuyển cho phép.
 
-a)  Cung cfip  du thong tin  dS  thi  sinh  h,ra  ch9n chuang trinh dao tq.o,  phuang thuc
-tuy€n  sinh phu hqp v&i  nang lµc,  sa thich va diSu  ki~n  ca nhan;  chufrn  bi  cac diSu ki?n
-tham gia dµ  tuy€n  va thµc  hi~n cac bu&c theo k@  hoc:1ch  tuy€n  sinh cua Bc:ti  h9c;
+## Trang 16
 
-11
+15 vn
 
-b) Ca quan quan ly nha nu6c va xa h<)i giam sat duqc vi~c thµc hi~n quy dµili  cua phap
+Điều 20. Tổ chức đăng ký và xét tuyển các đợt bổ sung
 
-lu?t va cac cam k€t  d6i v&i ngum h9c cua D?i h9c trong cong tac tuySn sinh va dao ti;).O.
+1. Căn cứ số lượng tuyển sinh của chương trình đào tạo và số thí sinh trúng tuyển
+đã xác nhận nhập học vào chương trình đào tạo, Giám đốc Đại học quyết định xét tuyển
+các đợt bổ sung và công bố kế hoạch xét tuyển, phương thức xét tuyển, hình thức đăng
+ký xét tuyển các đợt bổ sung, điều kiện xét tuyển bổ sung đối với các chương trình đào
+tạo theo từng phương thức xét tuyển nhưng không thấp hơn điều kiện trúng tuyển đợt 1.
 
-2. N<)i  dung chu y€u  cua thong tin tuySn sinh g6m c6:
+2. Thí sinh chưa trúng tuyển hoặc đã trúng tuyển nhưng chưa xác nhận nhập học
+vào một Đại học bất kỳ có thể đăng ký xét tuyển các đợt bổ sung theo kế hoạch và hướng
+dẫn của Đại học.
 
-a)  Gi&i thi~u ve D?i h9c,  chuang trinh dao t?o tuySn sinh, gi!y phep ho?t d<)ng  cua
-nganh dao  t?o  (n€u  c6),  quy€t  dinh ban hanh chuang trinh  dao t?o,  d<)i  ngu giang vien,
-dieu ki~n h9c t~p  va nghien cuu, CO'  SO'  V?t  ch!t, van bing t6t nghi~p,  k€t  qua kiSm  dinh
-ch!t luqng (n€u  c6), ty 1~  sinh vien t6t nghi~p  (tren t6ng s6 nh?p h9c), ty 1~  sinh vien t6t
-nghi~p c6 vi~c lam phu hqp trinh d<)  chuyen mon (theo Ph\l 11,lc  III cua Quy ch€);
+3. Kết thúc mỗi đợt xét tuyển, Đại học công bố trên trang thông tin điện tử điểm
+trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các chương trình đào tạo theo các
+phương thức tuyển sinh; tổ chức cho thí sinh tra cứu kết quả xét tuyển của cá nhân (điểm
+của thí sinh và tên phương thức trúng tuyển); gửi giấy báo trúng tuyển và hướng dẫn cho
+thí sinh trúng tuyển nhập học.
 
-b) Thong tin d.iy du ve chi phi dao t?o, muc thu h9c phi, muc thu dich V\l tuySn sinh
-va khoan thu dich V1_I  khac cho 19 trinh ca kh6a h9c, tung nam h9c;  chinh sach h9c b6ng,
-mien giam h9c phi, h6 trq tai chinh, ch6 6 ky tuc xa va cac chinh sach uu dai, h6 trq khac
-danh cho nguai h9c;
+4. Đại học có thế công bố xét tuyển đợt bổ sung ngay sau khi có kết quả thí sinh xác
+nhận nhập học các đợt nếu số thí sinh xác nhận nhập học các đợt thấp hơn số lượng tuyển
+sinh của Đại học công bố trong tuyển sinh đợt 1; việc xét tuyển bổ sung phải đảm bảo số
+lượng tuyển sinh công bố trong các đợt bổ sung không được vượt quá số lượng tuyển sinh
+đã công bố ở đợt 1; mỗi đợt xét tuyển bổ sung, thời gian từ khi công bố phương án đến
+khi bắt đầu xét tuyển phải tối thiểu là 10 ngày.
 
-c) K€  ho?ch tuySn sinh va ph?m vi tuySn sinh cac dqt trong nam (trong d6 dqt 1 tuy€n
+. Chương III
+TUYỂN SINH ĐẠI HỌC VỪA LÀM VỪA HỌC
 
-sinh d?i h9c phu hqp v6i k€  ho?ch chung do B9 GDDT ban hanh), g6m ca quy dinh ve d6i
-tuqng, dieu ki~n tuy€n  sinh, phuang thuc tuySn sinh, t6  hqp xet tuy€n  va s6  luqng tuySn
-sinh ( dµ  ki€n)  d6i v6i cac chuang trinh dao t?o; quy tile quy d6i tuang duang nguong d.iu
-vao, diSm trung tuySn cua cac phuang thuc, t6 hqp xet tuySn; phmmg thuc va tieu chi phan
-b6 nguai h9c theo h9c chuang trinh dao t?o cua D?i h9c d6i v&i truang hqp xet tuySn theo
-nh6m nganh,  nganh c6 nhieu chuang trinh dao  t?O  cung m<)t  muc diSm trung tuySn;  quy
-trinh, thu t\lc dang ky dv tuySn va cac thong tin cin thi€t  khac cho thi sinh;
+Điều 21. Phương thức xét tuyển
 
-d) Phuang an xu ly rui ro khi triSn khai cong tac tuySn sinh va cam k€t  trach nhi~m
+1. Xét tuyển thẳng: Thí sinh thuộc đối tượng tuyển thẳng theo Quy chế tuyển sinh
+của Bộ GDĐT và Quy chế tuyển sinh đại học của ĐH KTQD.
 
-cuaD?i h9c.
+2. Xét tuyển kết hợp: Đại học áp dụng tối đa 05 phương thức xét tuyển. Các phương
+thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT, kết quả học tập bậc THPT, kết quả
+học tập ở bậc Trung cấp, Cao đắng, Đại học.
 
-3.  Thong tin  tuySn  sinh,  n<)i  dung  dieu  chinh,  d<)  l~ch  diSm,  s6  luqng tuySn  sinh
-chinh thuc, nguong bao dam ch!t luqng d.iu vao t?i thong tin tuySn sinh (phl,11\lc IV) phai
-cong b&  tren  C6ng thong tin  di~n tu cua D?i h9c theo k€  ho?ch tuySn sinh chung hing
-nam cua B9 GDDT;  duy tri t6i thiSu 04 nam lien tl,lC  kS tir ngay cong b6, truang hqp C?P
-nh?t thong tin phai ghi thai diSm C?P nh?t.
+3. Chỉ tiết các phương thức xét tuyển được quy định cụ thể trong Thông tin tuyển
+sinh của Đại học.
 
-4.  E>?i  h9c xay  dvng phuang an  quan tri rui ro trong cong tac tuySn sinh, bao g6m
-t6  khach quan
+4. Điểm chuẩn được xác định theo từng ngành/đợt tuyển sinh và từng địa phương
+tuyển sinh.
 
-cac tinh hu6ng:  sai  l~ch du  li~u,  16i  h~  th&ng,  gian  l?n h6  sa va cac y€u
-khac; bao dam quyen lqi hqp phap cua thi sinh.
+Điều 22. Chính sách điểm cộng
 
-ChtrO'ng II
+1. Đại học quy định điểm khuyến khích dựa trên các tiêu chí phản ánh năng lực và
+thành tích của thí sinh như: kinh nghiệm nghề nghiệp, thành tích học tập, chứng chỉ
+chuyên môn, phù hợp với yêu cầu đầu vào của chương trình đào tạo.Việc xác định điểm
+khuyến khích bảo đảm nguyên tắc công bằng, minh bạch và không phân biệt đối xử giữa
+các thí sinh.
 
-XET TUYEN BAO T~O CHiNH QUY
+## Trang 17
 
-Di~u 13. PhtrO'ng thrrc xet tuy~n d~i hQc chinh quy
+16 an
 
-E>?i  h9c ap dl,lng t6i da 05  phuang thuc va quy dinh chi ti€t,  C\l  th€  trong Thong tin
+2. Điểm xét thưởng (điểm cộng) dành cho các đối tượng thí sinh đã tốt nghiệp Trung
+cấp, Cao đẳng, Đại học (thành tích học tập): Thí sinh tốt nghiệp từ trung cấp trở lên được
+cộng (+) 1,5 (một phây năm) điêm.
 
-tuySn sinh cua D?i h9c.
+3. Điểm khuyến khích (điểm cộng) dành cho các đối tượng thí sinh vừa làm vừa
+học. Cụ thê:
 
-12
+- Thí sinh tốt nghiệp THPT tại năm xét tuyển không được cộng điểm khuyến khích
+dành cho đôi tượng vừa làm vừa học;
 
-Di~u 14. Phll'O'ng thfrc xet tuySn  lien thong d~i h<,>c  chinh quy
+- Thí sinh tốt nghiệp THPT trước năm xét tuyển 01 năm được cộng (+) 0,5 (không
+phẩy năm) điểm khuyến khích dành cho đối tượng vừa làm vừa học;
 
-D?i h9c ap  d1,mg t6i da 05 phuong thuc va quy dinh chi tiet, C\l th€
+- Thí sinh tốt nghiệp THPT trước năm xét tuyển 02 năm được cộng (+) 1,0 (một)
+điêm khuyên khích dành cho đôi tượng vừa làm vừa học;
 
-trong Thong tin
+- Thí sinh tốt nghiệp THPT trước năm xét tuyển từ 03 năm trở về trước được cộng
+(+) 1,5 (một phây năm) điêm khuyên khích dành cho đôi tượng vừa làm vừa học.
 
-tuy@n sinh cua D?i h9c.
+4. Thí sinh có chứng chỉ ngoại ngữ hoặc có chứng chỉ quốc tế đạt chuẩn để miễn
+thi tốt nghiệp môn ngoại ngữ theo quy định được cộng (+) 1,5 (một phẩy năm) điểm.
 
-Di~u  15. Xay d\fng k~  ho~ch xet tuySn
+5. Tổng điểm cộng của một thí sinh không vượt quá 03 (ba) điểm.
 
-1.  B9  GDDT ban hanh ke  ho?ch tuy@n  sinh chung d@  D?i h9c ph6i hgp  tri@n  khai
+Điều 23. Xây dựng kế hoạch xét tuyển
 
-cac quy trinh sau day:
+1. Bộ GDĐT ban hành kế hoạch tuyển sinh chung để Đại học phối hợp triển khai
+các quy trình sau đây:
 
-a)  Dang ky  xet tuy@n  tren C6ng thong tin tuy@n  sinh cua B9  GDDT  (g9i tit la H?
+a) Đăng ký xét tuyển trên Cổng thông tin tuyển sinh của Khoa Đại học Tại chức;
 
-th6ng) ho~c tren C6ng dich V\l  cong Qu6c gia;
+b) Tổ chức xét tuyển tại Đại học theo quy định của Quy chế;
 
-b) T6 chuc xet tuySn t?i D?i h9c theo quy dinh cua Quy che;
+c) Xử lý nguyện vọng trên Hệ thống xét tuyển tại đơn vị;
 
-c)  Xu ly  nguy?n v9ng tren H? th6ng (theo  chu trinh  l~p  ket hgp  vai quy  trinh xet
+d) Xác nhận nhập học và nhập học tại Đại học và các đơn vị phối hợp đào tạo tại
+địa phương.
 
-tuySn t?i D?i h9c);
+2. Căn cứ kế hoạch tuyển sinh chung, Đại học xây dựng kế hoạch xét tuyển thẳng,
+xét tuyển các đợt tuyển sinh trong năm.
 
-d) Xac nh~n nh~p h9c tren H? th6ng va nh~p h9c t?i D?i h9c.
+Điều 24. Tổ chức đăng ký và xét tuyển thẳng
 
-2.  Can cu k€  ho?ch tuy@n  sinh chung, D?i h9c xay  dlJilg ke ho?ch xet tuy€n
+1. Căn cứ thông tin tuyển sinh đã công bố, Đại học tổ chức cho thí sinh thuộc đối
+tượng được xét tuyển thẳng theo quy định tại Điều 8 của Quy chế này đăng ký dự tuyển.
 
-thing,
+2. Đại học tổ chức xét tuyển thẳng cho những thí sinh đủ điều kiện, công bố và cập
+nhật danh sách thí sinh đủ điều kiện trúng tuyển (trừ điều kiện tốt nghiệp THPT) lên Hệ
+thống tuyển sinh của đơn vị và xử lý nguyện vọng cùng với các phương thức xét tuyển
+khác theo kế hoạch chung: hoàn thành trước khi thí sinh đăng ký xét tuyển trên Hệ thống.
 
-xet tuy@n dgt 1 va k€  ho?ch xet tuy@n  cac dgt bf>  sung (n€u  c6).
+3. Thí sinh đã trúng tuyển vào Đại học theo kế hoạch xét tuyển thẳng thực hiện đăng
+ký nguyện vọng trên Hệ thống tuyển sinh của đơn vị để lựa chọn chương trình đào tạo đã
+trúng tuyển thẳng tại Đại học hoặc đăng ký nguyện vọng xét tuyển khác.
 
-Di~u  16. TA  chfrc dang ky va xet tuySn  thing
+4. Thí sinh trúng tuyển thẳng xác nhận nhập học theo kế hoạch chung.
 
-1.  Can cu thong tin tuy@n  sinh da cong b6,  D?i h9c t6  chuc cho  thi sinh thu9c d6i
-tuqng dugc xet tuy@n thing theo  quy  dinh t?i DiSu 8 cua Quy ch€  nay  dang ky  dv tuySn.
+## Trang 18
 
-2.  D?i h9c t6 chuc xet tuy@n thing cho nhfrng thi sinh du  diSu ki?n,  cong b6 va c~p
-nh~t danh sach thi sinh du  diSu ki?n trung tuy@n  (trir diSu ki?n t6t nghi?p THPT) len H?
-th6ng  dS  XU  ly  nguy?n  v9ng  cung  vai  cac  phuong thuc  xet  tuy@n  khac theo  ke  ho?Ch
-chung; hoan thanh truac khi thi sinh dang ky xet tuy@n tren H? th6ng.
+7 làm
 
-3. Thi sinh da tiung tuy@n ·vao D?i h9c theo k€  ho?ch xet tuySn thing thvc hi?n dang
-ky  nguy?n v9ng tren H? th6ng theo k€  ho?ch chung cua B9 GDDT dS  Iva ch9n chuong
-trinh dao t?o da trung tuy@n thing t?i D?i h9c ho~c dang ky nguy?n v9ng xet tuy€n  khac.
+5. Đại học không yêu cầu thí sinh cam kết nhập học dưới mọi hình thức hoặc xác
+nhận nhập học sớm hơn lịch trình theo kê hoạch chung.
 
-4.  Thi sinh trung tuy@n thing xac nh~n nh~p h9c theo ke ho?ch chung.
+Điều 25. Đăng ký xét tuyển
 
-5.  D?i h9c khong yeu du thi  sinh cam ket nh~p  h9c  duai m9i hinh thuc ho~c xac
+1. Thí sinh tham gia xét tuyển sinh đại học hình thức VLVH đăng ký xét tuyển trên
+hệ thống tuyển sinh của đơn vị theo kế hoạch chung và thông báo tuyển sinh, hướng dẫn
+của Khoa Đại học Tại chức hăng năm.
 
-nh~n nh~p h9c sam han lich trinh theo k€  ho?ch chung.
+2. Thí sinh được đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo của
+đại học; nguyện vọng phải được sắp xếp theo thứ tự ưu tiên từ cao xuống thấp. Trong
+trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh chỉ được công nhận
+trúng tuyển và gọi nhập học theo nguyện vọng cao nhất.
 
-Di~u  17. Dang ky xet tuySn tren H? th6ng
+3. Thí sinh thể hiện nguyện vọng đăng ký xét tuyển trên Hệ thống tuyển sinh của
+đơn vị như sau:
 
-1.  B9 GDDT h6 trg t6  chuc dang ky  xet tuy€n  dgt  1 dao  t?o  chinh  quy  cho tit ca
-phuong thuc tuySn  sinh cua D?i h9c.  Thai gian dang ky  theo k€  ho?ch tuy€n  sinh hing
-nam.
+a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng có thứ tự ưu tiên cao nhất):
 
-2.  Thi sinh dv tuySn  dgt  1 dao t?o chinh quy  thvc hi?n dang ky  xet tuy@n  tren H?
-th6ng (ho~c qua C6ng dich V\l  cong qu6c gia) theo k€  ho?ch chung va hu6ng d~n cua B9
-GDDT hing nam.
+b) Lựa chọn chương trình đào tạo (mã xét tuyển).
 
-3.  Thi sinh dugc dang ky  t6i  da  15  nguy?n v9ng vao  cac chuang trinh dao t?o,  cac
-theo thu tv uu tien tir
-ca sa giao dl,lc  d?i h9c khac nhau;  nguy?n v9ng phai dugc sip x€p
-cao xu6ng thftp.  Trang tmang hgp nhiSu nguy?n v9ng du  diSu ki?n trung tuySn,  thi sinh
-chi dugc cong nh~n trung tuySn va g9i nh~p h9c theo nguy?n v9ng cao nh§.t.
+4. Trong các đợt xét tuyển sinh, thí sinh đăng ký xét tuyển và chỉ nộp lệ phí xét
+tuyển một lần duy nhất theo mức thu dịch vụ tuyển sinh do Đại học quy định.
 
-13
+Điều 26. Tổ chức xét tuyển và xử lý nguyện vọng
 
-4.  Thi sinh th€  hi?n nguy?n v9ng dang ky xet tuy€n  tren H? th6ng nhu sau:
+1. Tổ chức xét tuyển
 
-a) Thu tµ uu tien cua nguy?n v9ng (s6 1th€  hi?n nguy?n v9ng c6 tht'.r tµ uu tien cao nh.1t);
+- Đại học tổ chức tuyển sinh trong cả năm và trên cả nước;
 
-b) Lµa ch9n B~i h9c (ma NEU);
+- Địa điểm học tại Đại học và đơn vị phối hợp đào tạo tại các địa phương;
 
-• c) Lµa chc;m  chuong trinh dao t~o (ma xet tuy€n).
+- Có thông báo cụ thể riêng cho mỗi đợt/lần tuyển sinh theo ngành, chuyên ngành/chương
+trình đào tạo tại mỗi địa điểm tổ chức lớp học (tại Đại học hoặc tại các địa phương);
 
-5.  Trong dqt  1,  thi sinh dang ky xet tuy€n  va chi n('>p  I? phi xet tuy€n  m('>t  I.in  duy
-nhfit (khong bao g6m I? phi cac ky b6 trq, ky thi d('>c  l~p) theo mt'.rc thu dich vv tuy€n  sinh
-do B~i h9c quy dinh.
+- Hồ sơ dự tuyển cần đầy đủ và thí sinh phải chịu trách nhiệm về tính chính xác của
+hồ sơ (theo mẫu của Đại học);
 
-Di~u  18. Xet tuy~n va  xfr ly nguy~n v9ng theo k~  ho~ch chung
+- Đại học không hoàn trả hồ sơ và lệ phí tuyển sinh sau khi thí sinh đã nộp.
 
-1.  B?i h9c t6 cht'.rc xet tuy€n  theo cac phuong tht'.rc  va tieu chi xet tuy€n  rieng, ho~c  •
+2. Xử lý nguyện vọng
 
-tµ  nguy?n ph6i hqp theo nh6m d€
-t6 cht'.rc xet tuy€n  theo cac phuong tht'.rc va tieu chi xet
-tuy€n  chung  theo  kS  ho~ch  tuy€n  sinh  hfing  nam. B('>  GDBT  hu6ng  d~n  lich trinh xet
-tuy€n  va h6 trq vi?c xu ly nguy?n v9ng tren H? th6ng.
+- Điểm trúng tuyển được xác định để số lượng tuyển được theo từng ngành, chương
+trình đào tạo phù hợp với số lượng chỉ tiêu đã công bố theo nguồn tuyển, nhưng không
+thấp hơn ngưỡng đầu vào;
 
-2.  Sau khi k€t  thuc thai gian dang ky nguy~n v9ng tren H? th6ng, B~i h9c tai thong
-tin, dfr li?u tu H~ th6ng bao g6m: dfr li?u dang ky nguy?n v9ng, kSt qua h9c t~p c.ip THPT
-(trung h9c ngh@),  kSt  quaky thi t6t nghi?p THPT (trung h9c ngh@),  di€m  xet t6t nghi?p
-THPT (trung h9c  ngh@),  k€t  qua thi cua B~i h9c t6  cht'.rc  thi trong nam tuy€n  sinh,  di€m
-cht'.rng  chi ngo~i ngfr,  dfr li~u v@  uu tien theo khu vµc va d6i tuQ11g cua nhfrng thi sinh dµ
-tuy€n  d€  ph\lc V\l xet tuy€n ;
+- Đối với một ngành, nhóm ngành, chương trình đào tạo tất cả các thí sinh được chọn
+bình đẳng dựa trên điểm xét tuyển theo từng phương thức xét tuyển, tổ hợp xét tuyển;
 
-3.  Nguyen ttlc xet tuy€n
+- Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ưu tiên
+đối với các thí sinh có điểm cộng thấp hơn; trường hợp nhiều thí sinh có cùng điểm xét ở
+cuối danh sách và có điểm cộng bằng nhau, thứ tự xét ưu tiên đối với các thí sinh có thứ
+tự ưu tiên nguyện vọng cao hơn;
 
-a)  Bi€m  trung tuy€n  duqc xac dinh d€  s6  luqng tuy€n  duqc theo tung chuong trinh
-dao t?o phu hqp v&i s6 luqng tuy€n  sinh da c6ng b6 theo ngu6n tuy€n  va kh6ng th.ip hem
-nguong d§.u vao;
+- Việc sử dụng điểm ưu tiên khu vực, đối tượng để xét tuyển đảm bảo thống nhất,
+đồng bộ với quy định về điểm ưu tiên được quy định tại Điều 7 của Quy chế này.
 
-b)  B6i v&i  m('>t  chuong trinh dao t~o,  t.it  ca thi sinh duqc xet ch9n binh d~ng  dµa
-tren di€m  xet va di€m  trung tuy€n  quy d6i tuong duong theo tung phuong tht'.rc xet tuy€n,
-t6 hqp xet tuy€n,  kh6ng ph\l thu('>c thu tµ uu tien cua nguy?n v9ng dang ky trir truang hqp
-quy  dinh t?i di€m  C khoan nay;
+## Trang 19
 
-c) Truang hqp nhi@u thi sinh c6  cung di€m  xet a cu6i danh sach, thu tµ  xet uu tien
-d6i v&i  cac thi sinh c6 di€m  c('>ng th.ip hon; truang hqp nhi@u thi sinh c6 cung di€m  xet a
-cu6i danh sach va c6 di@m  c('>ng bfing nhau, tht'.r tµ  xet uu tien d6i v&i  cac thi sinh c6 tht'.r
-tµ uu tien nguy?n v9ng cao hon;
+18 1ì
 
-d) Vi?c su d\lng di€m  uu tien khu vµc,  d6i tuQ11g  d@  xet tuy@n dam bao th6ng nh.1t,
+Điều 27. Thông báo kết quả và xác nhận nhập học
 
-d6ng b('>  v6i quy dinh v@  di€m  uu tien duqc quy dinh t?i Bi@u 7 cua Quy ch~ nay.
+1. Đại học công bố điểm trúng tuyển vào các chương trình đào tạo theo các phương
+thức tuyển sinh, cam kết thông tin công bố chính xác và chịu trách nhiệm về kết quả công
+bố trúng tuyển; tổ chức cho thí sinh tra cứu kết quả trúng tuyển (điểm của thí sinh và tên
+phương thức trúng tuyển) trên trang thông tin điện tử của Đại học (hoặc của đơn vị phối
+hợp đào tạo); giải đáp thắc mắc của thí sinh và xã hội (nếu có) về kết quả công bố.
 
-d) B?i h9c c6 th€  quy  dinh cac tieu chi ph\l khac lam di@u  ki?n c.in d€  xet tuy@n va
+2. Đại học thông báo kết quả trúng tuyển cho từng thí sinh theo điểm và tên phương
+thức trúng tuyển kèm theo thủ tục nhập học và có quyền từ chối nhập học đối với thí sinh
+khai báo không trung thực về thông tin cá nhân đăng ký xét tuyển.
 
-kh6ng su d\lng lam tieu chi phan lo?i thi sinh a di@m  c, khoan nay.
+3. Thí sinh xác nhận nhập học trực tiếp tại Đại học trong thời hạn quy định.
 
-4.  Sau m6i chu ky  xet tuy@n,  B?i h9c tai  danh sach thi  sinh dµ  ki€n  du  di@u  ki?n
-trung  tuy€n  chucmg trinh  dao  t?o  (theo  cac phuong tht'.rc  tuy€n  sinh)  len H~  th6ng.  H~
-th6ng tµ  d('>ng  lo~i  b6 khoi danh sach nhfrng nguy~n v9ng thfrp  cua thi sinh du  di@u  ki?n
-trung  tuy@n  theo
-trung  tuy@n  nhi@u  nguy?n  v9ng  va  tra l~i  danh  sach thi  sinh  dv ki€n
+4. Đối với những thí sinh không xác nhận nhập học trong thời hạn quy định:
 
-14
+a) Trường hợp không có lý do chính đáng thì coi như thí sinh đã từ chối nhập học
+và Đại học có quyền không tiếp nhận;
 
-nguy?n v9ng cao  nhftt.  B?i h9c  c6  trach nhi?m ra soat dfry  du thong tin trong thong tin
-tuy€n  sinh v6i kSt  qua thi  sinh d\f  kiSn trung tuy€n  theo  nguy?n v9ng  cao nhftt  sau m6i
-lfrn H? th6ng tra kSt qua XU  ly nguy?n VQng.
+b) Trường hợp do ốm đau, tai nạn, có giấy xác nhận của bệnh viện cấp cơ bản trở
+lên hoặc do thiên tai có xác nhận của ủy ban nhân dân cấp xã, Đại học xem xét quyết định
+tiếp nhận thí sinh vào học hoặc bảo lưu kết quả tuyển sinh, việc chấp thuận thí sinh vào
+học do Giám đốc Đại học quyết định và chịu trách nhiệm giải trình về thời gian tiếp nhận
+thí sinh nhập học muộn (nếu có);
 
-5.  Can cu kSt  qua xu ly nguy?n v9ng,  B?i h9c l~p  l?i quy trinh xet tuy€n  6  chu ky
-sau,  diSu  chinh di€m
-trung 'tuy€n  phu hqp  v&i  s6  luqng  tuy€n  sinh trong thoi  h?n  quy
-dinh.  d chu ky  cu6i, B?i h9c quySt dinh di€m  trung tuy€n  vao cac chuong trinh dao t?o
-(theo cac phucmg thuc tuy€n  sinh) va tai len H? th6ng danh sach (chinh thuc) thi sinh du
-diSu  ki?n trung tuy€n.  Tren ca sa kSt  qua xu ly  nguy?n v9ng  cu6i  cung,  B?i h9c  quySt
-dinh danh sach thi sinh trung tuy€n  vao cac chuong trinh dao t?o theo dung thong tin cong
-b6 trong thong tin tuy€n  sinh.
+c) Trường hợp do sai sót, nhằm lẫn được xác định thuộc lỗi kỹ thuật khách quan
+trong công tác tuyển sinh, Giám đốc Đại học chủ động phối hợp với các cá nhân, tổ chức
+liên quan xem xét các minh chứng và quyết định việc tiếp nhận thí sinh vào học hoặc bảo
+lưu kết quả tuyển sinh để thí sinh vào học; lập hồ sơ lưu trữ và báo cáo danh sách riêng
+thí sinh bị sự có trong báo cáo kết quả tuyển sinh hằng năm.
 
-Bi~u  19. Thong bao k~t qua va xac nh~n  nh~p  h9c
+Điều 28. Bảo lưu kết quả trúng tuyển: Đại học thực hiện theo quy định tại Quy
+chế tuyển sinh Đại học hiện hành của Bộ GDĐT.
 
-1.  D?i h9c cong b6 diSm trung tuy€n  (va cac diSu ki?n, tieu chi ph\l nSu c6) vao cac
-chuong trinh dao t?O  theo cacphuang thuc tuy€n  sinh,  cam kSt thong tin cong b6 chinh
-xac va chiu trach nhi?m vS kSt qua cong b6 trung tuy€n;
-t6 chuc cho thi sinh tra cuu kSt
-qua trung tuySn ( di€m  cua thi sinh va ten phuong thuc trung tuySn)  tren trang thong tin
-di?n ru cua B?i h9c (ho~c cua nh6m B?i h9c ph6i hqp xet tuy€n);  giai  dap thilc mile cua
-thi sinh va xa h(>i  (nSu c6) vs kSt qua cong b6.
+Chương IV
+TUYỂN SINH ĐẠI HỌC ĐÀO TẠO TỪ XA
 
-2. D?i h9c thong bao kSt qua trung tuy€n  cho tung thi sinh theo di€m  va ten phuong
-thuc trung tuySn kem theo thu t1,1c  nh?p h9c va c6 quySn tu ch6i nh?p h9c d6i v&i thi sinh
-khai bao khong trung th\IC vs thong tin ca nhan dang ky xet tuySn.
+Điều 29. Phương thức xét tuyển
 
-3.  Thi sinh xac nh?n nh?p h9c tf\Ic tuySn tren H? th6ng tru&c khi nh?p h9c t?i B?i
+1. Xét tuyển thẳng: Thí sinh thuộc đối tượng tuyển thẳng theo Quy chế tuyển sinh
+của Bộ GDĐT và Quy chế tuyển sinh đại học của ĐH KTQD.
 
-h9c trong thoi h?n quy  djnh.
+2. Xét tuyển kết hợp: Đại học áp dụng tối đa 05 phương thức xét tuyển. Các phương
+thức xét tuyển dựa vào kết quả học tập bậc THPT, kết quả học tập ở bậc Cao đẳng, Đại
+học, cụ thê:
 
-4.  D6i v&i nhiing thi sinh khong xac nh?n nh?p h9c trong thoi h?n quy dinh:
+- Đối với thí sinh có bằng tốt nghiệp Đại học/cao đẳng: xét tuyển theo điểm trung bình
+chung tích lũy của toàn khóa học theo bảng điểm đại học/cao đẳng (theo thang điểm 10).
 
-a)  Truang hqp khong c6  ly  do  chinh dang thi  coi  nhu thi sinh da tu ch6i nh?p h9c
+## Trang 20
 
-va B?i h9c c6 quySn khong tiSp nh?n;
+19 ù—
 
-b) Truang hqp  do  6m dau, tai n?n,  c6 gifty  xac nh~n  cua b?nh vi~n  cftp  ca ban tr&
-len ho~c do thien tai c6 xac nh?n cua uy ban nhan dan cftp xa, B?i h9c xem xet quySt dinh
-tiSp  nh~n thi sinh vao h9c ho~c bao luu kSt  qua tuySn sinh, vi?c chftp  thu?n thi sinh vao
-h9c do Giam d6c B?i h9c quySt dinh va chiu trach nhi~m giai trinh vs thoi gian tiSp nh~n
-thi sinh nh?p h9c mu9n (n€u  c6);
+- Xét tuyển dựa trên kết quả học tập các môn học cấp THPT bắt buộc môn Toán
+hoặc Ngữ văn với trọng số tính điểm xét của môn Toán hoặc môn Ngữ văn tối thiểu 1⁄3
+và đáp ứng một trong những yêu cầu sau:
 
-c)  Truang hqp  do  sai  s6t,  nhfrm  lfrn  duqc xac  dinh thu9c  16i  ky  thu?t khach  quan
-trong cong tac tuy€n  sinh, Giam d6c B?i h9c chu d9ng ph6i hqp v&i cac ca nhan, t6 chuc
-lien quan xem xet cac minh chung va quySt dinh vi?c tiSp nh?n thi sinh vao h9c ho~c bao
-luu k€t  qua tuy€n  sinh d€
-thi sinh vao h9c;  l~p  h6 sa luu trfr va bao cao danh sach rieng
-thi sinh bi S\I c6 trong bao cao k€t  qua tuy€n  sinh h~ng nam.
++ Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp
+10, 11, 12 của tối thiểu 03 môn học theo thang điểm 30;
 
-5.  Thi sinh da xac nh~n nh?p h9c t?i B?i h9c khong duqc tham gia xet tuy€n  6 nai
-khac ho~c  6 cac dqt xet tuySn b6  sung trong nam tuy€n  sinh, trir truong hqp  duqc Giam
-d6c B?i h9c trung tuy€n  cho phep.
++ Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp
+10, 11, 12 của tối thiểu 02 môn học (trong đó bắt buộc phải có môn Toán hoặc Ngữ văn)
+và dùng chứng chỉ ngoại ngữ (chứng chỉ ngoại ngữ sử dụng miễn thi tốt nghiệp THPT
+theo quy định tại Quy chế thi tốt nghiệp THPT hiện hành), Đại học quy đổi kết quả chứng
+chỉ ngoại ngữ thành điểm môn ngoại ngữ theo thang điểm 10 để đưa vào tổ hợp môn xét
+tuyển thay thế môn ngoại ngữ (cách thức quy đổi chi tiết trong thông tin tuyển sinh).
 
-15
++ Trường hợp môn học trong tổ hợp xét tuyển không học đủ 06 học kỳ cấp THPT
+theo năm do thay đổi lựa chọn môn học thì sử dụng kết quả học tập môn học khác gần
+lĩnh vực thay thế.
 
-Di~u 20. Tfi  chfrc dang ky va xet tuy~n cac dQi bfi  sung
+- Xét tuyển dựa trên kết quả các môn thi tốt nghiệp THPT bắt buộc phải có môn
+Toán hoặc Ngữ văn với trọng số tính điểm xét của môn Toán hoặc môn Ngữ văn tối thiểu
+1⁄3 và đáp ứng một trong những yêu cầu sau:
 
-1.  Can  cu s6  luqng tuy€n  sirih cua chuong trinh dao t~o  va s6 thi  sinh tn'.mg  tuy€n
-da xac nh?n nh?p h9c vao chuong trinh dao t~o,  Giam d6c B~i h9c quySt dinh xet tuy€n
-cac dgt b6  sung va cong b6 kS  ho~ch xet tuySn,  phuong thuc xet tuy€n,  hinh thuc dang
-ky  xet tuy€n  cac dgt b6 sung,  dieu ki?n xet tuy€n  b6  sung d6i v&i  cac chuong trinh dao
-t~o  theo timg phuong thuc xet tuy€n  nhung khong thfip  hon dieu ki?n trung tuy€n  dgt 1.
++ Tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng để xét tuyển
+có ít nhất 03 môn phù hợp với đặc điểm, yêu cầu đầu vào của chương trình đào tạo;
 
-2. Thi  sinh  chua trung tuySn  ho~c  da trung  tuy€n  nhung chua xac  nh?n nh?p  h9c
-vao m(>t D~i h9c bfit ky c6 th€  dang ky xet tuy€n  cac dgt b6 sung theo kS ho~ch va huang
-dfin  cua D~i h9c.
++ Tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT có dùng chứng
+chỉ ngoại ngữ (chứng chỉ ngoại ngữ áp dụng miễn thi tốt nghiệp THPT theo quy định tại
+Quy chế thi tốt nghiệp THPT hiện hành), Đại học quy đổi kết quả chứng chỉ ngoại ngữ
+thành điểm môn ngoại ngữ theo thang điểm 10 để đưa vào tổ hợp môn xét tuyển thay thế
+môn ngoại ngữ (cách thức quy đổi chi tiết trong thông tin tuyển sinh).
 
-3.  KSt  thuc  m6i  dgt xet tuy€n,  D~i  h9c  c6ng  b6  tren trang thong tin  di?n tu diSm
-trung tuy€n  (va cac dieu ki?n, tieu chi phv nSu c6) vao cac chuong trinh dao t~o theo cac
-phuong thuc tuy€n  sinh; t6 chuc cho thi sinh tra cuu kSt qua xet tuySn cua ca nhan ( diSm
-cua thi sinh va ten phuong thuc trung tuySn);  gui gifiy bao trung tuySn va huang dfin cho
-thi sinh trung tuySn nh?p h9c.
+3, Chỉ tiết các phương thức xét tuyển được quy định cụ thể trong Thông tin tuyển
+sinh của Đại học.
 
-4. B~i h9c c6 th€  c6ng b6 xet tuy€n  dgt b6 sung ngay sau khi c6 kSt qua thi sinh xac
-nh?n nh?p h9c cac dgt nSu s6 thi sinh xac nh?n nh?p h9c cac dgt thfip hon s6 luqng tuySn
-sinh cua D~i h9c cong b6 trong tuySn sinh dgt 1; vi?c xet tuySn b6 sung phai dam bao s6
-luqng tuy€n  sinh c6ng b6 trong cac dgt b6 sung kh6ng duqc vugt qua s6 luqng tuySn sinh
-da cong b6 a dgt  1;  m6i dgt xet tuySn b6 sung, thai gian tu khi c6ng b6 phuong an dSn
-khi bilt d~u xet tuy€n  phai t6i thi€u  la 10 ngay.
+4. Điểm chuẩn được xác định theo từng ngành/đợt tuyển sinh và từng địa phương
+tuyến sinh.
 
-Chu<Yng III
+Điều 30. Xây dựng kế hoạch xét tuyển
 
-TUYEN SINH D~I HQC VlJA LAM VUA HQC
+Căn cứ kế hoạch tuyển sinh chung, Đại học xây dựng kế hoạch tuyển sinh cả năm
+và từng đợt (bao gồm đợt bổ sung), từng địa điểm (nơi học).
 
-Di~u 21. Phuong thfrc xet tuy~n
+Điều 31. Tổ chức đăng ký và xét tuyển
 
-1.  Xet tuy€n
+1. Căn cứ thông tin tuyển sinh đã công bố, Đại học tổ chức cho thí sinh đăng ký dự
+tuyển và nộp hồ sơ bằng hình thức trực tuyến hoặc trực tiếp tại Đại học.
 
-thing: Thi sinh thu(>c  d6i tuqng tuy€n
+Đối với thí sinh đăng ký dự tuyển trực tuyến, thí sinh phải nộp đầy đủ hồ sơ bản
+giấy theo thời hạn nộp hồ sơ trong thông báo tuyển sinh.
 
-thing theo  Quy ch€
+2. Thí sinh trúng tuyển xác nhận nhập học theo thông báo của Đại học
 
-tuySn sinh
+## Trang 21
 
-cua B(>  GDBT va Quy chS tuySn si,nh d~i h9c cua DH KTQD.
+20 ỳ
 
-2.  Xet tuySn kSt hqp: B~i h9c ap d1,1ng t6i da 05 phuong thuc xet tuySn. Cac phuong
-thuc xet tuySn dµa  vao k€t  qua thi t6t nghi?p THPT, k€t  qua h9c t?p b?c THPT, k€t  qua
-h9c t?p a b?c Trung cfip, Cao ding, D~i h9c.
+Điều 32. Xét tuyển và xử lý nguyện vọng
 
-3.  Chi  tiSt cac phuong thuc xet tuy€n  duqc quy  dinh cv th€
+1. Sau khi kết thúc thời gian đăng ký nguyện vọng trên Hệ thống, Đại học tổ chức
+xét tuyển theo nguyên tắc sau:
 
-trong Thong tin tuySn
+a) Điểm trúng tuyển được xác định để số lượng tuyển được theo từng ngành đào tạo
+phù hợp với số lượng tuyển sinh đã công bố và không thấp hơn ngưỡng đầu vào;
 
-sinh cua D~i h9c.
+b) Đối với một ngành đào tạo (hoặc một chương trình đào tạo), tất cả thí sinh được
+xét chọn bình đẳng dựa trên điểm xét và điểm trúng tuyển quy đổi tương đương theo từng
+phương thức xét tuyển, tổ hợp xét tuyển, không phụ thuộc thứ tự ưu tiên của nguyện vọng
+đăng ký;
 
-4.  Bi€m  chufin  duqc xac  dinh theo rung nganh/dgt tuySn sinh va rung dia phuong
+c) Việc sử dụng điểm ưu tiên khu vực, đối tượng để xét tuyển đảm bảo thống nhất,
+đồng bộ với quy định về điểm ưu tiên được quy định tại Điều 7 của Quy chế này;
 
-tuy€n  sinh.
+d) Đại học có thể quy định các tiêu chí phụ khác làm điều kiện cần để xét tuyển.
 
-Di~u 22. Chfnh sach di~m  d)ng
+2. Căn cứ kết quả xử lý nguyện vọng, Đại học lặp lại quy trình xét tuyển ở chu kỳ
+sau, điều chỉnh điểm trúng tuyển phù hợp với số lượng tuyển sinh trong thời hạn quy
+định, Đại học quyết định danh sách thí sinh trúng tuyển vào các chương trình đào tạo theo
+đúng thông tin công bố trong thông tin tuyển sinh.
 
-1.  D~i h9c quy  dinh di€m  khuySn khich dµa tren cac tieu chi phan anh nang lµc  va
-thanh  tich  cua  thi  sinh  nhu:  kinh  nghi?m  ngh€  nghi?p,  thanh tich  h9c  t?p,  chung  chi
-chuyen m6n, phu hqp v6i yeu du d~u vao cua chuong trinh dao t~o.Vi?c xac dinh di€m
-khuy€n  khich bao dam nguyen tile cong bing, minh b~ch va kh6ng phan bi?t d6i xu gifra
-cac thi sinh.
+Điều 33. Thông báo kết quả và xác nhận nhập học
 
-16
+1. Đại học công bố điểm trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các
+chương trình đào tạo theo các phương thức tuyển sinh, cam kết thông tin công bố chính
+xác và chịu trách nhiệm về kết quả công bố trúng tuyển; thí sinh tra cứu kết quả trúng
+tuyển trên trang thông tin điện tử của Đại học.
 
-2. DiSm xet thu6ng ( diSm c(mg) danh cho cac d6i tu9ng thi sinh da t6t nghi?p Trung
-d.p, Cao diing, D?i h9c (thanh tich h9c t~p) : Thi sinh t6t nghi?p tu trung d.p tr& Jen dugc
-c(mg (+)  1,5 (m9t phfry nam) diSm.
+2. Đại học thông báo kết quả trúng tuyển cho từng thí sinh qua thư điện tử (email)
+kèm theo thủ tục nhập học và Đại học có quyền từ chối nhập học đối với thí sinh khai báo
+không trung thực về thông tin cá nhân đăng ký xét tuyển.
 
-3.  DiSm  khuy€n  khich  ( diSm  c<)ng)  danh  cho  cac  d6i tuqng thi  sinh vira lam  vua
+3. Thí sinh xác nhận nhập học theo hướng dẫn trong thời hạn quy định.
 
-h9c.  Cµ  th€:
+Điều 34. Bảo lưu kết quả trúng tuyển: Đại học thực hiện theo quy định tại Quy
+chế tuyển sinh Đại học hiện hành của Bộ GDĐT.
 
-- Thi sinh t6t nghi?p THPT t?i nam xet tuySn khong dugc c<)ng diSm khuy€n  khich
+Chương V
+TỔ CHỨC THỰC HIỆN
 
-danh cho d6i tuqng vua lam vua h9c;
+Điều 35. Tỗ chức, nhiệm vụ và quyền hạn của Hội đồng tuyển sinh
 
-- Thi sinh t6t nghi?p THPT tru&c nam xet tuySn 0 1 nam duqc c<)ng ( +) 0,5 (kh6ng
+1. Giám đốc Đại học ra quyết định thành lập Hội đồng tuyển sinh đại học (HĐTS)
+theo từng hình thức đào tạo để điều hành các công việc liên quan đến công tác tuyển sinh.
 
-phfry  nam)  diSm khuy€n  khich danh cho d6i tuqng vua lam vua h9c;
+2. Thành phần của HĐTS gồm có:
 
-- Thi sinh t6t nghi?p THPT tru&c  nam xet tuySn 02 nam dugc c<)ng  (+)  1,0 (m<)t)
+a) Chủ tịch: Giám đốc Đại học hoặc Phó Giám đốc Đại học;
 
-diSm khuy€n  khich danh cho d6i tuqng vua lam vua h9c;
+b) Phó Chủ tịch: Phó Giám đốc Đại học;
 
-- Thi sinh t6t nghi?p THPT tru&c nam xet tuySn tu 03  nam tr& v€  tru&c duqc c9ng
+c) Uỷ viên thường trực: Trưởng phòng Quản lý đào tạo đối với tuyển sinh đại học
 
-(+)  1,5 (m<)t phfry nam) diSm khuy€n  khich danh cho d6i tuqng vua lam vua h9c.
+## Trang 22
 
-4. Thi sinh c6  chung chi ngo?i ngu ho~c  c6  chung chi qu6c t€  d?t chu§.n dS  mi@n
+21 lu
 
-thi t6t nghi?p m6n ngo?i ngfr theo quy dinh duqc c<)ng (+)  1,5 (m9t phfry nam) diSm.
+chính quy; Trưởng khoa Đại học tại chức đối với tuyển sinh đại học vừa làm vừa học;
+Giám đốc Trung tâm đào tạo từ xa đối với tuyển sinh đào tạo từ xa;
 
-5.  T6ng diSm c<)ng cua m9t thi sinh khong vugt qua 03  (ba) diSm.
+d) Các uỷ viên: Một số Trưởng phòng, Trưởng khoa/viện và chuyên viên phụ trách
+tuyển sinh và chuyên viên công nghệ thông tin.
 
-I>i~u  23. Xay d\fng k~  ho~ch xet tuy~n
+Những người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của mình và
+của vợ hoặc chồng) dự thi hay xét tuyển vào Đại học không được tham gia HĐTS của
+Đại học và các ban giúp việc HĐTS Đại học trong năm đó.
 
-1. B9  GDDT ban hanh k€  ho?ch tuySn  sinh  chung  dS  D?i h9c ph6i hgp tri€n  khai
+3. Nhiệm vụ và quyền hạn của HĐTS:
 
-cac quy trinh sau day:
+a) Thông qua Thông tin tuyển sinh do Giám đốc Đại học thành lập Ban soạn thảo
+biên soạn và công bố hàng năm theo quy định tại Điều 12 Quy chế này.
 
-a)  Dang ky xet tuySn tren C6ng thong tin tuySn sinh cua Khoa D?i h9c T?i chuc;
+b) Tổ chức tuyển sinh theo Thông tin tuyển sinh và Quy chế tuyển sinh đã ban hành,
+tuân thủ các quy định của Quy chế này và các quy định pháp luật hiện hành; thực hiện
+trách nhiệm giải trình với Bộ GDĐT, các cơ quan có thẩm quyền và xã hội về toàn bộ
+công tác tuyển sinh của Đại học.
 
-b) T6 chuc xet tuySn t?i D?i h9c theo quy dinh cua Quy ch€
+c) Tổ chức thanh tra, kiểm tra nội bộ, chủ động giải quyết các rủi ro đã đưa ra trong
+Thông tin tuyển sinh của Đại học; giải quyết đơn thư phản ánh, khiếu nại, tố cáo và xử lý
+vi phạm liên quan tới công tác tuyển sinh theo quy định của Quy chế này và quy định của
+pháp luật có liên quan.
 
-;
+d) Chậm nhất ngày 31 tháng 12 hằng năm, Đại học phải hoàn thành cập nhật dữ liệu
+thực tuyển của tất cả các hình thức bao gồm: thông tin thí sinh; thông tin xét tuyển của thí
+sinh; kết quả xét tuyển của thí sinh; thông tin về ngành tuyển sinh; thông tin về phương thức
+tuyển sinh đã thông báo tuyển sinh trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT.
 
-c) Xir ly nguy~n v9ng tren H~ th6ng xet tuySn t?i don vi;
+đ) Bảo quản, lưu trữ các tài liệu liên quan đến tuyển sinh trong suốt khóa đào tạo
+theo quy định của Luật Lưu trữ và các quy định về thời hạn bảo quản tài liệu chuyên môn
+nghiệp vụ của ngành giáo dục. Nếu tổ chức thi tuyển sinh thì phải bảo quản danh sách
+phòng thi, bài thi của thí sinh, hồ sơ và kết quả chấm thi theo thời hạn quy định tại Quy
+chế thi tốt nghiệp THPT của Bộ GDĐT.
 
-d)  Xac nh~n nh~p  h9c va nh~p  h9c t?i D?i h9c va cac dan vi ph6i hgp  dao t?o  t?i
+e) Thu và sử dụng lệ phí tuyển sinh, lệ phí xét tuyển;
 
-dia phuang.
+Tổng kết công tác tuyển sinh; quyết định khen thưởng, kỷ luật theo quy định;
 
-2.  Can cu k€  ho?ch tuySn sinh chung, D?i h9c xay d1Jng  k€  ho?ch xet tuySn thiing,
+4. Nhiệm vụ và quyền hạn của Chủ tịch HĐTS:
 
-xet tuySn cac dgt tuy€n  sinh trong nam.
+a) Tổ chức thực hiện và chịu trách nhiệm về công tác tuyển sinh của Đại học;
 
-I>i~u 24.  T6 chirc dang ky va xet tuy~n thing
+b) Thành lập các ban giúp việc cho HĐTS đề triển khai công tác tuyển sinh.
 
-1.  Can cu thong tin tuySn sinh da c6ng b6,  D?i h9c t6 chuc cho thi sinh thrn)c  d6i
-tuqng duqc xet tuySn thiing theo quy dinh t?i Di€u  8 cua Quy ch€  nay dang ky dv tuySn.
+c) Phó Chủ tịch HĐTS thực hiện các nhiệm vụ được Chủ tịch HĐTS phân công và
+thay mặt Chủ tịch HĐTS giải quyết công việc khi Chủ tịch HĐTS uỷ quyền.
 
-2. D?i h9c t6 chuc xet tuy€n  thiing cho nhfrng thi sinh du di€u  ki~n, c6ng bf>"va c~p
-nh~t danh sach thi sinh du di€u  ki~n trung tuy€n  (tru di€u  ki?n t6t nghi?p THPT) len H~
-th6ng tuy€n  sinh cua dan vi va xu ly  nguy?n v9ng  cimg v&i  cac phuong thuc xet tuy€n
-khac theo k€  ho?ch chung; hoan thanh tru&c khi thi sinh dang ky xet tuySn tren H? th6ng.
+Điều 36. Tổ chức, nhiệm vụ và quyền hạn của Ban thư ký HĐTS
 
-3. Thi sinh da trimg tuySn vao D?i h9c theo k€  ho?ch xet tuySn thing th1Jc hi?n dang
-ky nguy?n v9ng tren H~ th6ng tuySn sinh cua dan vi dS l1Ja ch9n chuong trinh dao t?o da
-trung tuy€n
+1. Thành phần Ban Thư ký HĐTS gồm có:
 
-thilng t?i D?i h9c ho~c dang ky nguy?n v9ng xet tuy€n  khac.
+a) Trưởng ban do Uỷ viên thường trực HĐTS Đại học kiêm nhiệm;
 
-4.  Thi sinh trung tuy€n  thiing xac nh~n nh~p h9c theo k€  ho?ch chung.
+b) Các uỷ viên: một số chuyên viên phòng, ban, trung tâm, khoa/viện và cán bộ công
 
-17
+## Trang 23
 
-5.  f)~i  h9c khong yeu c~u  thi sinh cam k€t  nh~p h9c du6i m9i hinh thuc ho~c xac
+22 e—
 
-nh~n nh~p  h9c s6m hem lich trinh theo k€  ho~ch chung.
+công nghệ thông tin.
 
-Di~u 25.  Dang ky xet tuy~n
-1.  Thi sinh tham gia xet tuy€n  sinh d~i h9c hinh thuc VL VH dang ky  xet tuy€n  tren
+2. Nhiệm vụ và quyền hạn của Ban thư ký HĐTS:
 
-h? thBng tuy€n  sinh cua dem vi theo k€  ho~ch chung va thong bao tuy€n  sinh, huang dfui
-cua Khoa f)~i h9c T~i chuc hiing nam.
+a) Công bố các thông tin liên quan đến điều kiện, hồ sơ, thời gian, hình thức và địa
+điểm đăng ký xét tuyển hoặc dự thi (nếu có) trên trang thông tin điện tử của Đại học và
+các phương tiện thông tin đại chúng khác;
 
-2.  Thi sinh dugc dang ky tBi  da  15  nguy?n v9ng vao cac chuemg trinh dao t~o  cua
-theo  thu tv uu tien tir  cao  xuBng thfip.  Trong
-thi  sinh  chi  dugc  cong  nh~n
+b) Tổ chức kiểm tra hồ sơ của thí sinh dự tuyển và trúng tuyển theo quy định;
 
-d~i  h9c; nguy?n v9ng phai  dugc sip x€p
-truong hgp  nhi@u  nguy?n v9ng  du  di@u  ki?n  trung  tuy€n,
-trung tuy€n  va g9i nh~p h9c theo nguy?n v9ng cao nhfit.
+c) Cập nhật lên Cổng thông tin tuyển sinh và Hệ thống hỗ trợ tuyển sinh chung của
+Bộ GDĐT tất cả các thông tin tuyển sinh của Đại học theo quy định để thực hiện xét tuyển
+trên hệ thống (đối với tuyển sinh đại học chính quy);
 
-3. Thi  sinh th€  hi?n nguy?n v9ng  dang ky  xet tuy€n  tren H? thBng tuy€n  sinh cua
+d) Dự kiến phương án điểm trúng tuyển, trình HĐTS quyết định;
 
-dem vi nhu sau:
+đ) Lập danh sách thí sinh trúng tuyển và gửi giấy báo trúng tuyển cho thí sinh;
 
-a) Thu 4r uu tien cua nguy?n v9ng (sB  1th€  hi?n nguy?n v9ng c6 thu t\J uu tien cao nhfit);
+e) Thực hiện các nhiệm vụ khác của Ban thư ký theo quy định của Quy chế thi tốt
+nghiệp THPT và xét công nhận tốt nghiệp THPT nếu thực hiện thi tuyển.
 
-b) Lva ch9n chuemg trinh dao t~o  (ma xet tuy€n) .
+Ð Thực hiện các nhiệm vụ khác do Chủ tịch HĐTS giao.
 
-4.  Trong  cac  dgt xet tuy€n  sinh,  thi  sinh  dang ky  xet tuy€n  va chi n(>p  l?  phi xet
+Điều 37. Trách nhiệm của các bên liên quan trong công tác xét tuyển
 
-tuy€n  m(>t 1§.n  duy nhfit theo muc thu dich Vl,l  tuy€n  sinh do f)~i h9c quy dinh.
+1. Trách nhiệm của thí sinh:
 
-Di~u 26. T6  chuc xet tuy~n va xfr ly nguy~n v9ng
-1. T6 chuc xet tuy€n
+a) Tìm hiểu kỹ thông tin tuyển sinh của Đại học, không đăng ký nguyện vọng vào
+những ngành, chương trình đào tạo hay phương thức tuyển sinh mà không đủ điều kiện;
 
-- 0~i h9c t6  chuc tuy€n  sinh trong ca nam va tren ca nu6c;
+b) Cung cấp đầy đủ và bảo đảm tính chính xác của tất cả thông tin đăng ký dự tuyển,
+bao gồm cả thông tin cá nhân, thông tin khu vực và đối tượng ưu tiên (nếu có), nguyện
+'vọng đăng ký; tính xác thực của các giấy tờ minh chứng;
 
-- Bia di€m  h9c t~i f)~i h9c va don vi phBi hgp dao t~o t~i cac dia phuong;
+c) Đồng ý để Đại học được quyền sử dụng thông tin, dữ liệu cần thiết phục vụ cho
+công tác xét tuyển;
 
-- C6 thong bao cv th€  rieng cho m6i dgt/1~ tuy€n  sinh theo nganh, chuyen nganh/chuemg
+d) Hoàn thành thanh toán lệ phí tuyển sinh trước khi kết thúc thủ tục đăng ký dự tuyển.
 
-trinh dao t~o t~ m6i dia di€m  t6 chuc lop h9c (t~i f)~i h9c hoi.ic ~i cac dia phuong);
+2. Trách nhiệm của Đại học:
 
-- H6 sa dv tuy€n  c~n d~y  du va thi sinh phai chiu trach nhi?m v@  tinh chinh xac cua
+a) Xây dựng quy chế tuyển sinh riêng đề cụ thể hóa những quy định cho các hình
+thức đào tạo, công khai trên trang thông tin điện tử của Đại học.
 
-h6  sa (theo m~u cua 0~i h9c);
+b) Tổ chức tuyển sinh theo thông tin tuyển sinh và quy chế tuyển sinh đã ban hành,
+tuân thủ các quy định của Quy chế này và các quy định pháp luật hiện hành; thực hiện
+trách nhiệm giải trình với Bộ GDĐT, các cơ quan có thẩm quyền và xã hội về toàn bộ
+công tác tuyển sinh của Đại học.
 
-- f)~i  h9c khong hoan tra h6 sa val? phi tuy€n  sinh sau khi thi sinh da n(>p.
+9) Tổ chức rà soát thông tin tuyển sinh, tiền hành kiểm tra nội bộ, hậu kiểm hoạt
+động tuyển sinh; chủ động giải quyết các rủi ro phát sinh của Đại học; giải quyết đơn thư
+phản ánh, khiếu nại, tố cáo và xử lý vi phạm liên quan tới công tác tuyển sinh của Đại
+học theo quy định của Quy chế này và quy định của pháp luật có liên quan.
 
-2. Xu ly nguy?n v9ng
+d) Chậm nhất ngày 31 tháng 12 hằng năm, Đại học phải hoàn thành cập nhật dữ
+liệu thực tuyển của tất cả các hình thức đào tạo bao gồm: thông tin thí sinh; thông tin xét
+tuyển của thí sinh; kết quả xét tuyển của thí sinh; thông tin về chương trình đào tạo tuyển
 
-- Di€m  trung tuy€n  dugc xac dinh d€  sB  lugng tuy€n  dugc theo rung nganh, chuemg
-trinh dao  t~o  phu hgp v&i  sB  lugng chi  tieu  da  cong bB  theo  ngu6n tuy€n,  nhung khong
-thfip hon nguong d~u vao;
+## Trang 24
 
-- DBi v&i m(>t nganh, nh6m nganh, chuong trinh dao t~o tfit ca cac thi sinh dugc ch9n
+23 |\ VN
+sinh; thông tin về phương thức tuyển sinh đã thông báo tuyển sinh trên Hệ thống của Bộ
+GDĐT.
 
-binh d~ng dva tren di€m  xet tuy€n  theo tung phuemg thuc xet tuy€n,
+đ) Bảo quản, lưu trữ các tài liệu liên quan đến tuyển sinh trong suốt khóa đào tạo
+theo quy định của Luật Lưu trữ và các quy định về thời hạn bảo quản tài liệu chuyên môn
+nghiệp vụ của ngành giáo dục.
 
-t6 hgp xet tuy€n;
+e) Đại học sử dụng kết quả kỳ thi độc lập để xét tuyển đại học phải có trách nhiệm
+thực hiện việc đối sánh với kết quả học tập của sinh viên hằng năm và sau 03 năm liên
+tiếp áp dụng từ năm 2026 với các tiêu chí: kết quả học tập và thời gian học tập của người
+trúng tuyển nếu sử dụng phương thức xét tuyển độc lập.
 
-- Truong hgp nhi@u  thi sinh c6  cung di€m  xet & cuBi  danh sach,  thu tv xet uu tien
-dBi v&i  cac thi sinh c6 di€m  c(>ng thfip hem; truong hgp nhi@u thi sinh c6 cung di€m  xet &
-cuBi  danh sach va c6 di€m  c9ng bing nhau, thu tv xet uu tien dBi v&i  cac thi sinh c6 thu
-t\J uu tien nguy?n v9ng cao hem;
+Điều 38. Xử lý vi phạm
 
-- Vi?c su dvng di€m  uu tien khu vvc, dBi  tugng d€  xet tuy€n  dam bao thBng  nhfit,
+1. Cán bộ và thí sinh có hành vi vi phạm trong quá trình tổ chức thi được xử lý theo
+quy định tại Quy chế thi tốt nghiệp THPT của Bộ GDĐT.
 
-d6ng b(>  v&i  quy dinh v@  di€m  uu tien dugc quy  dinh t~i Di@u  7 cua Quy ch€  nay.
+2. Thí sinh có hành vi gian lận trong quá trình đăng ký dự tuyển, dự thi để được
+trúng tuyển; tùy theo mức độ có thể bị buộc thôi học, cấm dự tuyển vào Đại học trong
+những năm tiếp theo hoặc bị xử lý hình sự theo quy định của pháp luật.
 
-18
+3. Người có hành vi vi phạm Quy chế này là công chức, viên chức, tùy theo mức độ
+sẽ bị cơ quan quản lý cán bộ xử lý theo quy định của Luật Giáo dục đại học; Luật Viên
+chức, Luật Cán bộ, công chức và các văn bản quy định về xử lý kỷ luật viên chức, công
+chức.
 
-Di~u 27. Thong bao k~t qua va xac nh~n nh~p hQc
+4. Đại học vi phạm về công tác tuyển sinh tùy theo mức độ vi phạm sẽ bị áp dụng
+xử lý theo quy định pháp luật hiện hành. Giám đốc Đại học , chủ tịch hội đồng tuyển sinh
+và những cá nhân có liên quan của Đại học vi phạm cũng bị xử lý theo quy định pháp luật
+có liên quan.
 
-1. D?-i h9c cong b6 di€m  trung tuy€n  vao cac chuong trinh dao t?,o  theo cac phuong
-thuc tuy€n  sinh, cam kSt thong tin cong b6 chinh xac va chiu trach nhi~m v€  kSt qua cong
-t6 chuc cho thi sinh tra cuu kSt qua trung tuy€n  ( di€m  cua thi sinh va ten
-b6 trung tuy€n;
-tren trang thong tin di~n tu cua Dc;ti  h9c (ho?c cua don vi ph6i
-phuong thuc trung tuy€n)
-hqp dao t?-o);  giai dap thflc mite cua thi sinh va xa h<)i  (nSu c6) v€  kSt qua cong b6.
+5. Quy chế tuyển sinh của Đại học quy định chi tiết việc xử lý vi phạm đối với các
+cá nhân, tổ chức tham gia công tác tuyển sinh.
 
-2. Dc;ti h9c thong bao kSt qua trung tuySn cho tung thi sinh theo di€m  va ten phuang
-thuc trung tuy€n  kem theo thu 1:\IC nh?p h9c va c6 quy€n  ill ch6i nh?p h9c d6i v6i thi sinh
-khai bao khong trung thµc v€  thong tin ca nhan dang ky xet tuy€n.
+Điều 39. Khen thưởng
 
-3.  Thi sinh xac nh?n nh?p h9c trµc  tiSp  tc;ti  Dc;ti  h9c trong thai h?,n quy dinh.
+Chủ tịch Hội đồng tuyển sinh khen thưởng hoặc đề nghị Giám đốc Đại học khen
+thưởng:
 
-4.  D6i v&i nhfrng thi sinh khong xac nh~n nh~p  h9c trong thai hc;tn  quy  dinh:
+1. Những cá nhân, đơn vị hoàn thành xuất sắc nhiệm vụ được giao.
 
-a)  Truang hqp khong c6  ly  do  chinh dang thi coi nhu thi sinh da ill ch6i nh?p h9c
+2. Những cá nhân, đơn vị có nhiều thành tích đóng góp cho công tác tuyển sinh.
 
-va Bc;ti  h9c c6 quy€n  khong tiSp nh~n;
+Điều 40. Điều khoản thi hành
 
-b) Truang hqp  do  6m dau,  tai nc;tn,  c6  giily xac nh?n cua b~nh vi~n  cilp  ca ban tr&
-len ho?c do thien tai c6 xac nh?n cua uy ban nhan dan cilp xa, 0c;ti h9c xem xet quySt dinh
-tiSp  nh~n thi sinh vao h9c ho?c bao luu kSt  qua tuy€n  sinh, vi~c chilp thu?n thi sinh vao
-h9c do Giam d6c 0?,i h9c quySt dinh va chit! trach nhi~m giai trinh v€  thai gian tiSp  nh?n
-thi sinh nh?p h9c mu<)n (nSu c6);
+1. Toàn bộ quy trình thực hiện công tác tuyển sinh được thực hiện và ứng dụng công
+công nghệ thông tin, chuyển đổi số tạo thuận lợi trong quá trình quản lý và theo dõi.
 
-c)  Truang hqp  do  sai  s6t,  nh~m  l~n  dmJc  xac  dinh thu<)c  16i  ky  thu?t khach  quan
-trong cong tac tuy€n  sinh, Giam d6c 0c;ti h9c chu d<)ng ph6i hqp v&i  cac ca nhan, t6 chuc
-lien quan xem xet cac minh chung va quySt dinh vi~c tiSp nh?n thi sinh vao h9c ho?c bao
-thi sinh vao h9c; l~p  h6  sa luu trfr va bao cao danh sach rieng
-luu kSt qua tuy€n  sinh d€
-thi sinh bi sµ  c6 trong bao cao kSt qua tuy€n  sinh hiing nam.
+2. Trưởng phòng Quản lý đào tạo, Trưởng khoa Đại học tại chức, Giám đốc Trung
+tâm đào tạo từ xa, Trưởng các đơn vị thuộc, trực thuộc Đại học và các đơn vị, cá nhân có
+liên quan chịu trách nhiệm thi hành Quy chế này.
 
-Di~u  28.  Bao  hru  k~t  qua  trung tuy~n:  0c;ti  h9c thvc hi~n theo  quy  dinh tc;ti  Quy
+3. Hàng năm, Quy chế này được bổ sung, sửa đổi, cập nhật theo quy định và hướng
+dẫn của Bộ GDĐT.
 
-ch€
+ ~
 
-tuy€n  sinh Dc;ti  h9c hi~n hanh cua B<)  GD0T.
+## Trang 25
 
-ChrrO'ng IV
+24
 
-TUYEN SINH D~I HQC DAO T~O TU XA
+4. Trong quá trình thực hiện, nếu có vấn đề phát sinh cần điều chỉnh, bổ sung, các
+đơn vị, cá nhân phản ánh về phòng Quản lý đào tạo để tổng hợp, báo cáo Giám đốc Đại
+học xem xét, quyết định.
 
-Di~u 29. PhrrO'ng thrrc  xet tuy~n
+7© ĐẠI HỌC \9Ì
+(gi KINH TẾ Z2
 
-1.  Xet tuy€n
-
-thing: Thi sinh thu<)c  d6i tuqng tuy€n  thing theo Quy  chS tuy€n  sinh
-
-cua B<)  GDBT va Quy chS tuy€n  sinh dc;ti  h9c cua 0H KTQD.
-
-2. Xet tuy€n  kSt hqp: Bc;ti h9c ap d\lng t6i da 05 phuong thuc xet tuy€n.  Cac phuong
-thuc xet tuy€n  dµa  vao kSt  qua h9c t~p  b~c THPT, kSt  qua h9c t~p a b~c  Cao ding, 0c;ti
-h9c,  C\l th€:
-
-- 06i v6i thi sinh c6 bitng t6t nghi~p 0c;ti h9c/cao ding: xet tuy€n  theo diSm trung binh
-
-chung tich lfiy  cua toan kh6a h9c theo bang di€m  dc;ti  h9c/cao ding (theo thang di€m  10).
-
-I
-J
-
-J .,.
-
-19
-
-- Xet tuy€n  dva tren kSt  qua h9c t~p  cac  mon h9c  cfip  THPT bit bu9c mon  Toan
-ho~c Ngfr van v&i tr9ng s6 tinh di€m  xet cua mon Toan ho~c mon Ngfr van t5i thi€u  1/3
-va dap ung m9t trong nhfrng yeu d.u sau:
-
-+ T6 hqp xet tuy€n  sir dvng di€m  trung binh chung kSt qua h9c t~p  ca nam cac lap
-
-10, 11,  12  cua t5i thi€u  03  mon h9c theo thang di€m  30;
-
-+ T6 hqp xet tuy€n  sir dvng di€m
-
-trung binh chung kSt qua h9c t~p  ca nam cac lap
-10, 11 , 12 cua t5i thi€u  02 mon h9c (trong d6  bit bu9c phai c6 m6n Toan ho~c Ngfr van)
-va dung  chung chi  ngo?i ngfr  ( chung chi ngo?i ngfr  sir  dvng mi Sn thi  t6t nghi~p  THPT
-theo quy  dinh t?i Quy chS thi t5t nghi~p THPT hi~n hanh), B?i h9c quy d6i kSt qua chung
-chi ngo?i ngfr thanh diSm mon ngo?i ngfr theo thang di Sm  10  d€  dua vao t6 hqp m6n xet
-tuy€n  thay thS m6n ngo?i ngfr ( each thuc quy  d6i chi tiSt trong thong tin tuySn sinh) . .
-
-+ Truong hgp mon h9c trong t6 hqp xet tuy€n  khong h9c du  06  h9c ky cfip  THPT
-theo nam  do thay  d6i  Iva ch9n mon h9c thi  sir  dvng  kSt  qua h9c  t~p  mon h9c khac  gfin
-linh V\fC thay thS.
-
-- Xet tuy€n  dva tren kSt  qua  cac  m6n thi  t5t  nghi~p  THPT bilt  bu9c phai  c6  m6n
-
-Toan ho~c Ngfr van v&i tr9ng s6 tinh di€m  xet cua mon Toan ho~c m6n Ngfr van t5i thi€u
-1/3  va dap  ung m9t trong nhfrng yeu c§.u sau:
-
-+ T6 hqp xet tuy€n  sir dvng kSt qua cac mon thi t6t nghi~p THPT dung d€  xet tuy€n
-
-c6 it nhfit 03  mon phu hgp v&i  d~c  di€m,  yeu c§.u  d§.u vao cua chuong trinh dao t1,10;
-
-+ T6 hqp xet tuy€n  sir  diµig  kSt  qua cac m6n thi t6t nghi~p  THPT c6 dung chung
-chi ngo1,1i  ngfr ( chung chi ngo1,1i  ngfr ap  dvng miSn thi t6t nghi~p THPT theo quy  dinh t?i
-Quy chS  thi t6t nghi~p  THPT hi~n  hanh), 8',li h9c  quy  d6i kSt  qua chung chi ngo?i  ngu
-thanh di€m  mon ngo',li ngfr theo thang diSm  10 d€  dua vao t6 hqp mon xet tuy€n  thay thS
-mon ngo1,1i  ngfr ( each thuc quy d6i chi tiSt trong thong tin tuy€n  sinh).
-
-3.  Chi tiSt  cac phuong thuc xet tuy€n  dugc quy  dinh cv th€
-
-trong Thong tin tuy€n
-
-sinh cua 81,1i h9c.
-
-4.  Di€m  chuAn dugc xac dinh theo tung nganh/dgt tuy€n  sinh va timg dia phuong
-
-tuy€n  sinh.
-
-Di~u 30.  Xay dl}.'ng  k~  ho~ch xet tuy~n
-
-Can cu kS  ho1,1ch  tuy€n  sinh chung, B?i h9c xay  d\fllg kS  ho?ch tuy€n  sinh ca nam
-
-va rung dgt (bao g6m dgt bf>  sung), rung dia di Sm (noi h9c ).
-
-Di~u 31. T6  chuc dang ky va xet tuy~n
-
-1.  Can cu thong tin tuy€n  sinh da cong b5, D1,1i  h9c t6 chuc cho thi sinh dang ky dv
-
-tuy€n  va n9p h6 so bing hinh thuc trvc tuySn ho~c tn,rc tiSp t?i 81,1i  h9c.
-
-D5i v&i  thi  sinh dang  ky  dv tuy€n
-
-trvc tuySn, thi sinh phai  n<)p  dfiy  du h6  sa ban
-
-gifiy theo thai h?n n9p h6 sa trong thong bao tuy€n  sinh.
-
-2. Thi sinh trung tuy€n  xac nh~n nh~p h9c theo thong bao cua D?i h9c
-
-20
-
-Di~u 32. Xet tuy~n va xfr ly nguy~n v9ng
-1.  Sau khi k€t  thuc thai gian dang ky nguy?n v9ng tren H~ th6ng, Dc;i.i  h9c t6  chfrc
-
-xet tuySn theo nguyen tic sau:
-
-a) DiSm trung tuySn duqc xac dinh dS s6 luqng tuySn duqc theo rung nganh dao tc;i.o
-
-phu hqp v6i s6 hrqng tuySn sinh da cong b6 va khong th§.p  hon nguang dfru vao;
-
-b)  D6i v6i mc;,t nganh dao tc;i.o  (ho~c mc;,t  chuang trinh dao tc;i.o ), t§.t  ca thi sinh duqc
-
-xet ch9n binh d~ng dva tren diSm xet va di Sm trung tuySn quy d6i tuang duong theo tung
-phuong thfrc xet tuySn, t6 hqp xet tuySn, khong phv thuc;,c thfr tv uu tien cua nguy?n v9ng
-dang ky;
-
-c)  Vi?c su dvng di Sm uu tien khu VlJC,  d6i tuqng dS  xet tuySn dam bao th6ng nh§.t,
-
-d6ng be;,  v6i quy dinh vs diSm uu tien duqc quy dinh tc;i.i  DiSu 7 cua Quy ch€  nay;
-
-d)  Dc;i.i  h9c c6 th€  quy dinh cac tieu chi phv khac lam diSu ki?n cfrn  dS  xet tuySn.
-2.  Can cu k€t  qua xu ly nguy?n v9ng, Dc;i.i  h9c l~p  lc;i.i  quy  trinh xet tuySn a chu ky
-sau,  diSu  chinh diSm  trung tuySn phu hqp  v6i  s6  luqng tuySn  sinh trong  thai hc;i.n  quy
-
-dinh, Dc;i.i  h9c quy€t  dinh danh sach thi sinh trung tuySn vao cac chuong trinh dao tc;i.o  theo
-dung thong tin cong b6 trong thong tin tuySn sinh.
-
-Di~u 33. Thong bao k~t  qua va xac nh~n nh~p h9c
-
-1.  Dc;i.i  h9c cong b6 diSm trung tuySn (va cac di€u  ki?n, tieu chi phv n€u  c6) vao cac
-
-chuong trinh dao  tc;i.o  theo cac phuang thuc tuySn sinh,  cam k€t  thong tin cong b6 chinh
-
-xac va chiu trach nhi?m vs kSt  qua  cong b6  trung tuySn;  thi  sinh tra cuu k€t  qua trung
-tuySn tren trang thong tin di?n tu cua D<;1i  h9c.
-
-2.  Dc;i.i  h9c thong bao kSt qua trung tuySn cho tung thi sinh qua thu di?n tu ( email)
-kem theo thu tvc nh?p h9c va D<;1i  h9c c6 quySn tu ch6i nh?p h9c d6i v6i thi sinh khai bao
-khong trung thvc vs thong tin ca nhan dang ky xet tuySn.
-
-3.  Thi sinh xac nh?n nh?p h9c theo hu6ng din trong thai h<;1n  quy dinh.
-
-Di~u 34.  Bao  hru  k~t  qua tning tuy~n:  Dc;i.i  h9c thvc hi?n theo quy  dinh tc;i.i  Quy
-
-ch€  tuySn sinh D<;1i  h9c hi?n hanh cua B<)  GDDT.
-
-ChuO'ng V
-
-TO CHUC TH1/C HI~N
-
-Di~u 35. TB  chuc, nhi~m V\J.  va quy~n  h~n  ciia H9i d6ng tuy~n sinh
-
-1.  Giam d6c Dc;i.i  h9c ra quy€t  dinh thanh l~p  H<)i  d6ng tuySn sinh d?i h9c (HDTS)
-
-theo rung hinh thuc dao tc;i.o  dS diSu hanh cac cong vi?c lien quan d€n  cong tac tuySn sinh.
-
-2.  Thanh phcln  cua H0TS g6m c6:
-
-a)  Chu tich:  Giam d6c D?i h9c ho~c Ph6 Giam d6c Dc;i.i  h9c;
-
-b) Ph6 Chu tich: Ph6 Giam d6c Dc;i.i  h9c;
-
-c)  Uy vien thuang tf\Ic:  Trm'mg phong Quan ly  dao tc;i.o  d6i v6i tuySn sinh dc;i.i  h9c
-
-1
-
-I
-
-21
-
-chinh quy;  Tnr&ng  khoa D?i  h9c t?i  chuc  d6i  v&i  tuySn  sinh d?i  h9c vira lam vira h9c;
-Giam d6c  Trung tam dao t?o tir xa d6i v&i  tuySn sinh dao t?o ti:r xa;
-
-d)  Cac uy vien: M<)t s6 Tnr&ng phong, Tru&ng khoa/vi?n va chuyen vien phv trach
-
-tuySn sinh va chuyen vien cong ngh? thong tin.
-
-Nhfrng nguai c6 nguai than ( con, vq, ch6ng, b6, my,  anh, chi,  em ru<)t cua minh va
-cua vq ho~c  ch6ng)  d\f thi  hay xet tuySn  vao D?i h9c khong duqc tham gia HDTS  cua
-
-D?i h9c va cac ban giup vi?c HDTS D?i h9c trong nam d6.
-
-3.  Nhi?m V\l  va quySn h?n cua HDTS:
-
-a)  Thong qua Thong tin tuySn  sinh do  Giam d6c D?i h9c thanh l~p  Ban so?n thao
-
-bien SO?n va cong b6 hang nam theo quy dinh t?i Di Su  12  Quy ch€  nay.
-
-b) T6 chuc tuySn sinh theo Thong tin tuySn sinh va Quy ch€  tuySn sinh da ban hanh,
-tuan thu  cac quy  dinh  cua Quy  ch€  nay va cac quy  dinh phap lu~t  hi?n hanh; thµc  hi?n
-trach nhi?m  giai trinh v&i  B<)  GDDT,  cac  ca  quan c6  thfrm  quySn  va xa h<)i  v€
-toan  b<)
-cong tac tuySn sinh cua D?i h9c.
-
-c) T6 chuc thanh tra, kiSm tra n<)i b<),  chu d<)ng giai quy€t  cac rui ro da dua ra trong
-Thong tin tuySn sinh cua D?i h9c; giai quy€t  dan thu phan anh, khi€u  n?i, t6 cao va XU  ly .
-vi ph?m lien quan t&i  cong tac tuySn sinh theo quy dinh cua Quy ch€  nay va quy dinh cua
-phap lu~t c6 lien quan.
-
-d)  Ch~ nh§.t ngay 31  thang  12 hfuig nam,  D?i h9c phai hoan thanh c~p nh~t du  li?u
-thµc  tuySn cua tftt ca cac  hinh thuc bao g6m: thong tin thi sinh; thong tin xet tuySn cua thi
-sinh; k€t  qua xet tuySn cua thi sinh; thong tin vs nganh tuySn sinh; thong tin v€  phm:mg thuc
-tuySn sinh da thong bao tuySn sinh tren H? th6ng h6 trq tuySn sinh chung cua B<) GDDT.
-
-d)  Bao quan,  luu trfr  cac tai  li?u lien  quan  d€n
-
-tuySn  sinh trong  su6t kh6a dao  t~w
-theo quy dinh cua Lu~t Luu trfr va cac quy dinh v€  thai h?n bao quan tai li?u chuyen mon
-t6  chuc thi tuySn sinh thi phai  bao  quan  danh sach
-nghi?p  V\l  cua nganh giao  dvc.  N€u
-phong thi,  bai thi cua thi sinh,  h6 sa va k€t  qua chftm thi theo thai h?n quy  dinh t?i Quy
-ch€  thi t6t nghi~p THPT cua B<)  GDDT.
-
-e) Thu va su d1,1ng  1~ phi tuySn sinh, l? phi xet tuySn;
-
-f)  T6ng k€t  cong tac tuySn sinh; quy€t  dinh khen thu&ng, ky  lu~t theo quy dinh;
-
-4.  Nhi?m V\l va quy€n  h?n cua Chu tich HDTS:
-
-a) T6 chuc th\fc hi?n va chiu trach nhi?m v€  cong tac tuySn sinh cua.D?i h9c;
-
-b) Thanh l~p  cac ban giup vi~c cho HDTS dS triSn khai cong tac tuySn sinh.
-
-c) Ph6 Chu tich HDTS th\fc hi?n cac nhi~m VV  duqc Chu tich HDTS phan cong va
-
-thay m~t Chu tich HDTS giai quy€t  cong vi?c khi Chu tich HDTS uy quy€n.
-Di~u 36. TB  chrrc,  nhi?m  Vl) va quy~n h~n  cua Ban  thrr ky HDTS
-
-1.  Thanh phftn Ban Thu ky HDTS g6m c6:
-
-a) Tru&ng ban do Uy vien thuong trµc  HDTS D?i h9c kiem nhi?m;
-
-b) Cac uy vien: m<)t s6 chuyen vien phong, ban, trung tam, khoa/vi?n va can b<) cong
-
-22
-
-ngh? thong tin.
-
-2.  Nhi?m V\l  va quySn h:.in  cua Ban thu ky HBTS:
-
-a)  Cong b6 cac thong tin lien quan dSn diSu ki?n, h6  SO',  thai gian, hinh thuc va dia
-diSm dang ky  xet tuySn ho~c d\f thi (nSu c6)  tren trang thong tin di?n tu cua B:.ii h9c va
-cac phuang ti?n thong tin d:.ii  chung khac;
-
-b) T6 chuc kiSm tra h6 sa cua thi sinh d\f tuySn va trung tuySn theo quy dinh;
-
-c)  C~p nh~t len C6ng thong tin tuySn sinh va H? th6ng h6 trg tuySn sinh chung cua
-Be) GDBT tfit ca cac thong tin tuySn sinh cua B:.ii h9c theo quy dinh dS th1Jc hi?n xet tuySn
-tren h? thf>ng  (d6i v&i tuySn sinh d:.ii  h9c chinh quy);
-
-d) D\f ki€n  phuang an diSm trung tuySn, trinh HBTS quy€t  dinh;
-d) L~p  danh sach thi sinh trung tuySn va gui gifiy bao trung tuySn cho thi sinh;
-
-e) Th1Jc hi?n cac nhi?m V\l  khac cua Ban thu ky  theo  quy  dinh  cua Quy  chS thi t6t
-
-nghi?p THPT va xet cong nh~n t6t nghi?p THPT n€u  th\fc hi?n thi  tuySn.
-
-f)  Th1Jc hi?n cac nhi?m V\l  khac do  Chu tich HBTS giao.
-
-Di~u 37. Tnich nhi?m  cua  cac ben lien  quan trong cong tac xet tuy~n
-
-1.  Trach nhi?m cua thi sinh:
-
-a)  Tim hiSu ky thong tin tuySn sinh cua B:.ii h9c, khong dang ky  nguy?n v9ng vao
-nhfrng nganh, chuang trinh dao t:.io  hay phuang thuc tuySn sinh ma khong du diSu ki?n;
-
-b) Cung cfip d§.y du va bao dam tinh chinh xac cua tfit ca thong tin dang ky d\f tuySn,
-bao  g6m  ca thong tin ca nhan,  thong tin khu V\fC  va d6i tm;mg  uu tien (n€u  c6 ), nguy?n
-VQng  dang ky; tinh xac th\fC  cua cac gifiy ta minh chung;
-
-c) B6ng y  dS  B:.ii h9c duqc quySn su dl,lng  thong tin,  du li?u c§.n thi€t  ph\lc V\l  cho
-
-cong tac xet tuySn;
-
-d) Hoan thanh thanh toan l? phi tuySn sinh tru&c khi kSt thuc thu tl,lc dang ky d\f tuySn.
-
-2. Trach nhi?m cua B:.ii h9c:
-
-a)  Xay  d\fllg  quy  ch€
-
-tuySn sinh rieng dS  C\l  thS  h6a nhfrng  quy  dinh cho cac hinh
-
-thuc dao t:.io,  cong khai tren trang thong tin di?n tu cua B:.ii h9c.
-
-b) T6 chuc tuySn sinh theo thong tin tuySn sinh va quy ch€  tuySn sinh da ban hanh,
-
-tuan thu  cac  quy  dinh  cua Quy  ch€  nay  va cac  quy  dinh phap lu~t hi~n hanh; th1Jc  hi?n
-trach nhi~m  giai trinh v&i  Be)  GDBT,  cac ca  quan  c6  thAm  quySn  va xa h<)i  vs toan be)
-cong tac tuySn sinh cua B:.ii h9c.
-
-c)  T6  chuc ra soat thong tin tuySn sinh, ti€n  hanh kiSm  tra n<)i  b9, h~u  kiSm  ho?t
-d<)ng tuySn sinh; chu d<)ng giai quySt cac rui ro phat sinh cua B?i h9c; giai quySt dan thu
-phan anh, khi€u  n?i,  t6  cao va XU  ly  vi ph:.im  lien quan t&i  cong tac tuySn sinh cua B?i
-h9c theo quy dinh cua Quy chS nay va quy dinh cua phap lu~t c6 lien quan.
-
-d)  Ch~ nhfit ngay  31  thang  12  hing nam,  B?i h9c phai hoan thanh c~p  nh~t  du
-
-li?u thi,rc tuySn cua tfit ca cac hinh thuc dao t?o bao g6m: thong tin thi sinh; thong tin xet
-tuySn cua thi sinh; k€t  qua xet tuySn cua thi sinh; thong tin vs chuang trinh dao t?O tuySn
-
-J
-
-23
-
-sinh; thong tin v€  phuang thuc tuySn sinh da thong bao tuySn sinh tren H~ th6ng cua Bo
-GDDT.
-
-d)  Bao quan,  luu trfr  cac tai  li?u lien quan dSn tuySn sinh trong su6t kh6a dao t~o
-theo quy dµih  cua Lu?t Luu trfr va cac quy dinh v€  thai h~n bao quan tai li~u chuyen man
-nghi?p V\l  cua nganh giao dvc.
-
-e) D~i  h9c SU  dvng kSt  qua ky thi d9c  l~p  dS  xet tuySn d~i h9c phai c6 trach nhi?m
-th1.Jc  hi?n vi?c d6i  sanh v&i  kSt  qua h9c t?p  cua sinh vien hfulg nam  va sau 03  nam lien
-tiSp  ap  di,mg tir nam 2026 v&i cac tieu chi: kSt qua h9c t?p va thai gian h9c t~p  cua nguai
-trung tuySn nSu su di,mg phuang thuc xet tuySn dc)c  l?p.
-
-Bi~u 38. Xfr ly vi ph~m
-
-1.  Can be)  va thi sinh c6 hanh vi vi ph~m trong qua trinh t6 chuc thi duqc xu ly theo
-
-quy dinh t~i  Quy chS thi t6t nghi?p THPT cua Be)  GDBT.
-
-2.  Thi  sinh  c6  hanh vi  gian  l?n trong  qua trinh dang ky  dv  tuySn,  dv thi  dS  duqc
-trung tuySn;  tuy  theo  muc d9  c6  thS  bi  buc)c  thoi  h9c,  d.m dv tuySn  vao  D~i  h9c trong
-nhfrng nam tiSp theo ho~c bi xu ly hinh sv theo quy  dinh cua phap lu?t.
-
-3. Nguai c6 hanh vi vi ph~m Quy chS nay la cong chuc, vien chuc, tuy theo muc d<)
-se bi ca quan quan  ly  can be)  xu ly  theo  quy  dinh cua Lu?t Giao d1,1c  d~i  h9c;  Lu?t Vien
-chuc, Lu~t  Can be),  cong chuc va cac van ban quy  dinh v€  xu ly ky  lu?t vien chuc, cong
-chuc.
-
-4.  B~i h9c vi ph~m v€  cong tac tuySn sinh tuy theo muc de)  vi ph~m se bi ap  dvng
-xu ly theo quy dinh phap lu?t hi?n hanh.  Giam d5c D~i h9c , chu tich hc)i  d6ng tuySn sinh
-va nhfrng ca nhan c6 lien quan cua D~i h9c vi ph~m cung bi xu ly theo quy dinh phap lu?t
-c6 lien quan.
-
-5.  Quy chS tuySn sinh cua D~i h9c quy  dµih  chi ti St vi?c xu ly vi ph~m d6i v&i  cac
-
-ca nhan, t6 chuc tham gia c6ng tac tuySn sinh.
-
-Bi~u 39. Khen thrr6'ng
-
-Chu tich Hc)i  d6ng tuySn sinh khen thuong ho~c  d€  nghi  Giam  d5c D~i  h9c khen
-
-thuong:
-
-1. Nhfrng ca nhan,  dan vi hoan thanh xu§.t sic nhi~m V\l  duqc giao.
-
-2. Nhfrng ca nhan, dan vi c6 nhi€u  thanh tich d6ng g6p cho c6ng tac tuySn sinh.
-
-Bi~u 40. Bi~u khoan thi hanh
-
-1. Toan be)  quy trinh thvc hi~n cong tac tuySn sinh duqc thvc hi~n va ung d1,1ng cong
-
-ngh~ thong tin, chuySn d5i s6 t~o thu~n lqi trong qua trinh quan ly va theo doi.
-
-2.  Truong phong Quan ly  dao t~o,  Truong khoa B~i h9c t~i chfrc,  Giam d6c Trung
-tam dao t~o tir xa, Truong cac dan vi thuc)c, trvc thuc)c B~i h9c va cac dan vi,  ca nhan c6
-lien quan chiu trach nhi?m thi hanh Quy ch€  nay.
-
-3. Hang nam,  Quy ch€  nay duqc b6 sung, sua d5i,  C?P  nh?t theo quy dinh va hu&ng
-
-d~n cua Be)  GDBT.
-
-24
-
-4.  Trong qua trinh thvc hi~n,  n~u  c6 v~n  d~ phat sinh c~n  di~u  chinh,  b6  sung,  cac
-don vi,  ca nhan phan anh v~ phong Quan ly  dao tc;io  d~  t6ng hgp, bao  cao Giam d6c E>c;ii
-h9c xem xet,  quy~t dinh.
-
-p.-~fy-
+"<=s«ze—==<=

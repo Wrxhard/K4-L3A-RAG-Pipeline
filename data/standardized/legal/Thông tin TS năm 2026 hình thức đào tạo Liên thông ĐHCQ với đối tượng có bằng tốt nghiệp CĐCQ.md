@@ -2,7 +2,7 @@
 ## Trang 1
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-ĐẠI HỌC KINH TẾ QUỐC DẪN Độc lập — Tự do — Hạnh phúc
+ĐẠI HỌC KINH TẾ QUỐC DÂN Độc lập - Tự do - Hạnh phúc
 
 # THÔNG TIN TUYỂN SINH NĂM 2026
 Hình thức đào tạo: Liên thông Đại học chính quy
@@ -20,6 +20,12 @@ Tên tiếng Anh: National Economics University (NEU)
 
 7. Địa chỉ công khai các thông tin về hoạt động của Đại học: https://neu.edu.vn
 8. Tra cứu và tham khảo các ngành, chương trình đào tạo tuyển sinh:
+
+[Mã QR trong trang 1 của PDF gốc; chưa giải mã đường dẫn.]
+
+9. App tuyển sinh “NEU Tuyển sinh”
+
+[Mã QR trong trang 1 của PDF gốc; chưa giải mã đường dẫn.]
 
 ## Trang 2
 
@@ -73,9 +79,7 @@ HSA/V-ACT/TSA nêu trên.
 
 + Các điểm thi HSA/V-ACT/TSA có thời hạn trong các năm 2024, 2025, 2026
 
-+ Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT/TOEIC được các tổ chức quốc
-
-tế cấp từ ngày 01/6/2024 đến thời điểm kết thúc nộp hồ sơ xét tuyển kết hợp vào ĐHCQ
++ Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT/TOEIC được các tổ chức quốc tế cấp từ ngày 01/6/2024 đến thời điểm kết thúc nộp hồ sơ xét tuyển kết hợp vào ĐHCQ
 năm 2026.
 
 (3) Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 5.5 hoặc TOEFL iBT từ 46
@@ -133,6 +137,8 @@ lượng đầu vào.
 
 ## Trang 4
 
+| TT | Mã xét tuyển | Tên ngành xét tuyển | Mã ngành | Tên ngành | Chỉ tiêu |
+|---:|---|---|---|---|---:|
 | 14 | 7310101_2 | Kinh tế và quản lý đô thị | 7310101 | Kinh tế | 2 |
 | 15 | 7310101_3 | Kinh tế và quản lý nguồn nhân lực | 7310101 | Kinh tế | 2 |
 | 16 | 7620115 | Kinh tế nông nghiệp | 7620115 | Kinh tế nông nghiệp | 2 |
@@ -171,17 +177,17 @@ ngoài các quy định trong Quy chế tuyển sinh của Bộ GDĐT.
 5.3. Tiêu chí phân ngành, chương trình đối với các mã tuyển sinh theo nhóm
 ngành: không có
 
-5.4. Các thông tỉn khác
+5.4. Các thông tin khác
 
 - ĐHKTQD đồng nhất tuyển sinh (không xét riêng) đối với thí sinh đã có bằng tốt
-nghiệp cao đẳng hệ chính quy như thí sinh tết nghiệp trung học phố thông về tất cả các điều
+nghiệp cao đẳng hệ chính quy như thí sinh tốt nghiệp trung học phổ thông về tất cả các điều
 kiện, tiêu chí xét tuyển bao gồm chỉ tiêu, phương thức, phạm vi, đối tượng và các tiêu chí
 
-khác. L
+khác.
 
 ## Trang 5
 
-- Thí sinh đã có bằng tốt nghiệp cao đắng hệ chính quy khi trúng tuyển, nhập học sẽ
+- Thí sinh đã có bằng tốt nghiệp cao đẳng hệ chính quy khi trúng tuyển, nhập học sẽ
 được công nhận kết quả học tập và chuyển đổi tín chỉ (bảo lưu) các môn học/học phần theo
 quy định của ĐHKTQD.
 
@@ -193,7 +199,7 @@ chính quy đại học.
 - Hình thức tuyển sinh: thí sinh nộp hồ sơ trực tuyến/online theo Thông báo của Đại
 học.
 
-- Điều kiện nhận hồ sơ dự tuyển: thí sinh đã tốt nghiệp và được cấp bằng và bảng điểm tết
+- Điều kiện nhận hồ sơ dự tuyển: thí sinh đã tốt nghiệp và được cấp bằng và bảng điểm tốt
 nghiệp cao đẳng chính quy.
 
 - ĐHKTQD xét tuyển hồ sơ theo ngành/chương trình xét tuyển như tuyển sinh chính
@@ -204,7 +210,7 @@ quy đại học.
 ĐHKTQD áp dụng chính sách ưu tiên chung theo Điều 7 Quy chế tuyển sinh của Bộ
 GDĐT theo khu vực và theo đối tượng, cụ thể:
 
-- Mức điểm ưu tiên áp dụng cho khu vực 1 (KV]) là 0,75 điểm, khu vực 2 nông thôn
+- Mức điểm ưu tiên áp dụng cho khu vực 1 (KV1) là 0,75 điểm, khu vực 2 nông thôn
 (KV2-NT) là 0,50 điểm, khu vực 2 (KV2) là 0,25 điểm; khu vực 3 (KV3) không được tính
 điểm ưu tiên;
 
@@ -241,18 +247,9 @@ quy đổi tương đương.
 
 - Tổng điểm ưu tiên = Điểm ưu tiên khu vực (nếu có) + Điểm ưu tiên đối tượng (nếu có)
 
-íx: Mì
-
-—¬
-._ h4
-
-Lư
-
-\\
-
 ## Trang 6
 
-Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,50 trở lên (khi quy đối về điểm theo
+Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,50 trở lên (khi quy đổi về điểm theo
 thang 10 và theo thang tổng điểm 03 môn tối đa là 30) được làm tròn đến hàng phần trăm và
 xác định theo công thức sau:
 
@@ -267,7 +264,7 @@ thông báo của ĐHKTQD.
 9. ĐHKTQD thực hiện các cam kết đối với thí sinh
 
 ĐHKTQD cam kết giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong
-những trường hợp rủi ro, trách nhiệm giải quyết việc thí sinh được chuyển đến hoặc chuyền
+những trường hợp rủi ro, trách nhiệm giải quyết việc thí sinh được chuyển đến hoặc chuyển
 đi do sai sót trong tuyển sinh theo pháp luật hiện hành của nhà nước, theo quy chế tuyển
 sinh của Bộ GDĐT và của ĐHKTQD.
 
@@ -292,7 +289,7 @@ Sinh viên để được xét tốt nghiệp cần đạt chuẩn đầu ra ti�
 | 3 | Chương trình chính quy chuẩn (học bằng tiếng Việt) | Bậc 4 | 5.5 | 46 | 500 | 600 | 270 |
 
 (Lưu ý: Một số chương trình học bằng tiếng Anh có chuẩn đầu ra tiếng Anh bậc 5, thí sinh cần xem
-thêm chỉ tiết chuẩn đầu ra tiếng Anh của từng chương trình)
+thêm chi tiết chuẩn đầu ra tiếng Anh của từng chương trình)
 
 10.3. Về điều chuyển linh hoạt chỉ tiêu tuyển sinh đại học chính quy
 

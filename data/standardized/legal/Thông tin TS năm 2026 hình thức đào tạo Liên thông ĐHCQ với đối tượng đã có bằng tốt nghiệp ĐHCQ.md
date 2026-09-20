@@ -23,6 +23,12 @@ Tên tiếng Anh: National Economics University (NEU)
 
 8. Tra cứu và tham khảo các ngành, chương trình đào tạo tuyển sinh:
 
+[Mã QR trong trang 1 của PDF gốc; chưa giải mã đường dẫn.]
+
+9. App tuyển sinh “NEU Tuyển sinh”
+
+[Mã QR trong trang 1 của PDF gốc; chưa giải mã đường dẫn.]
+
 ## Trang 2
 
 ## II. TUYỂN SINH ĐÀO TẠO ĐẠI HỌC
@@ -76,6 +82,8 @@ hợp, phương thức tuyển sinh: không có
 
 ## Trang 3
 
+| TT | Mã xét tuyển | Tên ngành xét tuyển | Mã ngành | Chỉ tiêu |
+|---:|---|---|---|---:|
 | 30 | 7340409 | Quản lý dự án | 7340409 | 3 |
 | 31 | 7850101 | Quản lý tài nguyên và môi trường | 7850101 | 3 |
 | 32 | 7810103 | Quản trị dịch vụ du lịch và lữ hành | 7810103 | 4 |
@@ -101,7 +109,7 @@ lục văn bằng tốt nghiệp đại học chính quy.
 
 7. Chính sách ưu tiên
 
-Thí sinh được ưu tiên tuyển sinh theo quy định tại Quy chế tuyển sinh đại học của >>
+Thí sinh được ưu tiên tuyển sinh theo quy định tại Quy chế tuyển sinh đại học của
 ĐHKTQD và của Bộ GDĐT
 
 8. Mức thu dịch vụ tuyển sinh:
@@ -137,8 +145,8 @@ Sinh viên để được xét tốt nghiệp cần đạt chuẩn đầu ra ti�
 | 2 | Chương trình chất lượng cao, POHE và các chương trình học bằng tiếng Anh | Bậc 4 | 6.0 | 60 | 543 | 730 | 290 |
 | 3 | Chương trình chính quy chuẩn (học bằng tiếng Việt) | Bậc 4 | 5.5 | 46 | 500 | 600 | 270 |
 
-(Luu ý: Một số chương trình học bằng tiếng Anh có chuẩn đầu ra tiếng Anh bậc 5, thí sinh cần xem
-thêm chỉ tiết chuẩn đầu ra tiếng Anh của từng chương trình)
+(Lưu ý: Một số chương trình học bằng tiếng Anh có chuẩn đầu ra tiếng Anh bậc 5, thí sinh cần xem
+thêm chi tiết chuẩn đầu ra tiếng Anh của từng chương trình)
 
 10.3. Về điều chuyển linh hoạt chỉ tiêu tuyển sinh đại học chính quy
 

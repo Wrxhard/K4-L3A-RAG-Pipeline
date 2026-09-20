@@ -26,10 +26,10 @@ Hai config dùng cùng golden dataset 15 câu, cùng generator `gpt-5.6-luna`, c
 | Metric            | Config A | Config B | Delta B−A |
 | ----------------- | -------: | -------: | --------: |
 | Faithfulness      | 1.00 | 1.00 | +0.00 |
-| Answer relevance  | 0.93 | 0.95 | +0.02 |
-| Context recall    | 0.60 | 0.72 | +0.12 |
-| Context precision | 0.83 | 0.97 | +0.14 |
-| **Average**       | **0.84** | **0.91** | **+0.07** |
+| Answer relevance  | 0.93 | 0.96 | +0.03 |
+| Context recall    | 0.62 | 0.73 | +0.11 |
+| Context precision | 0.85 | 0.98 | +0.13 |
+| **Average**       | **0.85** | **0.92** | **+0.07** |
 
 ## A/B comparison
 
@@ -41,9 +41,9 @@ Hai config dùng cùng golden dataset 15 câu, cùng generator `gpt-5.6-luna`, c
 
 |   # | Question | Config | Faithfulness | Relevance | Recall | Precision | Failure stage | Root cause |
 | --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------- | ---------- |
-|   1 | Tổng quỹ học bổng của NEU năm học 2025-2026 là bao nhiêu?... | A | 1.00 | 0.90 | 0.00 | 0.00 | retrieval | score thấp nhất batch |
-|   2 | Quy chế tuyển sinh 2026 của NEU được ban hành theo quyết địn... | A | 1.00 | 0.85 | 0.10 | 0.30 | retrieval | score thấp nhất batch |
-|   3 | Điểm chuẩn ngành Logistics và Quản lý chuỗi cung ứng của NEU... | A | 1.00 | 0.85 | 0.00 | 0.60 | retrieval | score thấp nhất batch |
+|   1 | Tổng quỹ học bổng của NEU năm học 2025-2026 là bao nhiêu?... | A | 1.00 | 0.85 | 0.00 | 0.00 | retrieval | score thấp nhất batch |
+|   2 | Điểm chuẩn ngành Logistics và Quản lý chuỗi cung ứng của NEU... | A | 1.00 | 0.65 | 0.00 | 0.70 | retrieval | score thấp nhất batch |
+|   3 | Điểm chuẩn ngành Thương mại điện tử của NEU năm 2025 là bao ... | A | 1.00 | 0.85 | 0.00 | 0.80 | retrieval | score thấp nhất batch |
 
 ## Recommendations
 

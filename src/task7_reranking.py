@@ -34,7 +34,7 @@ def rerank_rrf(
         result["retrieval_method"] = "hybrid"
         results.append(result)
     return results
-    raise NotImplementedError("Implement rerank_rrf")
+    # raise NotImplementedError("Implement rerank_rrf")
 
 
 if __name__ == "__main__":

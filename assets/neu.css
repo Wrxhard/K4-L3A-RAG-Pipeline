@@ -1,0 +1,184 @@
+/* NEU-inspired presentation. Native Streamlit widgets own chat interaction. */
+:root { --neu-blue: #07518d; --neu-navy: #082d4e; --neu-gold: #eac36d; --neu-ink: #16324b; }
+html { scroll-behavior: smooth; }
+.stApp { background: #fff; color: var(--neu-ink); }
+header[data-testid="stHeader"], [data-testid="stToolbar"], #MainMenu { display: none; }
+.stMainBlockContainer { padding: 0 !important; max-width: none !important; }
+[data-testid="stMainBlockContainer"] > [data-testid="stVerticalBlock"] { gap: 0; }
+.neu-home { font-family: Arial, sans-serif; line-height: 1.6; }
+.neu-home *, .chat-brand * { box-sizing: border-box; }
+.neu-home a { text-decoration: none; color: inherit; transition: color .18s, background .18s; }
+.neu-home a:hover { color: var(--neu-blue); }
+.neu-home a:focus-visible, .neu-home summary:focus-visible, button:focus-visible { outline: 3px solid #eac36d; outline-offset: 5px; }
+.neu-home h1, .neu-home h2, .neu-home h3 { font-family: Arial, sans-serif; padding: 0; margin: 0; line-height: 1.25; }
+.neu-home p { margin: 0; }
+.neu-home .ui-icon { width: 23px; height: 23px; flex-shrink: 0; vertical-align: middle; }
+.neu-hero { min-height: 720px; height: 92svh; max-height: 1000px; position: relative; color: #fff; background: #193e5c; overflow: hidden; }
+.hero-photo, .hero-shade { position: absolute; inset: 0; width: 100%; height: 100%; }
+.hero-photo { object-fit: cover; object-position: center 45%; }
+.hero-shade { background: linear-gradient(180deg, rgba(0,13,26,.88) 0%, rgba(0,13,26,.08) 24%, rgba(0,20,40,.08) 45%, rgba(0,19,40,.8) 100%), linear-gradient(90deg, rgba(0,22,43,.47), transparent 78%); }
+.neu-header { position: relative; z-index: 2; padding: 12px 3.4%; display: flex; align-items: flex-start; gap: 40px; }
+.brand { flex: 0 0 94px; }
+.brand img { width: 94px; height: 94px; object-fit: contain; }
+.header-right { flex: 1; min-width: 0; }
+.utility-nav { display: flex; justify-content: flex-end; align-items: center; gap: 29px; min-height: 30px; font-size: 11px; font-weight: 700; letter-spacing: .65px; }
+.demo-label { border: 1px solid #ffffff55; padding: 3px 9px; font-size: 9px; white-space: nowrap; }
+.desktop-nav { display: flex; justify-content: flex-end; gap: clamp(16px, 2vw, 34px); padding-top: 18px; }
+.desktop-nav a { font-size: clamp(14px, 1.23vw, 18px); font-weight: 700; white-space: nowrap; }
+.desktop-nav .ui-icon { width: 12px; height: 12px; margin-left: 7px; }
+.neu-header .ui-icon, .hero-bottom .ui-icon, .notice-bar .ui-icon, .assistant-symbol .ui-icon { filter: brightness(0) invert(1); }
+.neu-header a:hover { color: var(--neu-gold); }
+.mobile-nav { display: none; }
+.hero-copy { position: absolute; z-index: 1; bottom: 135px; left: 7.5%; right: 6%; max-width: 850px; }
+.neu-home .eyebrow { font-size: 11px; letter-spacing: 2.2px; font-weight: 700; color: var(--neu-blue); margin-bottom: 15px; }
+.hero-copy .eyebrow { color: var(--neu-gold); letter-spacing: 3px; }
+.hero-copy h1 { color: #fff; font-size: clamp(38px, 4.6vw, 66px); letter-spacing: -1.6px; line-height: 1.2; font-weight: 700; }
+.hero-copy h1 span { font-weight: 400; }
+.hero-copy > p:not(.eyebrow) { font-size: 17px; color: #f3f6fa; margin-top: 22px; line-height: 1.7; }
+.hero-cta { display: inline-flex; align-items: center; gap: 28px; padding: 14px 22px; background: #fff; color: var(--neu-navy) !important; margin-top: 27px; font-size: 14px; font-weight: 700; }
+.hero-cta:hover { background: var(--neu-gold); }
+.hero-bottom { position: absolute; bottom: 27px; left: 7.5%; right: 7.5%; display: flex; justify-content: space-between; align-items: center; font-size: 10px; letter-spacing: 1.5px; }
+.hero-bottom a { display: flex; align-items: center; gap: 12px; letter-spacing: .3px; font-size: 12px; }
+.hero-bottom a:hover { color: var(--neu-gold); }
+.notice-bar { background: var(--neu-blue); color: #fff; display: flex; align-items: stretch; min-height: 50px; font-size: 13px; }
+.notice-bar strong { display: flex; align-items: center; padding: 12px 35px; background: #b92931; flex-shrink: 0; letter-spacing: .5px; }
+.notice-bar a { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 12px 40px; flex: 1; }
+.notice-bar a:hover { color: var(--neu-gold); }
+.section-wrap { max-width: 1240px; padding-left: 44px; padding-right: 44px; margin: 0 auto; }
+.admissions-section { padding-top: 90px; padding-bottom: 65px; scroll-margin-top: 25px; }
+.section-heading { display: flex; justify-content: space-between; gap: 30px; align-items: end; margin-bottom: 35px; }
+.section-heading h2, .assistant-section h2 { font-size: 34px; font-weight: 600; color: var(--neu-navy); letter-spacing: -.8px; }
+.section-heading > p { color: #526375; font-size: 14px; line-height: 1.75; }
+.topic-grid { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid #dde4ea; }
+.topic-card { padding: 32px 30px; display: flex; flex-direction: column; border-right: 1px solid #dde4ea; background: #fff; }
+.topic-card:last-child { border-right: 0; }
+.topic-card:hover { background: #f2f6fa; }
+.topic-index { font-size: 10px; letter-spacing: 1.5px; color: #5c6a77; margin-bottom: 27px; }
+.topic-card h3 { font-size: 28px; font-weight: 500; color: var(--neu-navy); }
+.topic-card p { font-size: 14px; line-height: 1.8; color: #546576; margin: 17px 0 25px; }
+.topic-link { display: flex; justify-content: space-between; align-items: center; margin-top: auto; font-size: 13px; font-weight: 700; color: var(--neu-blue); }
+.news-section { padding-top: 35px; padding-bottom: 90px; scroll-margin-top: 25px; }
+.text-link { color: var(--neu-blue) !important; font-size: 13px; display: inline-flex; gap: 12px; align-items: center; }
+.news-layout { display: grid; grid-template-columns: 1fr 1.1fr; gap: 45px; }
+.news-feature { background: #f2f6f8; }
+.news-feature > img { width: 100%; height: 235px; object-fit: cover; display: block; }
+.news-feature > div { padding: 27px 30px; }
+.news-feature .eyebrow { font-size: 9px; }
+.news-feature h3 { font-size: 26px; margin-top: 10px; font-weight: 500; }
+.news-feature p { color: #526375; font-size: 14px; margin-top: 14px; }
+.news-row { display: flex; gap: 20px; padding: 23px 0; border-top: 1px solid #dce4eb; align-items: flex-start; }
+.news-row:last-child { border-bottom: 1px solid #dce4eb; }
+.news-row > .ui-icon { margin-top: 28px; width: 18px; }
+.news-number { font-size: 26px; color: #61788d; font-weight: 400; line-height: 1.3; }
+.news-row small { font-size: 9px; letter-spacing: 1.2px; color: #596b7b; }
+.news-row h3 { margin-top: 8px; font-size: 17px; font-weight: 500; line-height: 1.5; }
+.assistant-section { background: #edf4f9; padding: 52px 0; }
+.assistant-layout { display: flex; align-items: center; gap: 28px; }
+.assistant-symbol { background: var(--neu-blue); color: #fff; padding: 22px; border-radius: 50%; flex-shrink: 0; }
+.assistant-symbol .ui-icon { width: 34px; height: 34px; }
+.assistant-section h2 { font-size: 27px; margin-bottom: 15px; }
+.assistant-section p { font-size: 14px; color: #526375; }
+.assistant-note { border-left: 1px solid #c5d5e1; margin-left: auto; padding-left: 25px; color: #4e667a; line-height: 1.9; font-size: 12px; white-space: nowrap; }
+.neu-home .neu-footer { display: flex; justify-content: space-between; gap: 25px; padding-top: 38px; padding-bottom: 110px; font-size: 12px; color: #526375; }
+.neu-footer strong { color: var(--neu-navy); font-size: 13px; }
+.neu-footer small { font-size: 11px; }
+.st-key-chat_launcher { position: fixed; right: 30px; bottom: 28px; z-index: 100; width: auto !important; }
+.st-key-chat_launcher button { min-height: 60px; border: 1px solid #ffffff99; background: var(--neu-blue); color: #fff; border-radius: 35px; padding: 12px 23px; box-shadow: 0 6px 25px #001d3d44; gap: 12px; }
+.st-key-chat_launcher button:hover, .st-key-chat_launcher button:focus { background: #08385d; color: #fff; border-color: #eac36d; }
+.st-key-chat_launcher button p { font-weight: 600; font-size: 15px; }
+/* Chat view */
+.st-key-chat_shell { max-width: 1040px; margin: 0 auto; padding: 24px 34px 35px; }
+.st-key-chat_shell > [data-testid="stVerticalBlock"] { gap: 18px; }
+.chat-brand { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 15px 0 22px; border-bottom: 1px solid #e2e8ef; }
+.chat-brand-left { display: flex; align-items: center; gap: 17px; }
+.chat-brand img { width: 64px; height: 64px; object-fit: contain; }
+.chat-brand strong { display: block; color: var(--neu-navy); font-size: 20px; }
+.chat-brand span { font-size: 12px; color: #63768a; }
+.chat-badge { font-size: 10px !important; letter-spacing: 1px; padding: 6px 10px; border: 1px solid #d8e3ed; border-radius: 20px; }
+.chat-intro { text-align: center; padding: 24px 0 15px; }
+.chat-intro .intro-icon { display: inline-flex; color: var(--neu-blue); padding: 17px; background: #edf4fa; border-radius: 18px; margin-bottom: 18px; }
+.intro-icon .ui-icon { width: 30px; height: 30px; }
+.chat-intro h1 { color: var(--neu-navy); font-size: 32px; font-weight: 600; letter-spacing: -.7px; padding: 0; margin: 0 0 13px; }
+.chat-intro p { color: #5c6f80; font-size: 15px; line-height: 1.8; margin: 0; }
+.st-key-suggestions button { text-align: left; justify-content: flex-start; width: 100%; min-height: 64px; padding: 12px 18px; border-color: #d9e3ed; background: #fff; color: var(--neu-ink); border-radius: 10px; }
+.st-key-suggestions button:hover { background: #f0f6fb; border-color: #7b9fbd; }
+.st-key-suggestions button p { white-space: normal; overflow: visible; text-overflow: clip; }
+.st-key-chat_shell [data-testid="stChatMessage"] { border-radius: 12px; padding: 19px; background: #f4f7fa; }
+.st-key-chat_shell [data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarUser"]) { background: #eaf2f9; }
+.st-key-chat_shell [data-testid="stChatMessage"] p { line-height: 1.8; }
+.st-key-chat_shell [data-testid="stExpander"] { background: #fff; border-color: #dce5ed; }
+.st-key-chat_shell [data-testid="stChatInput"] { border-radius: 15px; }
+.chat-disclaimer { text-align: center; color: #697b8b; font-size: 11px; margin-top: 8px; line-height: 1.6; }
+.st-key-chat_shell [data-testid="stCaptionContainer"] p { overflow-wrap: anywhere; }
+@media (max-width: 1100px) {
+  .desktop-nav { gap: 15px; } .desktop-nav a { font-size: 13px; }
+  .desktop-nav .ui-icon { display: none; } .neu-header { gap: 22px; }
+  .utility-nav { gap: 18px; font-size: 10px; }
+  .section-wrap { padding-left: 30px; padding-right: 30px; }
+}
+@media (max-width: 800px) {
+  .neu-hero { min-height: 650px; height: 88svh; }
+  .neu-header { padding: 18px 24px; justify-content: space-between; align-items: center; }
+  .brand, .brand img { width: 72px; height: 72px; flex-basis: 72px; }
+  .header-right { display: none; }
+  .mobile-nav { display: block; position: relative; font-size: 14px; }
+  .mobile-nav summary { cursor: pointer; list-style: none; padding: 12px 0 12px 15px; }
+  .mobile-nav summary span { margin-left: 12px; font-size: 21px; }
+  .mobile-nav nav { position: absolute; right: 0; top: 50px; width: 255px; padding: 12px; background: #fff; color: var(--neu-navy); box-shadow: 0 12px 40px #001e3540; border-radius: 4px; }
+  .mobile-nav nav a { display: flex; align-items: center; justify-content: space-between; padding: 12px; font-size: 14px; }
+  .mobile-nav nav .ui-icon { width: 13px; height: 13px; filter: none; }
+  .hero-copy { left: 7%; right: 7%; bottom: 115px; }
+  .hero-copy h1 { font-size: 44px; }
+  .hero-bottom { left: 7%; right: 7%; font-size: 8px; }
+  .hero-bottom > span:last-child { display: none; }
+  .notice-bar strong { padding: 12px 20px; font-size: 10px; }
+  .notice-bar a { padding: 12px 20px; font-size: 11px; }
+  .section-heading { align-items: start; flex-direction: column; gap: 18px; }
+  .section-heading h2 { font-size: 29px; }
+  .topic-card { padding: 25px 20px; } .topic-card h3 { font-size: 23px; }
+  .news-layout { gap: 28px; grid-template-columns: 1fr; }
+  .news-feature { display: grid; grid-template-columns: 1fr 1fr; }
+  .news-feature > img { height: 100%; min-height: 230px; }
+  .assistant-symbol, .assistant-note { display: none; }
+  .neu-home .neu-footer { flex-direction: column; }
+}
+@media (max-width: 560px) {
+  .neu-hero { min-height: 650px; max-height: 800px; }
+  .hero-photo { object-position: 58% center; }
+  .hero-copy { bottom: 110px; }
+  .hero-copy .eyebrow { font-size: 9px; letter-spacing: 1.6px; }
+  .hero-copy h1 { font-size: 36px; letter-spacing: -1.2px; }
+  .hero-copy > p:not(.eyebrow) { font-size: 14px; }
+  .hero-cta { font-size: 12px; padding: 12px 18px; }
+  .hero-bottom { bottom: 24px; }
+  .hero-bottom > span { max-width: 140px; }
+  .hero-bottom a { font-size: 10px; }
+  .notice-bar { flex-direction: column; }
+  .notice-bar strong { padding: 8px 24px; }
+  .notice-bar a { padding: 13px 24px; }
+  .section-wrap { padding-left: 24px; padding-right: 24px; }
+  .admissions-section { padding-top: 55px; padding-bottom: 30px; }
+  .topic-grid { grid-template-columns: 1fr; }
+  .topic-card { border-right: 0; border-bottom: 1px solid #dde4ea; padding: 25px; }
+  .topic-card:last-child { border-bottom: 0; }
+  .topic-card br { display: none; } .topic-index { margin-bottom: 15px; }
+  .topic-card h3 { font-size: 25px; } .topic-card p { margin: 14px 0 20px; }
+  .news-section { padding-bottom: 55px; }
+  .news-feature { display: block; } .news-feature > img { height: 190px; min-height: 0; }
+  .news-row { gap: 14px; } .news-row h3 { font-size: 15px; }
+  .assistant-section h2 { font-size: 26px; } .assistant-section { padding: 35px 0; }
+  .st-key-chat_launcher { right: 16px; bottom: 18px; }
+  .st-key-chat_launcher button { min-height: 54px; padding: 10px 18px; }
+  .st-key-chat_launcher button p { font-size: 13px; }
+  .st-key-chat_shell { padding: 15px 18px 24px; }
+  .chat-brand { padding: 10px 0 18px; } .chat-brand img { width: 47px; height: 47px; }
+  .chat-brand strong { font-size: 16px; } .chat-brand span { font-size: 10px; }
+  .chat-badge { display: none; } .chat-intro { padding-top: 18px; }
+  .chat-intro h1 { font-size: 26px; } .chat-intro p { font-size: 13px; }
+  .st-key-chat_shell [data-testid="stChatMessage"] { padding: 12px; }
+  .st-key-suggestions [data-testid="stHorizontalBlock"] { gap: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .neu-home *, .st-key-chat_launcher button { transition: none !important; }
+}

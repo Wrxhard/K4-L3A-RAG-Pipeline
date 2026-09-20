@@ -175,7 +175,7 @@ thương hiệu và danh tiếng, đạt đẳng cấp khu vực và quốc
 4 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 5
 
 GGGIIIỚỚỚIII TTTHHHIIIỆỆỆUUU
-tTrrưườờnngg ccôônngg nngghhệệ
+TRƯỜNG CÔNG NGHỆ
 NNNGGGÀÀÀNNNHHH///CCCHHHƯƯƯƠƠƠNNNGGG TTTRRRÌÌÌNNNHHH ĐĐĐÀÀÀOOO TTTẠẠẠOOO
 6 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 7
 
@@ -461,7 +461,7 @@ facebook.com/lcdkhoahtttql.neu
 14 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 15
 
 Management Information Systems
-|     |     |     |     |     |     | Chỉ tiêu tuyển sinh: 50 |     |     |     |     |     |     | IInnffoorrmmaattiioonn  SSyysstteemmss |     |     |     |     |
+|     |     |     |     |     |     | Chỉ tiêu tuyển sinh: 50 |     |     |     |     |     |     | Information Systems |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | ----------------------- | --- | --- | --- | --- | --- | --- | -------------------------------------- | --- | --- | --- | --- |
 HỆ THỐNG
 HHỆỆ  TTHHỐỐNNGG
@@ -790,7 +790,7 @@ trình Thạc sĩ, Tiến sĩ về Toán ứng dụng, Toán tài chính, Kinh t
 học tính toán ở các trường đại học uy tín trên thế giới.
 32 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 33
 
-tTrrưườờnngg kkiinnhh ddooaannhh
+TRƯỜNG KINH DOANH
 34 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 35
 
 BẢO HIỂM (ĐHCQ) BẤT ĐỘNG SẢN (ĐHCQ)
@@ -1635,8 +1635,7 @@ CHỨNG NHẬN/CHỨNG CHỈ NGHỀ NGHIỆP (nếu có)
 Chứng chỉ kinh doanh điện tử (Đăng ký học tại trung tâm CECI)
 66 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 67
 
-tTrrưườờnngg kkiinnhh ttếế
-vvàà qquuảảnn llýý ccôônngg
+TRƯỜNG KINH TẾ VÀ QUẢN LÝ CÔNG
 68 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 69
 
 KINH TẾ ĐẦU TƯ (ĐHCQ) Quản lý Dự án (ĐHCQ)
@@ -2095,10 +2094,10 @@ doanh nghiệp.
 86 |    ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026     | 87
 
 KẾ TOÁN (ĐHCQ)
-vViiệệnn kkếế ttooáánn
+VIỆN KẾ TOÁN - KIỂM TOÁN
 MÃ TUYỂN SINH: 7340301 LIÊN HỆ: Viện Kế toán – Kiểm toán WEB: saa.neu.edu.vn
 Đào tạo cử nhân đại học ngành Kế toán có hiểu biết cơ bản về kế toán tài chính, kế toán quản trị,
-kkiiểểmm ttooáánn phân tích hoạt động kinh tế, kiểm toán và kiểm soát nhằm nâng cao năng lực hành nghề kế toán
+phân tích hoạt động kinh tế, kiểm toán và kiểm soát nhằm nâng cao năng lực hành nghề kế toán
 đạt chuẩn quốc gia và quốc tế. Trang bị kiến thức ngành cũng như kiến thức nền tảng rộng, các
 kĩ năng và thái độ cần thiết nhằm cung cấp nguồn nhân lực kế toán chất lượng cao đáp ứng nhu
 cầu phát triển bền vững của đất nước. Đào tạo các cử nhân những phẩm chất chính trị, đạo đức
@@ -2241,11 +2240,11 @@ trường đại học trên toàn cầu và cũng như học tiếp các chứn
 
 tài chính - ngân hàng (ĐHCQ)
 MÃ TUYỂN SINH: 7340201 LIÊN HỆ: Viện Ngân hàng Tài chính WEB: nhtc.neu.edu.vn
-vViiệệnn nnggâânn HhÀàNnGg
+VIỆN NGÂN HÀNG - TÀI CHÍNH
 Viện Ngân hàng Tài chính - Đại học Kinh tế Quốc dân là đơn vị đầu tiên và là hàng đầu về đào tạo ngành Tài chính ngân hàng của
 Việt Nam suốt mấy chục năm qua kể từ năm 1956, là nơi cung cấp nguồn nhân lực có chất lượng cao cho các cơ quan quản lý
 nhà nước, các ngân hàng, các doanh nghiệp, các tổ chức kinh tế, các trường đại học, các viện nghiên cứu trong và ngoài nước....
-TtÀàIi CcHhÍíNnHh
+TÀI CHÍNH
 Trải qua 66 năm hình thành và phát triển, Viện Ngân hàng Tài chính - NEU luôn khẳng định vị thế số một tại Việt Nam về đào
 tạo và nghiên cứu khoa học, đã được Đảng, Nhà Nước, Chính Phủ, Ngân hàng Nhà nước Việt Nam, Bộ Tài chính, các Bộ Ngành
 khác và xã hội ghi nhận. Nhiều lãnh đạo Đảng, Nhà nước, Chính phủ, Các Bộ ngành, các Tập đoàn, Doanh nghiệp, các tổ chức...
@@ -2300,12 +2299,12 @@ chính ngân hàng nói riêng và nền kinh tế nói chung trong bối cảnh
 Sự phát triển mạnh mẽ của Công nghệ thông tin và truyền thông là yếu tố then chốt, nền tảng hình thành nên hệ sinh thái kinh Tài chính - Ngân hàng, đặc biệt là các kỹ năng phân tích và đầu tư tài chính, xây dựng và quản trị danh mục đầu tư,
 tế số như Chính phủ diện tử (E-Government), Thương mại diện tử (E-Commerce), Kinh doanh diện tử (E-Business), ...Các công sử dụng các công cụ tài chính trong đầu tư... Chương trình được thiết kế và đào tạo theo chuẩn quốc tế với tài liệu
 nghệ kỹ thuật số như Điện toán đám mây, Trí tuệ nhân tạo, Big data, Internet vạn vật... đã tác động mạnh mẽ và làm thay đôi các và giáo trình Tiếng Anh cập nhật, phù hợp với các chương trình học thuật và hành nghề chuẩn Quốc tế, có khả năng
-hoạt động truyên thông trong lĩnh vực tài chính ngân hàng nói riêng và các hoạt động trong đời sông kinh tê - xã hội nói chung. liên thông các chương trình học ở bậc cao hơn tại Anh quốc và các nước nói tiếng Anh khác. Đội ngũ giảng viên có
+hoạt động truyền thông trong lĩnh vực tài chính ngân hàng nói riêng và các hoạt động trong đời sống kinh tế - xã hội nói chung. liên thông các chương trình học ở bậc cao hơn tại Anh quốc và các nước nói tiếng Anh khác. Đội ngũ giảng viên có
 Công nghệ tài chính (Fintech) là sự kết hợp giữa Technology (Công nghệ) với Finance (Tài chính), tận dụng sự sáng tạo công trình độ cao (GS, PGS, TS, ThS) được đào tạo ở nước ngoài và hết sức tâm huyết với sự nghiệp giáo dục và đào tạo.
 nghệ để sử dụng trong mọi hoạt động tài chính và dịch vụ khác. Hàng chục năm qua, hệ thống ngân hàng đã tập trung đầu tư Từ năm 2021, một số môn học chuyên sâu sẽ được giảng dạy bởi giảng viên người nước ngoài, đến từ California,
 vào công nghệ đê cho ra đời nhiêu sản phâm công nghệ trong hoạt động ngân hàng nhăm nâng cao hiệu quả hoạt động của Mỹ; sinh viên có điều kiện giao lưu thực tế với trường Đại học Lincoln (UK) qua các buổi hội thảo và các chuyến đi
 mình như Hệ thống máy rút tiền tự động (ATM), SWIFT, Tiền điện tử (Digital Banking), Mobile banking, Ngân hàng chuỗi khối thực tế tại Vương Quốc Anh.
-(Blockchain Banking)... Tuy nhiên, sự phát triên như vũ bão của công nghệ đã đặt các ngân hàng vào tình thê cạnh tranh ngày
+(Blockchain Banking)... Tuy nhiên, sự phát triển như vũ bão của công nghệ đã đặt các ngân hàng vào tình thế cạnh tranh ngày
 Sau khi tốt nghiệp, cử nhân Đầu tư Tài chính có thể đảm nhiệm các vị trí công việc liên quan đến quản lý tài chính,
 càng gay găt, buộc phải cải tiến, đổi mới dể phát triển. Hoạt động cung ứng các dịch vụ tín dụng, thanh toán, chuyển tiền...
 giờ không còn là lĩnh vực độc quyền của hệ thống ngân hàng nữa khi các công ty công nghệ lớn như Google, Amazon, Apple, phân tích tài chính, phân tích đầu tư, thẩm định dự án đầu tư, tư vấn đầu tư, kế toán, kiểm soát viên... tại các cơ quan
@@ -2422,18 +2421,13 @@ ACCA, CIIA, CIB, CITF, CDCG...
 
 VIỆN ĐÀO TẠO TIÊN TIẾN, CHẤT LƯỢNG CAO & POHE
 Địa chỉ: Phòng 307 đến 311, tầng 3, tòa nhà A1 - Đại học Kinh tế Quốc dân, 207 Giải Phóng, phường Bạch Mai, Hà Nội
-vViiệệnn  đđààoo  ttạạoo   ACCREDITED
+VIỆN ĐÀO TẠO TIÊN TIẾN, CHẤT LƯỢNG CAO VÀ POHE
 Điện thoại: (84-24) 36.280.280 máy lẻ 5311, 5320, 5329, 5330 * Email: aep@neu.edu.vn * Website: www.aep.neu.edu.vn
 THÔNG TIN
-ttiiêênn  ttiiếếnn,,
 TUYỂN SINH
 NĂM 2026
-cchhấấtt  llưượợnngg  ccaaoo
 Đường dây nóng tuyển sinh:
 0896 869 234
-vvàà  ppoohhee
-| (cid:31)(cid:30)(cid:29) |     |     |     |     | (cid:30)(cid:30)(cid:29) |     |     |     |     |
-| ------------------------ | --- | --- | --- | --- | ------------------------ | --- | --- | --- | --- |
 | CHƯƠNG TRÌNH             |     |     |     |     | CHƯƠNG TRÌNH             |     |     |     |     |
 | TIÊN TIẾN                |     |     |     |     | CHẤT LƯỢNG               |     |     |     |     |
 CAO
@@ -2528,8 +2522,7 @@ tế quốc tế.
 0896 869 234
 CHƯƠNG TRÌNH ĐÀO TẠO
 Tổng số tín chỉ: 141
-(cid:27)(cid:26)
-(cid:31)(cid:30)(cid:29)(cid:28) Các học phần/môn học chính:
+Các học phần/môn học chính:
 • Quản trị tác nghiệp dịch vụ đón tiếp • Giám sát khách sạn
 CHƯƠNG TRÌNH
 CHƯƠNG TRÌNH Front Office Operation Management Supervision in Hospitality
@@ -3432,9 +3425,9 @@ CHỨNG NHẬN/CHỨNG CHỈ NGHỀ NGHIỆP (nếu có)
 130 |    ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026     | 131
 
 KHỞI NGHIỆP VÀ PHÁT TRIỂN KINH DOANH (CTTA)
-vViiệệnn  đđààoo  ttạạoo
+VIỆN ĐÀO TẠO QUỐC TẾ
 MÃ	TUYỂN	SINH:	EP01        LIÊN	HỆ:	Viện	Đào	tạo	Quốc	tế         WEB:	www.isme.neu.edu.vn
-qquuốốcc  ttếế B-BAE (Bachelor of Business Administration in Entrepreneurship Management) là chương trình đào
+B-BAE (Bachelor of Business Administration in Entrepreneurship Management) là chương trình đào
 tạo cử nhân về Khởi nghiệp và Phát triển Kinh doanh, học bằng tiếng Anh. Chương trình mang tính
 ứng dụng cao, liên thông quốc tế, được thực hiện bởi đội ngũ giảng viên Việt Nam và nước ngoài giàu
 kinh nghiệm. Sinh viên học toàn thời gian tại Việt Nam sẽ được Đại học Kinh tế Quốc dân cấp bằng
@@ -3464,117 +3457,37 @@ cứu, cán bộ tư vấn;
 132 |    ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026     | 133
 
 MÔ HÌNH ĐÀO TẠO
-MÔ HÌNH
-QUỐC GIA
-| TRƯỜNG CẤP BẰNG |     |     |     |     | ĐÀO TẠO |     |     | NGÀNH / CHUYÊN NGÀNH HỌC |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --------------- | --- | --- | --- | --- | ------- | --- | --- | ------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-ĐẠI HỌC
-|     |     |     |     |     | 4+0 |     |     | Bằng Cử nhân Quản trị kinh doanh, |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-KINH TẾ
-Chương trình Khởi nghiệp và Phát triển kinh doanh
-|     |     | QUỐC DÂN |     |     | Hệ chính quy |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | -------- | --- | --- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-bằng tiếng Anh (B-BAE)
- vê ̀tr
-|     |     |     |     |     |     |     | Tuỳ l | ự a choṇ | ườ ng hoc̣, các baṇ |             |  se ̃đ ượ | c nhaṇ(cid:9) |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ----- | --------- | -------------------- | ----------- | --------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | 2+2 |     |       | Băǹg Qu  | n tri ḳ             | inh doanh,  |           |                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-ả
-|     |     |     |     |     |     |     |     | v i l a choṇ       |  1 trong nh | ng chuyên ngành: |               |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------------------- | ----------- | ---------------- | ------------- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     | ớ ự                 |             | ữ                |               |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |                     |             |                  | Kh i nghiep̣̂ |  và đ i m i |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     | Qu  | n tri c̣ ông nghệ |             |                  | ở             | ổ ớ         |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     | ả                   |             |                  | (3+1)         |             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-huôĩ cung
-|     |     |     |     |     |     |     | Qu  | ả n tri c̣ |     | ứ ng | Kinh doanh & Qu | n tri ̣ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ---------- | --- | ---- | --------------- | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-ả
-|     |     |     |     |     |     |     | Kinh doanh quôć |     |  tế |     |               | nh Quôć |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ---------------- | --- | ---- | --- | ------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | 2+2 |     |                  |     |      |     | Qu ả n tri Ḳ | inh doa  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     | Kê ́toán         |     |      |     | tê ́(         |          |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-2+2)
-|     |     |     |     |     | 3+1 |     | Kinh tê ́hoc̣ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Kinh doanh
-|     |     |     |     |     |     |     | Kh  | i nghiep̣̂ |  (2+2) |     |           |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ---------- | ------ | --- | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     | ở          |        |     | Marketing |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-Tài chính
-|     |     |     |     |     |     |     |     |            |         |     | Chiêń  l         | c qu ng cáo và  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ---------- | ------- | --- | ----------------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     | guôǹ      |         |     | ư ợ               | ả               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     | Qu  | ả n tri ṇ |  nhân l | ự c | quan he   ̣̂công  | chúng           |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |            |         |     | Qu n tri ṇ       | guôǹ  nhân l c |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |            |         |     | ả                 | ự               |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-2+2
-3+1
-TRẢI NGHIỆM HỌC TẬP THỰC TIỄN & QUỐC TẾ
-THÔNG TIN TRƯỜNG ĐỐI TÁC
-|     |     |     |     |     |     |     |     |     |     |     |     |     | Giao l u quôć tê:́ Tr                           |     |  thành tr |     |  lý phát tri | n d                   |  án kinh doanh cùng hoc̣ viên |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------------------------ | --- | --------- | --- | ------------ | --------------------- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     |     |     |     |     |     | ư                                                |     | ở         | ợ   |              | ể                     | ự                             |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |     |     |     |     |     |                                                  |     |           |     |              | i sinh viên quôć tế |                               |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |     |     |     |     |     | cao hoc̣ EMBA BSU,  hoaṭ đoṇ̂                  |     |           |     | g trao đ     | ổ                     |                               |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |     |     |     |     |     | Phát tri n chuyên môn & Găń kêt́ doanh nghiep̣̂ |     |           |     |              |                       | : Guest Speaker, Career       |     |     |     |     |     |     |     |
-ể
-Mentoring 1-1, Business Field Trip
-ĐẠI HỌC BOISE STATE, MỸ
-c tê:́ Giúp sinh viên phát tri
-Đ c thành lap̣̂  vào năm 1932 taị Bang Idaho, My ̃ Đ ượ c tham gia các d ự  án kh ở i nghiep̣̂  th ự ể n
-ượ
- vê ̀kinh doanh trên thê ́gi t  duy sáng taọ , ky ̃năng vaṇ̂  hành và gi i quyêt́ vâń  đê ̀trong môi tr ng
-|     | Top 6% tr   |           | ườ ng đào taọ |                 |              |     | ớ i đaṭ |     |     |     |     |     | ư                   |     |     |                                       |     | ả   |     |     | ườ  |     |     |     |     |     |
-| --- | ----------- | --------- | -------------- | --------------- | ------------ | --- | -------- | --- | --- | --- | --- | --- | ------------------- | --- | --- | ------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |             |           |                |                 |              |     |          |     |     |     |     |     | doanh nghiep̣̂      | .   |     |                                       |     |     |     |     |     |     |     |     |     |     |
-|     | ch          | ng nhaṇ̂ |  b i Hiep̣̂    |  hoị̂ Phát tri | n gi ng daỵ |     |  kinh    |     |     |     |     |     |                     |     |     |                                       |     |     |     |     |     |     |     |     |     |     |
-|     |             | ứ         | ở              |                 | ể ả          |     |          |     |     |     |     |     |                     |     |     |                                       |     |     |     |     |     |     |     |     |     |     |
-|     | doanh baĉ̣ |           |  Đaị hoc̣     |  - AACSB        |              |     |          |     |     |     |     |     |                     |     |     |                                       |     |     |     |     |     |     |     |     |     |     |
-|     |             |           |                |                 |              |     |          |     |     |     |     |     | MÃ TUY N SINH: EP01 |     |     | TỔ HỢP TUYỂN SINH: A00, A01, D01, D07 |     |     |     |     |     |     |     |     |     |     |
-Ể
-ĐẠI HỌC LINCOLN, VQ ANH
-|     |     |     |     |     | Đ   | c thành lap̣̂ |  t  |  năm 1861 |     |     |     |     | ĐẶC ĐIỂM CHÍNH |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | ------------- | --- | --------- | --- | --- | --- | --- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | ượ  |               |     | ừ         |     |     |     |     |                |     |     |     |     |     |     |     |     |     |     |     |     |     |
-Top 601-800 THE World University Rankings (THE 2026)
-|     |     |     |     |     | Top 64 các tr |     |     | ng đaị hoc̣ |  tôt́ nhât́ VQ Anh (The Guardian |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | ------------- | --- | --- | ------------ | -------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-ườ
-2026) Ch ng trình đ c chuy n giao noị̂ dung và công nghe ̣̂t  ĐH Boise State, Mỹ
-|     |                                  |               |               |              |               |     |               |     |     |     |     |     |     |                     | ươ          |         | ượ      |               | ể                            |     |     |                        |                       | ừ   |               |     |
-| --- | -------------------------------- | ------------- | ------------- | ------------ | ------------- | --- | ------------- | --- | --- | --- | --- | --- | --- | ------------------- | ----------- | ------- | ------- | ------------- | ---------------------------- | --- | --- | ---------------------- | --------------------- | --- | ------------- | --- |
-|     | ĐẠI HỌC CÔNG NGHỆ QUEENSLAND, ÚC |               |               |              |               |     |               |     |     |     |     |     |     |                     |             |         | n tiêṕ |               |                              |     |     |                        |                       |     |               |     |
-|     |                                  |               |               |              |               |     |               |     |     |     |     |     |     | C                   |  hoị̂ chuy |         |         |  hoc̣         |  tap̣̂  linh hoaṭ qua 03 tr |     |     |                        | ng taị Anh, Úc, My ̃ |     |               |     |
-|     |                                  |               |               |              |               |     |               |     |     |     |     |     |     |                     | ơ           |         | ể       |               |                              |     |     | ườ                     |                       |     |               |     |
-|     |                                  | Đ             | c thành lap̣̂ |  năm 1909    |               |     |               |     |     |     |     |     |     |                     |             |         |         |               |                              |     |     |                        |                       |     |               |     |
-|     |                                  | ượ            |               |              |               |     |               |     |     |     |     |     |     |                     |             |         |         |  quôć        |  tê ́chuyên nghiep̣̂         |     |     |                        |                       |     |               |     |
-|     |                                  |               |               |              |               |     |               |     |     |     |     |     |     | Môi tr              |             | ng hoc̣ |  tap̣̂  |               |                              |     |     | , kích thích sáng taọ |                       |     | , hoaṭ đoṇ̂ | g   |
-|     |                                  | Top 1% các tr |               | ng Đaị hoc̣ |  trên thê ́gi |     | i đaṭ Triple |     |     |     |     |     |     |                     | ườ          |         |         |               |                              |     |     |                        |                       |     |               |     |
-|     |                                  |               |               | ườ           |               | ớ   |               |     |     |     |     |     |     |                     |             |         |         |               |                              |     |     |                        |                       |     |               |     |
-|     |                                  |               |               |              |               |     |               |     |     |     |     |     |     | ngoaị khóa đa daṇ |             |         |         | g, phong phú. |                              |     |     |                        |                       |     |               |     |
-Crown Accreditation (AACSB, EQUIS, AMBA)
-Top 226 QS World University Rankings (QS 2026) Ph ng pháp daỵ  và hoc̣  nhăm̀  phát tri n t  duy ph n bieṇ̂ , năng l c gi i
-|     |     |     |     |     |     |     |     |     |     |     |     |     |     |             | ươ  |                     |     |     |         |        | ể                | ư   | ả                    |     | ự   | ả     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----------- | --- | ------------------- | --- | --- | ------- | ------ | ---------------- | --- | -------------------- | --- | --- | ----- |
-|     |     |     |     |     |     |     |     |     |     |     |     |     |     | quyêt́ vâń |     |  đê ̀và kêt́ nôí v |     |     | i coṇ̂ | g đôǹ | g doanh nghiep̣̂ |     |  Vieṭ̂ Nam và quôć |     |     |  tê.́ |
-ớ
-|           |     |               |      |     |     |     |     |     |     |     |     |     |     | Các gi |         | ng viên n |         | c ngoài và gi |     | ng viên hàng đâù |     |     |  c  | a ĐH Kinh tê ́Quôć |     |  dân |
-| --------- | --- | ------------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ------ | ------- | --------- | ------- | ------------- | --- | ----------------- | --- | --- | --- | ------------------- | --- | ---- |
-|           |     |               |      |     |     |     |     |     |     |     |     |     |     |        |         | ả         | ướ      |               |     | ả                 |     |     | ủ   |                     |     |      |
-| VIEṆ̂    |     |  (cid:17)UÔC |  TÊ |     |     |     |     |     |     |     |     |     |     |        |         |           |         |               |     |                   |     |     |     |                     |     |      |
-|  ĐÀO TAỌ |     |               |      |     |     |     |     |     |     |     |     |     |     | tr     | c tiêṕ |  gi       | ng daỵ | .             |     |                   |     |     |     |                     |     |      |
-|           |     |               |      |     |     |     |     |     |     |     |     |     |     |        | ự       | ả         |         |               |     |                   |     |     |     |                     |     |      |
-info.bbae@isneu.org
-| Phòng TVTS, S |     |     | ả nh G, Toà A2, ĐH KTQD, 207 Gi |     |     | ả   | i Phóng, Hà Noị̂ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| ------------- | --- | --- | ------------------------------- | --- | --- | --- | ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-134 |     Đ ẠI  H Ọ C  KI N H  TẾ  Q U Ố C D Â N isme.neu.edu.vn Thông tin tuyển sinh Đại học chính quy năm 2026     | 135
-| (0  | 2 4 )   3 | 6   2 8 0 |   2 8 0   / máy l | ẻ : 5339, 5340, 5342, 5344 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --------- | --------- | ----------------- | -------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-CCáácc cchhưươơnngg ttrrììnnhh
-LLiiêênn kkếếtt qquuốốcc ttếế
+- Mô hình 4+0: học hệ chính quy tại Đại học Kinh tế Quốc dân và nhận bằng Cử nhân Quản trị kinh doanh, Chương trình Khởi nghiệp và Phát triển kinh doanh bằng tiếng Anh (B-BAE).
+- Mô hình chuyển tiếp 2+2 hoặc 3+1: tùy lựa chọn trường đối tác, sinh viên có thể nhận bằng Quản trị kinh doanh với các hướng chuyên ngành như Quản trị công nghệ, Khởi nghiệp và đổi mới, Quản trị chuỗi cung ứng, Kinh doanh quốc tế, Kế toán, Kinh tế học, Marketing, Tài chính và Quản trị nguồn nhân lực.
+
+TRẢI NGHIỆM HỌC TẬP THỰC TIỄN VÀ QUỐC TẾ
+
+- Giao lưu quốc tế; tham gia dự án kinh doanh cùng học viên cao học EMBA của Boise State University; hoạt động trao đổi sinh viên quốc tế.
+- Phát triển chuyên môn và gắn kết doanh nghiệp thông qua diễn giả khách mời, cố vấn nghề nghiệp 1-1 và chuyến tham quan doanh nghiệp.
+- Phát triển tư duy sáng tạo, kỹ năng vận hành và giải quyết vấn đề trong môi trường doanh nghiệp.
+
+THÔNG TIN TRƯỜNG ĐỐI TÁC
+
+- Đại học Boise State, Mỹ: thành lập năm 1932 tại bang Idaho; thuộc nhóm 6% trường đào tạo kinh doanh trên thế giới đạt chứng nhận AACSB.
+- Đại học Lincoln, Vương quốc Anh: thành lập năm 1861; thuộc nhóm 601–800 theo THE World University Rankings 2026 và top 64 đại học tốt nhất Vương quốc Anh theo The Guardian 2026.
+- Đại học Công nghệ Queensland, Úc: thành lập năm 1909; đạt ba kiểm định AACSB, EQUIS và AMBA; xếp hạng 226 theo QS World University Rankings 2026.
+
+ĐẶC ĐIỂM CHÍNH
+
+- Chương trình được chuyển giao nội dung và công nghệ từ Boise State University.
+- Cơ hội học tập linh hoạt và chuyển tiếp tại Anh, Úc hoặc Mỹ.
+- Môi trường học tập quốc tế, chú trọng sáng tạo, hoạt động ngoại khóa và kết nối cộng đồng doanh nghiệp.
+- Giảng viên nước ngoài và giảng viên hàng đầu của Đại học Kinh tế Quốc dân trực tiếp giảng dạy.
+
+- Mã tuyển sinh: EP01
+- Tổ hợp tuyển sinh: A00, A01, D01, D07
+- Email: info.bbae@isneu.org
+- Địa chỉ: Phòng Tư vấn tuyển sinh, sảnh G, tòa A2, Đại học Kinh tế Quốc dân, 207 Giải Phóng, Hà Nội.
+- Điện thoại: (024) 36 280 280, máy lẻ 5339, 5340, 5342, 5344.
+134 | ĐẠI HỌC KINH TẾ QUỐC DÂN — Thông tin tuyển sinh Đại học chính quy năm 2026 | 135
+
+CÁC CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ
 136 | ĐẠI HỌC KINH TẾ QUỐC DÂN Thông tin tuyển sinh Đại học chính quy năm 2026 | 137
 
 KHÁM PHÁ VIỆN ĐÀO TẠO QUỐC TẾ (ISME)
@@ -3593,7 +3506,7 @@ MÔ HÌNH ĐÀO TẠO LINH HOẠT
 Sinh viên có thể lựa chọn học hoàn toàn tại Việt Nam
 hoặc chuyển tiếp sang Anh, Mỹ, Úc để hoàn thành
 chương trình.
-MÔI TRƯỜNGHỌC TẬP TOÀN DIỆN
+MÔI TRƯỜNG HỌC TẬP TOÀN DIỆN
 Không chỉ chú trọng phát triển kiến thức chuyên môn,
 chương trình còn giúp sinh viên rèn luyện tư duy độc lập,
 trí tuệ cảm xúc và nền tảng văn hóa thông qua trải nghiệm

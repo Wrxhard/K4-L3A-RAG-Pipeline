@@ -160,7 +160,6 @@ xS_
 
 ## Trang 4
 
-3 KH
 
 17. Dự tuyển là việc một thí sinh tham dự quy trình tuyển sinh vào chương trình đào
 tạo của một Đại học, thông qua việc đăng ký nguyện vọng xét tuyển trên Hệ thống hỗ trợ
@@ -213,13 +212,11 @@ a) Về cung cấp thông tin: thí sinh được cung cấp thông tin đầy �
 nhất quán, kịp thời để đưa ra quyết định phù hợp và chuẩn bị tốt nhất cho việc tham gia
 tuyển sinh;
 
-NN
 
 4
 
 ## Trang 5
 
-4 LH
 
 b) Về cơ hội dự tuyển: bảo đảm không thí sinh nào bị mất cơ hội dự tuyển do những
 quy định không liên quan tới trình độ, năng lực hoặc do quy trình tuyển sinh gây phiền
@@ -276,11 +273,9 @@ a) Người đã được công nhận tốt nghiệp THPT, trung học nghề c
 của nước ngoài được công nhận trình độ tương đương với THPT, trung học nghề của Việt
 Nam do các đơn vị chức năng xác định;
 
-NN
 
 ## Trang 6
 
-: Lm
 
 b) Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự
 tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định
@@ -341,7 +336,6 @@ c
 
 ## Trang 7
 
-6 ù
 
 3. Nguồn xét tuyển vào chương trình đào tạo trình độ đại học chính quy là thí sinh
 có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng
@@ -358,7 +352,7 @@ ngoại ngữ) đăng ký xét tuyển đại học, Đại học xây dựng v�
 chứng chỉ ngoại ngữ và điểm xét môn ngoại ngữ:
 
 a) Bảng quy đổi kết quả chứng chỉ ngoại ngữ Tiếng Anh và điểm xét môn ngoại ngữ
-xây dựng phải có tối thiều 05 mức điểm chênh lệch ứng với thang điểm của chứng chỉ sử
+xây dựng phải có tối thiểu 05 mức điểm chênh lệch ứng với thang điểm của chứng chỉ sử
 dụng;
 
 b) Bảng quy đổi kết quả chứng chỉ ngoại ngữ khác và điểm xét môn ngoại ngữ tương
@@ -450,7 +444,6 @@ trường mà thí sinh theo học sau cùng:
 ## Trang 9
 
 8
-| Đng
 
 c) Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt
 nghiệp THPT (hoặc trung cấp, trung học nghề) và một năm kế tiếp.
@@ -509,8 +502,6 @@ chương trình đào tạo phù hợp với quy định của Bộ GDĐT;
 
 9
 
-|
-
 b) Thí sinh là người Việt Nam học tập cấp THPT, trung học nghề ở nước ngoài hoặc
 học tập chương trình giáo dục nước ngoài bằng tiếng nước ngoài ở Việt Nam đạt trình độ
 tương đương với trình độ THPT, trung học nghề của Việt Nam và đạt chuẩn năng lực
@@ -564,7 +555,6 @@ môn đào tạo;
 
 ## Trang 11
 
-10 mm
 
 - Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại giỏi trở lên;
 
@@ -575,7 +565,7 @@ khá và có 03 năm kinh nghiệm công tác đúng với chuyên môn đào t�
 cho các chương trình đào tạo và phương thức tuyển sinh trước thời gian kết thúc đăng ký dự
 tuyển theo kế hoạch tuyển sinh hằng năm và yêu cầu của chuẩn chương trình đào tạo.
 
-Đồi với ngưỡng đầu vào chương trình đào tạo thuộc lĩnh vực pháp luật ngưỡng đầu
+Đối với ngưỡng đầu vào chương trình đào tạo thuộc lĩnh vực pháp luật, ngưỡng đầu
 vào do Đại học xác định không được thấp hơn quy định tại Điều này.
 
 Điều 10. Bảo lưu kết quả trúng tuyển
@@ -668,7 +658,6 @@ tuyển sinh của Đại học.
 
 ## Trang 13
 
-1 kh
 
 Điều 14. Phương thức xét tuyển liên thông đại học chính quy
 
@@ -805,7 +794,7 @@ bố trong thông tin tuyển sinh.
 1. Đại học công bố điểm trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các
 chương trình đào tạo theo các phương thức tuyển sinh, cam kết thông tin công bố chính
 xác và chịu trách nhiệm về kết quả công bố trúng tuyển; tổ chức cho thí sinh tra cứu kết
-quả trúng tuyển (điểm của thí sinh và tên phương thức trúng tuyển) trên trang thông tn
+quả trúng tuyển (điểm của thí sinh và tên phương thức trúng tuyển) trên trang thông tin
 điện tử của Đại học (hoặc của nhóm Đại học phối hợp xét tuyển); giải đáp thắc mắc của
 thí sinh và xã hội (nếu có) về kết quả công bố.
 
@@ -839,7 +828,6 @@ khác hoặc ở các đợt xét tuyển bổ sung trong năm tuyển sinh, tr�
 
 ## Trang 16
 
-15 vn
 
 Điều 20. Tổ chức đăng ký và xét tuyển các đợt bổ sung
 
@@ -894,14 +882,13 @@ các thí sinh.
 
 ## Trang 17
 
-16 an
 
 2. Điểm xét thưởng (điểm cộng) dành cho các đối tượng thí sinh đã tốt nghiệp Trung
 cấp, Cao đẳng, Đại học (thành tích học tập): Thí sinh tốt nghiệp từ trung cấp trở lên được
 cộng (+) 1,5 (một phây năm) điêm.
 
 3. Điểm khuyến khích (điểm cộng) dành cho các đối tượng thí sinh vừa làm vừa
-học. Cụ thê:
+học. Cụ thể:
 
 - Thí sinh tốt nghiệp THPT tại năm xét tuyển không được cộng điểm khuyến khích
 dành cho đôi tượng vừa làm vừa học;
@@ -1062,7 +1049,7 @@ của Bộ GDĐT và Quy chế tuyển sinh đại học của ĐH KTQD.
 
 2. Xét tuyển kết hợp: Đại học áp dụng tối đa 05 phương thức xét tuyển. Các phương
 thức xét tuyển dựa vào kết quả học tập bậc THPT, kết quả học tập ở bậc Cao đẳng, Đại
-học, cụ thê:
+học, cụ thể:
 
 - Đối với thí sinh có bằng tốt nghiệp Đại học/cao đẳng: xét tuyển theo điểm trung bình
 chung tích lũy của toàn khóa học theo bảng điểm đại học/cao đẳng (theo thang điểm 10).
@@ -1125,7 +1112,6 @@ giấy theo thời hạn nộp hồ sơ trong thông báo tuyển sinh.
 
 ## Trang 21
 
-20 ỳ
 
 Điều 32. Xét tuyển và xử lý nguyện vọng
 
@@ -1184,7 +1170,6 @@ c) Uỷ viên thường trực: Trưởng phòng Quản lý đào tạo đối v
 
 ## Trang 22
 
-21 lu
 
 chính quy; Trưởng khoa Đại học tại chức đối với tuyển sinh đại học vừa làm vừa học;
 Giám đốc Trung tâm đào tạo từ xa đối với tuyển sinh đào tạo từ xa;
@@ -1230,7 +1215,7 @@ Tổng kết công tác tuyển sinh; quyết định khen thưởng, kỷ luậ
 
 a) Tổ chức thực hiện và chịu trách nhiệm về công tác tuyển sinh của Đại học;
 
-b) Thành lập các ban giúp việc cho HĐTS đề triển khai công tác tuyển sinh.
+b) Thành lập các ban giúp việc cho HĐTS để triển khai công tác tuyển sinh.
 
 c) Phó Chủ tịch HĐTS thực hiện các nhiệm vụ được Chủ tịch HĐTS phân công và
 thay mặt Chủ tịch HĐTS giải quyết công việc khi Chủ tịch HĐTS uỷ quyền.
@@ -1288,7 +1273,7 @@ d) Hoàn thành thanh toán lệ phí tuyển sinh trước khi kết thúc th�
 
 2. Trách nhiệm của Đại học:
 
-a) Xây dựng quy chế tuyển sinh riêng đề cụ thể hóa những quy định cho các hình
+a) Xây dựng quy chế tuyển sinh riêng để cụ thể hóa những quy định cho các hình
 thức đào tạo, công khai trên trang thông tin điện tử của Đại học.
 
 b) Tổ chức tuyển sinh theo thông tin tuyển sinh và quy chế tuyển sinh đã ban hành,
@@ -1296,7 +1281,7 @@ tuân thủ các quy định của Quy chế này và các quy định pháp lu�
 trách nhiệm giải trình với Bộ GDĐT, các cơ quan có thẩm quyền và xã hội về toàn bộ
 công tác tuyển sinh của Đại học.
 
-9) Tổ chức rà soát thông tin tuyển sinh, tiền hành kiểm tra nội bộ, hậu kiểm hoạt
+c) Tổ chức rà soát thông tin tuyển sinh, tiến hành kiểm tra nội bộ, hậu kiểm hoạt
 động tuyển sinh; chủ động giải quyết các rủi ro phát sinh của Đại học; giải quyết đơn thư
 phản ánh, khiếu nại, tố cáo và xử lý vi phạm liên quan tới công tác tuyển sinh của Đại
 học theo quy định của Quy chế này và quy định của pháp luật có liên quan.
@@ -1307,7 +1292,7 @@ tuyển của thí sinh; kết quả xét tuyển của thí sinh; thông tin v�
 
 ## Trang 24
 
-23 |\ VN
+23
 sinh; thông tin về phương thức tuyển sinh đã thông báo tuyển sinh trên Hệ thống của Bộ
 GDĐT.
 
@@ -1363,8 +1348,6 @@ liên quan chịu trách nhiệm thi hành Quy chế này.
 3. Hàng năm, Quy chế này được bổ sung, sửa đổi, cập nhật theo quy định và hướng
 dẫn của Bộ GDĐT.
 
- ~
-
 ## Trang 25
 
 24
@@ -1372,8 +1355,3 @@ dẫn của Bộ GDĐT.
 4. Trong quá trình thực hiện, nếu có vấn đề phát sinh cần điều chỉnh, bổ sung, các
 đơn vị, cá nhân phản ánh về phòng Quản lý đào tạo để tổng hợp, báo cáo Giám đốc Đại
 học xem xét, quyết định.
-
-7© ĐẠI HỌC \9Ì
-(gi KINH TẾ Z2
-
-"<=s«ze—==<=

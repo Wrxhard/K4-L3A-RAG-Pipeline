@@ -322,7 +322,7 @@ Khoa học xã hội và hành vi: Điều dưỡng và phát triển; Tâm lý;
 Tâm lý xã hội và xã hội học;...
 
 Ngành tuyển thẳng: Tất cả các ngành trừ ngành Ngôn ngữ Anh; Công nghệ thông tin; Khoa học máy tính;
-hội và hành vi nhận thức; Tâm lý xã hội và xã hội học;... Toán kinh tê, An toàn thông tin; Hệ thông
+hội và hành vi nhận thức; Tâm lý xã hội và xã hội học;... Toán kinh tế; An toàn thông tin; Hệ thống
 thông tin; Kỹ thuật phần mềm; Khoa học dữ
 liệu; Trí tuệ nhân tạo.
 —~ Hóa-Sinh phân tích; Hóa-Sinh tổng hợp; ,
@@ -358,7 +358,7 @@ Khí quyển; Khí hậu; Ảnh hưởng của môi
 trường lên hệ sinh thái; Địa chất; Nước;...
 
 Kỹ thuật mạch; Vĩ điều khiển; Giao tiếp
-mạng và dữ liệu; Quang học; Cảm biên; Gia
+mạng và dữ liệu; Quang học; Cảm biến; Gia
 công tín hiệu;...
 
 Hệ thống
@@ -447,23 +447,23 @@ nghiệp; Kinh tế tài nguyên thiên nhiên;
 liệu liệu điện tử, quang và từ; Vật liệu nano; Pô- ân lý tài TU
 polyme;... Quản lý tài nguyên và môi trường
 Đại số; Phân tích; Rời rạc; Lý thuyết Game
-16 Toán học và Graph; Hình học và Tô pô; Lý thuyết sô; Tắt cả các ngành trừ Ngôn ngữ Anh
+16 Toán học và Graph; Hình học và Tô pô; Lý thuyết số; Tất cả các ngành trừ Ngôn ngữ Anh
 Xác suất và thống kê;...
 Vi trùng và kháng sinh; Vì sinh ứng dụng; Ì
 i7 Vi Sinh Vi khuẩn; Vì sinh môi trường; Kháng sinh Không tuyển
-tông hợp; Vi-rút,...
+tổng hợp; Vi-rút,...
 Thiên văn học và Vũ trụ học; Vật lý nguyên
 phân lu vn hong học; Lý - Sun vớ lý Hệ thống thông tin quản lý; Khoa học máy
 Ax Ðở xà trên máy tính; Vật lý thiên văn; Vật liệu đo;
 Vật lý và Thiên văn: Hệ thống thông tin quản lý; Khoa học máy tính; Công nghệ thông tin; An toàn thông
 18 An Từ, Điện từ và Plasma; Cơ học; Vật lý hạt cơ
 Thiên văn N_— Ễ í tin; Hệ thống thông tin; Kỹ thuật phần
-bàn về hạt nhân; Quang Họe; La-de: Tìm mềm; Khoa học dữ liệu; Trí tuệ nhân tạo
+cơ bản về hạt nhân; Quang học; La-de; Tìm kiếm; Khoa học dữ liệu; Trí tuệ nhân tạo
 phát sóng điện từ; Lượng tử máy tính; Vật . : . :
-lý lý thuyêt;...
+lý lý thuyết;...
 Nông nghiệp; Mối liên hệ và tương tác với ,
 19 Khoa học Thực | môi trường tự nhiên; Gen và sinh sản; Tăng Kinh tế nông nghiệp;
-vật trưởng và phát triền; Bệnh lý thực vật; Sinh Kinh doanh nông nghiệp
+vật trưởng và phát triển; Bệnh lý thực vật; Sinh lý thực vật; Kinh doanh nông nghiệp
 lý thực vật; Hệ thống và tiến hóa...
 Hệ thống thông tin quản lý; Khoa học máy
 tính; Công nghệ thông tin; Phân tích dữ

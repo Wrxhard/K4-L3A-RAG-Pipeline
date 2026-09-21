@@ -91,22 +91,40 @@ def load_documents() -> list[dict]:
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
     """Chia Document thành chunks có id và chunk_index."""
-    # TODO: Chunk bằng RecursiveCharacterTextSplitter.
-    #
-    from langchain_text_splitters import RecursiveCharacterTextSplitter
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=CHUNK_SIZE,
-        chunk_overlap=CHUNK_OVERLAP,
-        separators=["\n\n", "\n", ". ", " ", ""],
-    )
     chunks = []
     for document in documents:
-        for index, text in enumerate(splitter.split_text(document["content"])):
+        for index, text in enumerate(_split_text(document["content"])):
             chunks.append({
                 "id": f"{document['id']}::chunk-{index}",
                 "content": text,
                 "metadata": {**document["metadata"], "chunk_index": index},
             })
+    return chunks
+
+
+def _split_text(text: str) -> list[str]:
+    """Split text without importing the embedding stack."""
+    if not text:
+        return []
+
+    separators = ("\n\n", "\n", ". ", " ")
+    chunks: list[str] = []
+    start = 0
+
+    while start < len(text):
+        limit = min(start + CHUNK_SIZE, len(text))
+        boundaries = [
+            text.rfind(separator, start, limit) + len(separator)
+            for separator in separators
+            if text.rfind(separator, start, limit) >= start
+        ]
+        end = max(boundaries, default=limit)
+        chunks.append(text[start:end])
+
+        if end >= len(text):
+            break
+        start = max(start + 1, end - CHUNK_OVERLAP)
+
     return chunks
 
 
